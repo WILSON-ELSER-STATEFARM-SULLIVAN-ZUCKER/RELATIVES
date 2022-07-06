@@ -5,6 +5,26 @@
     Alan Rubin <alan.rubin@wilsonelser.com>,
     Alan Morrison <ajm157@columbia.edu>,
     Alan Rubin <alan.rubin@wilsonelser.com>
+    
+# Subject:     Fwd: Re: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC.
+	Date:     Tue, 31 May 2022 08:18:05 -0500
+	From:     B D2022 <ms60710444266@yahoo.com>
+	To:     Yana Siegel <yana.siegel@wilsonelser.com>, WILLIAM BEHR <william.behr@wilsonelser.com>, Urvashi Sinha <urvashi.sinha@wilsonelser.com>,
+	Thomas R. Manisero <thomas.manisero@wilsonelser.com>, Suzanne S. Swanson <suzanne.swanson@wilsonelser.com>,
+	Stephen J. Barrett <stephen.barrett@wilsonelser.com>, Stacey L. Seltzer <stacey.seltzer@wilsonelser.com>,
+	Sean Wagner <sean.wagner@wilsonelser.com>, Roger R. Gottilla <roger.gottilla@wilsonelser.com>,
+	Ricki Roer <ricki.roer@wilsonelser.com>, Ricki Roer <ricki.roer@wilsonanddicker.com>,
+	ricki.raared@wilsonsdickers.com <ricki.raared@wilsonsdickers.com>, patricia.wik@wilsonelser.com,
+	meghan.rigney@wilsonelser.com, Lori Semlies <lori.semlies@wilsonelser.com>, Lois K. Ottombrino <lois.ottombrino@wilsonelser.com>,
+	Lauren M. Zink <lauren.zink@wilsonelser.com>, Kathleen A. Mullins <kathleen.mullins@wilsonelser.com>, jwilson578@bloomberg.net,
+	judy.selmeci@wilsonelser.com, Jennifer L. Sciales <jennifer.sciales@wilsonelser.com>, Jennifer M. Provost <jennifer.provost@wilsonelser.com>,
+	info@wilsonelser.com, Hannah.King@WILSONELSER.COM, grace.song@wilsonelser.com, erin.zecca@wilsonelser.com, ellyn.wilder@wilsonelser.com,
+	elizabeth.scoditti@wilsonelser.com, Debra Tama <debra.tama@wilsonelser.com>, Daniel F. Flores <daniel.flores@wilsonelser.com>,
+	curt.schlom@wilsonelser.com, craig.hunter@wilsonelser.com, craig.brinker@wilsonelser.com, Corrine Shea <corrine.shea@wilsonelser.com>,
+	carole.nimaroff@wilsonelser.com, aviva.stein@wilsonelser.com, Ashley V. Humphries <ashley.humphries@wilsonelser.com>,
+	Angelique Sabia-Candero <angelique.sabia-candero@wilsonelser.com>, angel.vitiello@wilsonelser.com, Andrea Shiffman <andrea.shiffman@wilsonelser.com>,
+	Amy Hanrahan <amy.hanrahan@wilsonelser.com>, alex.kress@wilsonelser.com, ALDEN 00066govtIdx WILSON <alden.wilson@maine.gov>, Alan Rubin 	<alan.rubin@wilsonelser.com>
+
 
 
 Hon. Nancy T. Sunshine.
