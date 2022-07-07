@@ -1,0 +1,207 @@
+From - Mon Jun 20 18:39:36 2022
+X-Account-Key: account1
+X-UIDL: AOFWKR4fpT5LYqvZrQB5GLAI5fM
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.105
+ by atlas102.free.mail.bf1.yahoo.com with HTTPS; Fri, 17 Jun 2022 01:32:26 +0000
+Return-Path: <slaskowitz@ingramllp.com>
+X-Originating-Ip: [40.107.93.115]
+Received-SPF: pass (domain of ingramllp.com designates 40.107.93.115 as permitted sender)
+Authentication-Results: atlas102.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@ingramllp.com header.s=selector1;
+ spf=pass smtp.mailfrom=ingramllp.com;
+ dmarc=pass(p=REJECT) header.from=ingramllp.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 17 Jun 2022 01:32:26 +0000
+X-YMailAVSC: wYHeeAg3bBvnJLx0MAhME_E30ALgRykoPYCbBxht2GfwKEF
+ qR2BWV.am_mcHrDU8zt3ITAixOxMuOQPZMOLW0.9SubrOpDochC1oMvrF.SN
+ vXn8qT27bi.U65MNP0Vx7tiIPiM5fuIgUokJ_x3SJRQWeXb040gujPdlTDpI
+ 5TQv6D6ZXnGXyBMCZlpxk4nOausPnhahSCkwve9jl18No56Fn01G6nFzACps
+ NoURemHx5XZqn8EMQRjDlbXYgYvbH0qu1nV4osGtSC_TbpdWnd9HjXG9sXEP
+ HLCIKXLoA1415iBkrgBLm7TFCRi3SiXqjvt1ApZMok0OrQiIXboY2r0oKX5j
+ Q
+X-YMailISG: 4QlRVFoWLDs6aMtZp.PWRIWMouoA0fsNy9QGXF01V9epNsQ0
+ lcZSA7q8AB2L.et8SAEvKMXnsHL5Zt8ux1FydWNKFCMjVVIIH9CpXnh7lQB6
+ 2mSIRg1ObWVbShAV7akmB7aSNrQvKNylMbTq7uqPVFtFuRNZobsbDAK19XDJ
+ HlZhZoV54z9UjaFwgDGhYN5krYJqwqh34h4myEdSzaNMY2CwZmhiSv86QeT6
+ Y9szRn9sAMWeVbdPh9n3Xiz6JZpfba18.bYcyngUnlNU6mmLSZZO2kyWutzD
+ Y9ws5Dkyhg8jbo9RgNkDUyY6VJeRLe7tqin1Uueuu8GvifsEfvkyhbPI7ClR
+ u5Rz9Z43ZhLLb6VStCSMWQNpW1VKIcQnPF4QSbISIQREmgevQdWBBDypzfFp
+ IJTyBVg7tUCNsfcALl5JDqyijvkx0eaoZA0b0kjJY7Efl3Kf5kliK_n4F0xK
+ A5An83VIzYXy791tpXh5BWz8bn4jKk2OxIkn6ROueEjcStzHsg8MNtZMlmpV
+ 9AynOiiNFXEGPlooV0lLjN2QtoXdKwHnZc1xm5IwzdguxofnzgjaygWDI4lI
+ rj9.25ekTUMXO.Zm29fkZMOSZ0o8LjAAta6iUdFYg6I.O0a07JQadq_Drxi6
+ _UPPdepGVU5Y2THwj58Ai5iz9Th8mgkqWmMu_0s8Sg1v3if5L0B2gd9H5.aP
+ FJ85LTksMyerDJgsXquHx1JkYJVu6zTL6aZ.Av0T.IUdSNiyJa4xfXx2Izc6
+ _jvDRjMBCyQzJGxHBibkDrDSQsTQYRrLk_GCqhgscThhl5gGMzJTOBgbx6GJ
+ S_H5dxL7aFF_6vrxbYSjh0L4RE6zWTZThWFkcPcZgfwoEFKHKFFg3A4CHwQV
+ _ilki.NpPx7p_3bJu5qIuCi0MZ0x3j0KFhxSxtoJIrxSAh83kugAFlV3XCox
+ bmI5u63hXTiRb_PvZSxMFKnua93y1Lq2JaEKGpYFSXwUhGMfGadm_NT_E9rH
+ L2kRwN7MIXuuyaslSHC757hH3dv5U3u745JnyPMhWodEEzdDRKpjUIir2kRo
+ T17VWzOuMOgWaMpJRz_B3r2f0L1NB1TxOdY6W27eQZnstK.QyQqHDPn4kqQQ
+ je5Hs.LjNWDoaQ7Bj2di61IHpicP4gnnmc0eF4u5cmKObTk.Ziy6WPXmWKvm
+ 5hdS3O5gnkNjwkHYTPuwxheyknQhV7C7bDovFBi18eBWq8cMalvFUzNGG6P_
+ gRR.J5usUC0WIiFoQFBp0hRkirrYAKfEOW9E16pwTZilHqlALE39zr.tnhZB
+ MwvaQNBivcGsNJQ70ENd2sU_PwpSTzmxvGj71XQU.QamGqRDVLPLV.H5XQ--
+Received: from 40.107.93.115 (EHLO NAM10-DM6-obe.outbound.protection.outlook.com)
+ by 10.197.40.105 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 17 Jun 2022 01:32:26 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=KMvnjiy0t5y2krZK/pVD9QXHUplVzQ4QKxfUwpeFR1xX05fRvcKtDqsSns9FSt7gAaAxYOxaIvq7yAJJ+ceW/hH/IUVzzyrsjtzGofhcPZxSTAqM8M0XIVjKco8WDTYkKl7am4fGAv8nzM3JycBtKgv4B36l6ioS9AxdPrSa6lDXPpcqbiH15ij/gsYcOUK2JWSR/D7Reqxgoep/xlyk6YyWGJ2uy7iceXlbicl9qkVwXFyJRHVQy0+tddLpnkrdnvh/AN2SQzd/AWGDdkar0nsOFnxno9di0U3V2xz4WQsuQhtbECp+I3ZN40kAdbYv/CicV12dHKhyKLWwzMbCMw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=sinSYIA64TXPS9djsRvIlrCOrZddH5z3O1wMBMXw56U=;
+ b=SFcAUbGWe1ppBUZFmc92WLdcmjeaCXBOwwsrEwsJIlo4e+y9qFPI/HWNxHuxszgta2dkNg1wza9mJeQ65ZJ6RXEjD3aFlGnqRB0DgnqZAQoMe1Zv0gTxzWyWW1Ximi/1GYy9Q+cmbzZfNoHzlha5vWkJSMTqeiMRJr6PloopRw/uXqLpPmwfpnX3P+1Kfvbkt9ZDfiJBS66F3zoQ3YdX3DpX//JlrqkU18QgFUrqYL0xnENl1Z+gEBMW9vr4UyGYpH/D4IdNI77ronqMfY0ZWN7P4PjDGOy8ksZ91uhM9UMZuojQNuLh8kBuRAag+a/7YrZAutsS94y84QHfukK6HA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=ingramllp.com; dmarc=pass action=none
+ header.from=ingramllp.com; dkim=pass header.d=ingramllp.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ingramllp.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=sinSYIA64TXPS9djsRvIlrCOrZddH5z3O1wMBMXw56U=;
+ b=v8HfjcFkAR86tY9D+2vjfpYekepFK+w45vlm+s/KvaeGk9PKM+iVlnPmFwMM+kXkOZh8kI2yqVl26nCLdQuvW9/xB0nuQ7gNUgrMU1tvlpwmNBfyULuukQL6g/vgBogt15pcxfZu/9qJE04Z+t4LP4S6yD+QSZWxofL1Ow7JrFU=
+Received: from DM6PR12MB3483.namprd12.prod.outlook.com (2603:10b6:5:11f::14)
+ by BL1PR12MB5141.namprd12.prod.outlook.com (2603:10b6:208:309::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5353.15; Fri, 17 Jun
+ 2022 01:32:25 +0000
+Received: from DM6PR12MB3483.namprd12.prod.outlook.com
+ ([fe80::344e:be21:dd3a:1b51]) by DM6PR12MB3483.namprd12.prod.outlook.com
+ ([fe80::344e:be21:dd3a:1b51%5]) with mapi id 15.20.5332.014; Fri, 17 Jun 2022
+ 01:32:25 +0000
+From: "Laskowitz, Shari" <slaskowitz@ingramllp.com>
+To: Dincer18 <ms60710444266@yahoo.com>
+Subject: Read: **** EMAIL DISTRIBUTION - OMISSION AND A HUGE RISK - IN THE
+ WORDS OF PWC... FILED.
+Thread-Topic: **** EMAIL DISTRIBUTION - OMISSION AND A HUGE RISK - IN THE
+ WORDS OF PWC... FILED.
+Thread-Index: AQHYeuPt2bOQDGsTPk2lrDLK1rHlzQ==
+Date: Fri, 17 Jun 2022 01:32:25 +0000
+Message-ID: <16288e98bea04572941c610d0e0e1171@ingramllp.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 4926ce79-b5e6-4dc6-7927-08da50013be5
+x-ms-traffictypediagnostic: BL1PR12MB5141:EE_
+x-ld-processed: 7247ce07-5343-4884-a372-fdb39dbc24bc,ExtAddr
+x-microsoft-antispam-prvs:
+ <BL1PR12MB5141FD340B318295C728229BC2AF9@BL1PR12MB5141.namprd12.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ JsGRi0TPQmVlVB46r9+Ujdh4mUrVN6dOkbwVcQx2NLdZkyofYKcMBRJ0YeFCE4XL3YdgQlQjn3gsachYEYUkM+RgQaywl+GpzZEqJNZj8Rx7UNjiaNB8zhxEHEwIHVzBAWoBaZ1rwWtD+xMmN3ULELsbHmkADrai35qJguWxME3MfW7kXaw/LVRh91XX1KhWsgctGE11wU5ec+ElEu4er0WXTw6BNqyF0D+Fs0langVbOhNLx5BA+k4MyC5N9SZ5SLf7urTwJu8784JheMJRx5ejtM/4Bg194mPaz6SMB+MsySgvAS91g8Y55ncSDof+7cio42nLdPjPjeN/q0TRHh/fnOBmmATsfRe+pbrf4rJTQf+39MKpQOJSLa1QAWWuOsyv477LjBxS93Q4LvvgrWr7iPtrSw5A6011VbDxphO7bQbad9lNQa82AOVCbeik
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM6PR12MB3483.namprd12.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(346002)(136003)(39850400004)(366004)(396003)(41300700001)(8676002)(186003)(66476007)(66446008)(66556008)(66946007)(73894004)(64756008)(2616005)(508600001)(6916009)(71200400001)(6486002)(36756003)(621065003)(88996005)(316002)(8936002)(2906002)(122000001)(6506007)(4270600006)(24736004)(6512007)(108616005)(86362001)(14583001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?vvYIvqwYxKSDDHsCoLLaX9R+iC4halh+dDsUQKWvSzetYiuRIKk5fKwmj8Q0?=
+ =?us-ascii?Q?hensTjp/Wn9aGuRA2hvtBAPMde9UvdREh41wXbuWcmZY4ZG6eTc4tRcXrvu0?=
+ =?us-ascii?Q?6mSww6ZVkIRmMikYCYemEwyH5w/b1zXg70HvlB07bYld/VDJr+PvB5CVsa/W?=
+ =?us-ascii?Q?Fdvwp61KrltKmitrOE5N4872fGZzG6rYPRKVBrE+QlHlYun0DTBmF8a0/V4l?=
+ =?us-ascii?Q?P2OeU/gnn+gDQ1vQPbCk1N5F7T+wvVvYTyzxOU4YoBJ3EQIARFc9XRa/xkMQ?=
+ =?us-ascii?Q?kcnrCtgwjwzGL9/V/2AB8d6YAdYHorDWzwVfyMHZ4UBj0nE5j9J5oCcOr7E0?=
+ =?us-ascii?Q?+PiGYHeJnPv2v6V9q6Ym2L4vtk+GwR7Y6bpAqP4LU/1aJ+17iNnRhSlLP/pn?=
+ =?us-ascii?Q?brX6bY+9PIuQ1F+/fNFGlspBYnI7ZjYBwERisvY/SFB15SA/vOz1edwZyB6n?=
+ =?us-ascii?Q?vL44W8EM3Xq6Y3Ieq1PD1Vb4IbPHIIZ3uB41n83eJduVjzmWXjDTWewKJYSD?=
+ =?us-ascii?Q?jA+EAMqJCm1ysKJWSO+maF2qPAOLaB4BDMUjWgFCcvYR2Rg7ttB7cXGjcQhs?=
+ =?us-ascii?Q?5kCJWhQjuzC1Z+Tw6aO+R1A6Qq1ST4aG+3cxcNVWPwmcxW7xaa4xV3xNTP4n?=
+ =?us-ascii?Q?/RLpKgdLFC23ipSvOA4Gq753RV8B3xWf4SIRypWc541EPp+h0yRmYWN8UYCt?=
+ =?us-ascii?Q?RsYt2pmkgNLG6r6iYNmRDbrKn7xoEjaDaJnKn7qm7qVhAfORWT52O3wIZCTc?=
+ =?us-ascii?Q?nmQTiCOtLuayhI6KCmxhnImhNgGrbvMJ6Ig/+9dLf/+mfI8LX+Er6vnMcsRD?=
+ =?us-ascii?Q?u+A/NXBjbA2y31YPSe1WdaNwXSubIqMowhkUhIKzo0URQ0gizxUR+MEjJEJ9?=
+ =?us-ascii?Q?JZdtApYZXlNNg5yChlkScwYIwUD/aVLmDAWnh/Ia+I15hSUkOqkw0s9tSv25?=
+ =?us-ascii?Q?lMrZtz01oDxL++55uhgZGEpHNnUbOT8r5JgcfEU5hYnQUfO3njfWiCb7uOep?=
+ =?us-ascii?Q?4EukRvRMIuD/HFdoVIodtH466CzXsjP82B1SHfrI5lCQGiyg1vHYndHi3qUI?=
+ =?us-ascii?Q?h3fFRzQumT6Ny2anrbSGH+XuVrDaRh4ZgxmjxvCUIiwVo5k6XsTih+4bg2lo?=
+ =?us-ascii?Q?zqttVSNXUTQDwoKvk60WMS6zpeMBTl5ddPw6jvulzCYsLUQQz6g3aYqcha8q?=
+ =?us-ascii?Q?uhsgsNkiz//t29jlQDKtI20gIi+w029F6bjHs6JHl6zIylFKSxIMxtec523A?=
+ =?us-ascii?Q?pT0Ab7GfijD9p0dvYL6ztC21KwMTnpoJGdDHVP/3SQBySfCJnN0em100MWUl?=
+ =?us-ascii?Q?kzAjgRQ+lZa+cieaGyBAVDtyZkVUDE7kB0ubN+fVldA/NreONgIVqPqgKqA6?=
+ =?us-ascii?Q?VNK1UOPvfb7xKEXfrfop0MrD0jXugvbfBIyoCwz+nEtggY108+rvGMdpvzQX?=
+ =?us-ascii?Q?0jT5BQP08X/6d0eYTIPtXNM5kgG/bNi3Ti55fcBsqa8W0DAeLkklCm2gdejT?=
+ =?us-ascii?Q?LApqxtR2FYzvFbCemV2dD4dZLnP/25lczFrq8TOlOzBQzLda8JNwGYDd/8xg?=
+ =?us-ascii?Q?dAz28cI0xFBq2LjLg3TQAQoxHCK77ESSjsfmXhc74NyDYGEo256oaXmnNOgs?=
+ =?us-ascii?Q?GDZDft5x8CG2CDclIqY3o9E=3D?=
+Content-Type: multipart/report;
+	boundary="_000_16288e98bea04572941c610d0e0e1171ingramllpcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: ingramllp.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM6PR12MB3483.namprd12.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4926ce79-b5e6-4dc6-7927-08da50013be5
+X-MS-Exchange-CrossTenant-originalarrivaltime: 17 Jun 2022 01:32:25.5805
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 7247ce07-5343-4884-a372-fdb39dbc24bc
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: tbCp/CeoEusTLuNL9kwjbzw6ukFtdN4UeE7b6Q6gsXdJAagO6/BP7KVkAo9YMHDt+X4glyDKIrRNYoWL2v3cIsms/DEhsX+1kFzsQyVXJSA=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL1PR12MB5141
+Content-Length: 2034
+
+--_000_16288e98bea04572941c610d0e0e1171ingramllpcom_
+Content-Type: multipart/alternative;
+	boundary="_002_16288e98bea04572941c610d0e0e1171ingramllpcom_"
+
+--_002_16288e98bea04572941c610d0e0e1171ingramllpcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Laskowitz, Shari
+   Subject: **** EMAIL DISTRIBUTION - OMISSION AND A HUGE RISK - IN THE WOR=
+DS OF PWC... FILED.
+   Sent: Tuesday, June 7, 2022 10:58:16 PM (UTC-05:00) Eastern Time (US & C=
+anada)
+
+ was read on Thursday, June 16, 2022 9:32:25 PM (UTC-05:00) Eastern Time (U=
+S & Canada).
+
+--_002_16288e98bea04572941c610d0e0e1171ingramllpcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Laskowitz, Shari<br>
+&nbsp;&nbsp; Subject: **** EMAIL DISTRIBUTION - OMISSION AND A HUGE RISK - =
+IN THE WORDS OF PWC... FILED.<br>
+&nbsp;&nbsp; Sent: Tuesday, June 7, 2022 10:58:16 PM (UTC-05:00) Eastern Ti=
+me (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, June 16, 2022 9:32:25 PM (UTC-05:00) Eastern Ti=
+me (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_16288e98bea04572941c610d0e0e1171ingramllpcom_--
+
+--_000_16288e98bea04572941c610d0e0e1171ingramllpcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; slaskowitz@ingramllp.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: +F7fQCDNNk60PQVHnjpglQ==
+Original-Message-ID: <313d747f-b035-0deb-5bc2-17a338070934@yahoo.com>
+X-Display-Name: Laskowitz, Shari
+
+
+--_000_16288e98bea04572941c610d0e0e1171ingramllpcom_--
