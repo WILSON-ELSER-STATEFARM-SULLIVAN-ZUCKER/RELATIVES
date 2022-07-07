@@ -1,0 +1,200 @@
+From - Sat Jul  2 01:22:13 2022
+X-Account-Key: account1
+X-UIDL: AKplUSEZecE+Yr/h3gFP8PiFPvc
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.151.74
+ by atlas201.free.mail.ne1.yahoo.com with HTTPS; Sat, 2 Jul 2022 06:12:45 +0000
+Return-Path: <usmint-support@pfsweb.com>
+X-Originating-Ip: [40.107.102.70]
+Received-SPF: pass (domain of pfsweb.com designates 40.107.102.70 as permitted sender)
+Authentication-Results: atlas201.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@pfsweb.com header.s=selector2;
+ spf=pass smtp.mailfrom=pfsweb.com;
+ dmarc=pass(p=NONE) header.from=pfsweb.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 2 Jul 2022 06:12:45 +0000
+X-YMailAVSC: Pku5iBY3bBtgEUpkPEOvJXFcrMFXnZ9UCtaeaiiao.ZuQxK
+ 49LsJvinTvF8Yoap.XmSKtl61YyawvEWlpO98GvOOtd7LObVPX3qJphXETWH
+ s.DrOLWbXEdXIorJTPK45ACh6c30iknY4Knn7UFwjOi7gxZd0Kf3fAurZEfp
+ vr0AFQgpCo4ducLKi9tQVhFjsGpg0IUGZstOvq6ZH62UdgDc3wyQdZtUBqq5
+ UMFkYX7kF7zdyNA04Fq3D5ETwU_Yy7oNDXhynACq12TjcIOS5_V6BKdUrZQ2
+ ihWXnFdi34lCE9wtIA523sdsfSx37rBPpXySFYOzzMYMcnfxTdAxriPXRDFw
+ 4gZU-
+X-YMailISG: M_b3..MWLDv35RzQ5Bj9G5ZL.4lIh6JTOPWVnfN2VmpCb2s8
+ xNqQP9USzPt9rPhkWvPa6tv4RbUEiWSkM4q2ZzJGnw.20iBRI1kPVkZKVYsc
+ 9xCRir6EFvdAqMF6MgBFVTDRdLMMWNdw9XoKHINz8LQpPeLhzwqyzT7nZi3C
+ wHLxAFro0cdejztyr2rYgMZOUHRfeJq0.kGuv6MLDJ0X9usKjjbkcjqnn63P
+ biH2m7JcMMHpSQ3VmfWFPG4RV2cfkgVV7RaxGyIjuiADqbIVWzck9MuS.Fdz
+ rprv2fPbN5ckFRkvoEoPvE4h4h9i5U9bI9nrm9QH8uI0jsLBiFe0GhPFtCgU
+ gn0v3IOBq.NoweOXHq8qderIXgth6L2UrKIFZA0tzkIVxvRMNWOWYj4PfVz2
+ uuzygJm4DoUvVqg9oiY5tLPN2fGnyBry80PjSovDYPDDr_j840uwScs9h2m8
+ bURHkAOsHrnEiSufm._riguZInXxJUGhW8NdVToD3FW4AIbs9qtwAAmEECBq
+ C8LeuG80YDTpJsYyA7aas3hnz447DOVhe6gxATQu1j1u2fz77Gj2BXl0rNMB
+ oPaSP1FMWuDKZ_2Wf88AeGQwwNRF2wmjGTdzcabE26RW5pAnlB8vvnMqCYAu
+ 15jBdBL2q759R4eCNfsjxvmCp65.oCJKOXpqXQON_cfCwxXKUiUJ7xswFMvl
+ a6lUzmJ6EPMQn8Cufgh1vslzS1lRrFFBb7OrXCtxzIqyWDVL17y7BlWHF9Ux
+ FoieVi4SOUUB0k_pA4hAPuLCdmNuMDk.OcrCDsRQNYjzRRB1V0LxVWUtHKfk
+ N_bp2Hzn1ReNUGMMphzKc98PHvdejaOsM8R22Cat7owWdjcHA60usRX1WnOf
+ cbG.XWqeFjFKAcvwJXwiKbLGgAsuRCr8g3NEiharNXjWor4CZxEDsLdVGSjF
+ 4XCxjwxzPwOzs.UEN_i5okRPVlVn9HEUmpJGn6qv7fJLlVINW_Zn4EaJRroD
+ zmENPvC21cRq9gPP52QQhM0E0t5M7KYCfGMCnBIUHU06lVtnU1ga1ygROQRm
+ k2KifbGdpztm4uiNoz_oRNxqKOk3HUC582NB6Mue3iwwPxs32momBUVseAJq
+ 1NWAuzZgBIv0vnx3MSnglv8bDJjFbWV0y9SoZZJQH3rUfI_rnd13FIIph2Kx
+ 87F7TYPeqmyMhHlINsDuOGAG3WSF98GXZL1JeOa.HDdN1sTIqx0Ha4Gge_Up
+ EbJJz57c1y_ZT6i0rkEnKK7vTgt0J3U9YdaleimMnVkbtjt7_m4BHNWTtljV
+ pD4FXI_Fx1ZzahoCPUz.yqD0G.Y0lwwVHAJMkA--
+Received: from 40.107.102.70 (EHLO NAM04-DM6-obe.outbound.protection.outlook.com)
+ by 10.217.151.74 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 02 Jul 2022 06:12:45 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=aqKxgMmV6G8PYKvtyKfZfgGHbD9PtW1RoZU46VOvQ7ev1SLpzhWf/Lbgg6HYrqkTUkdnwKP+P/dsolE7DNL+g/vNlaGr22yUjR8hWd3phaTsOsWEHuQBhmWdLJX+iIveUmrs5BF2iuznwSbnR8dlYehl6lXsS1l7HqYIiLOlYYu6JqoCfpERGFM5mez9kmQ0AVjF98xtr6rG68uEHU70we/2TMBHl1vHXfGttb/yiChJJtRvwicbEpaglgdOCcxITxoIpRZsMm31Cykiyzd8i0Q8DsGZMJIdtKX8r+V07jR7zh9NZ2neT1AvFrySjvcRLVLUyN7PXiY64gfbnlK2zg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=Izz3DxtrT0FH+1g92M1pe9uXqNIL7MRi2xSbIRzcKpw=;
+ b=bDzsIDD+VM6kpfUgjLFV92dM05jcRRIrsD6PVfo6ZKuUBDYBbefIIM2SDpljkNmGUj/tj3qk++I/iitsfaJte9UNAnvNnvg9kXQgwGPF2q7ivcKrNXB5p1xOcw8cYqRd5oNZXD/edxzltU+j+cFjrpfCqid14JChkh0fSwPX/DMfUJLksEns9o61LEVS/OlqcCqxvh/8X7xCLLp+v0F0hgd4zTsubDioD9ngvm59kc76/R7+fEbNI03i1K/+tiNqfybOvfEpHq2Ns8exGOtR2yuBQztCD1Vzk9TxaNOj69EsnfC0U9oZobc99wc69l+ceDtpiod5yvrux1QYrOvgnw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=pfsweb.com; dmarc=pass action=none header.from=pfsweb.com;
+ dkim=pass header.d=pfsweb.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pfsweb.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=Izz3DxtrT0FH+1g92M1pe9uXqNIL7MRi2xSbIRzcKpw=;
+ b=dN1oVKGsC5yUwCrjKZrO4Rwb0/of8/MOd4pdT/Fy/edB10oC+1cAycOVnHTifGhAJ30Ueso5xvlQxf1CdAnfHBxTfj9BhZkRVGtrfeoueFXIE9BXi7dUoPMsO4Y6zImpnyLS8D8D5SX8GNcNrXC3RZ+pf33ydz+r7Fhs8AC9b+kjnzj3oViPFb3V9ji48/5q0sm3O2CLxvi73BP8pSQHxbyT05GLx/hGuNw/kp8ZkI749DE6bigFSPTuKN1cFjbyhQa7Eo7xzkMgziQWq8PvehcNpTKthrJm0/NGqpHpdNlcKA6UVYraj6Ej3nmPTsUkt7pxbhVLOu4UKd5WHKr6ug==
+Received: from PH0PR10MB5546.namprd10.prod.outlook.com (2603:10b6:510:d9::8)
+ by DS0PR10MB6032.namprd10.prod.outlook.com (2603:10b6:8:cc::7) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5395.17; Sat, 2 Jul 2022 06:12:41 +0000
+Received: from PH0PR10MB5546.namprd10.prod.outlook.com
+ ([fe80::301d:1f76:55b:6fc6]) by PH0PR10MB5546.namprd10.prod.outlook.com
+ ([fe80::301d:1f76:55b:6fc6%9]) with mapi id 15.20.5395.015; Sat, 2 Jul 2022
+ 06:12:41 +0000
+From: Mint Support <usmint-support@pfsweb.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: [00008] NONCONSENTED DISTRIBUTION OF MY PHTOGRAPHS
+ AND VIDEOS.pdf
+Thread-Topic: Fwd: [00008] NONCONSENTED DISTRIBUTION OF MY PHTOGRAPHS AND
+ VIDEOS.pdf
+Thread-Index: AQHYjdqZX/GxAHDiO0KnA1Stzhbstg==
+Date: Sat, 2 Jul 2022 06:12:40 +0000
+Message-ID: <269a19e039774de2bddf3df4c97103d0@pfsweb.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: a591c7cd-e109-46b4-1552-08da5bf1dec8
+x-ms-traffictypediagnostic: DS0PR10MB6032:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ DHg8Sv3NG7U8Ara5Pia021F4TMEUkcyjOTq5LpU7os7g7ERiT1YVPRx9HlPmUs3+fVqLIDt8OgVbIINsOe6WrtFevCXvqqZcIU3PZVS4OZXqdtMJdTtFjdTG6JWUvxaddFVC0pC97PULe4GtB7B3idaL6x105KGmSwjR/3xUlzrciR3L53eC7/fRra9Yc+APKROd9FePdY5GIPyF5d+rT8WNCWmBmpfLzlqHrQAqK9qAf1q/x6hW8NKQK4V0QaQ/rfxeWroG1jAQ5PnJgvxcigCgse0yoWRs1ClG1WvDQoDf4fD41kJWnupRSfXdkjTjEDjA+bxmkRmZij8cIyBmWVoHlq5v/eUTQf5b/6vXX4ZPmsqyR+NvIZ6Ow3DHEdfm74H3VbmvRuVv0SD4gwagtxGr5yBTyCrZ4Vb7teaPySsWNcqStF6TdAGL9en/PhFZlGeMJ6ydHTLsmY6MBE0KsE+hETaRPFgCRrFMsIeDe/jNn4jywR+/wH3s8THcuapl
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PH0PR10MB5546.namprd10.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(136003)(396003)(376002)(39850400004)(346002)(66946007)(66556008)(66476007)(8676002)(36756003)(8936002)(66446008)(64756008)(122000001)(2906002)(73894004)(4270600006)(6916009)(316002)(24736004)(108616005)(6486002)(71200400001)(41300700001)(478600001)(88996005)(186003)(6512007)(6506007)(621065003)(2616005)(86362001);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?+ZMO9zhUfc5HeD8F0j19BtbgIaZ4Wsu0bHf2zIMsL7iS48W2N4cUXyfnZ5Xr?=
+ =?us-ascii?Q?bC3xs7YqWWjMWluEFC875vNACDxk4pEe2tJEdzxmxQgZsVCQvg9ay8g8gvWw?=
+ =?us-ascii?Q?LF5ICLWMrO9D6WbhCVs4iwVefBvgzgmon/TfYcN3md2zbOAXPjZJWdrAmLWD?=
+ =?us-ascii?Q?waMPT7EIlggLdZWPWkSbZVH0bc/4EvC58hoExuYol3CbCeNCHkH9CTKDlRgT?=
+ =?us-ascii?Q?mN1CMXni3UOEvoRVfqL37a+QyvcxHt1KoJ/Hn0TmVV45xSRKG7HcRE9gM1in?=
+ =?us-ascii?Q?9n/f5T1VwHyI2oJQMnpt4MuNneBa6QRP+YdoCUAAH7OXcs44hdXk9j2enPLf?=
+ =?us-ascii?Q?0MawnLjvxhywgQ8cQXlQ8wmWhg0TPAaiIu3V8rzNj/ndWDJMaq038C9X6BjX?=
+ =?us-ascii?Q?C5WMXEegm0rSJy1XGqIWjc3nipwEvBZfPLaaZtEuJm8eUCcImplyLCS4luw6?=
+ =?us-ascii?Q?IjPErqvNMK4mCyn4wwVGPpVkyFJIptGS9/5y+BO6EhvfbZCmtnUJi0e9/er/?=
+ =?us-ascii?Q?qXaoBrajCP3aZ1o1XfPlmEPW8MoGueH4RQBoE5Ppt1VpU8O4YjYG03w54DuI?=
+ =?us-ascii?Q?QmGIr/xbOdSoLedeLUx0SLo6IorTu6r6Ugbao+Wmkn71iAfrXy25qTBMHVBv?=
+ =?us-ascii?Q?IFMrkwQ68UlXbPhjqecafNJnGqcC/f40Ls1Y8dcp5PrB7rzTxE+irnemI9Y1?=
+ =?us-ascii?Q?nuXPw9Esn3IGgdcjwRtQFTBlFcY42fuMgw9KJiAOTMDEzeKpctyrXpmKxK1b?=
+ =?us-ascii?Q?W0DY1CBISMtfaZ6VTSrzxiBHem9d6lAMptmonHkkNSXP0lMjGEgJXxP275wh?=
+ =?us-ascii?Q?oBJpdEemJEWntUWqzWdjzQsOx/KRFGBsFQB1oMXpPtTfBCPcCUkPo2ggRd/N?=
+ =?us-ascii?Q?IcXygfik3+l1iLBdAi+vY8DPx25CY9Xtgz+GYgGmBaCVJRW21aXh6o/70Ubj?=
+ =?us-ascii?Q?tZim/mCkG+xNun7LUwdZnhDELHvDhkszZtRslgeqdwz3+yCtc7rZARRKmq9W?=
+ =?us-ascii?Q?VFX9rA7DL1WJV8rs/mhEy1+6Vkuq3DoENUXfotF3fu9Tp9ENeNU4o0b4ZdLv?=
+ =?us-ascii?Q?olViu0BTkP+SipsVvrwfbyghhn9+hvwU2C+7mV0vZZLM5v30189bECPUMmKo?=
+ =?us-ascii?Q?Iw/wS1J0uOxDb8XqbgRpxR7VYRoMs0Fz/yE0CCt4w2bxymRnuG35SDjiHFHz?=
+ =?us-ascii?Q?GCKy+F/1LDXIYzFBx3iZ3OLmTuPZdmJVRvc5AbCtQISAkdi9kb0vtWeLGK5P?=
+ =?us-ascii?Q?04lCT4a8i6YchcBFtIeCWdJubpowqBH+nAOvPfjdpwwZTqJQDO83IWKjMxAU?=
+ =?us-ascii?Q?fR0iIPrRJs0ARdw0blAOVKORgVGvwD0uyi+OXi1CX1bUg4TcOT6ps8wrHQVg?=
+ =?us-ascii?Q?aMhqMKToT8Xid/ZMvf62gYS2/W1YP8hSGOWBU5M6HeDX/+RUuFSbRZjMyUwC?=
+ =?us-ascii?Q?Zy078MSAp/q9Qu+m3hWhuZvuye4w2wHd7c92OR1f9VPnNdvV6aXPIw=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_269a19e039774de2bddf3df4c97103d0pfswebcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: pfsweb.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PH0PR10MB5546.namprd10.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: a591c7cd-e109-46b4-1552-08da5bf1dec8
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jul 2022 06:12:40.8778
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 20279d1c-a416-45a5-98ee-8d958c0b7f23
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: jzAqH0iQDvvj5inFssp1Ue+4A15HjYhW1qCEozxUfpLxAtd3nO3LEf7o5TR7bOrRlec4gRBXTDPmhGO6E34PVxwxoKpVQz74hfZw85ETA7Y=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DS0PR10MB6032
+Content-Length: 2018
+
+--_000_269a19e039774de2bddf3df4c97103d0pfswebcom_
+Content-Type: multipart/alternative;
+	boundary="_002_269a19e039774de2bddf3df4c97103d0pfswebcom_"
+
+--_002_269a19e039774de2bddf3df4c97103d0pfswebcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Mint Support
+   Subject: Fwd: Fwd: [00008] NONCONSENTED DISTRIBUTION OF MY PHTOGRAPHS AN=
+D VIDEOS.pdf
+   Sent: Saturday, July 2, 2022 11:39:08 AM (UTC+05:30) Chennai, Kolkata, M=
+umbai, New Delhi
+
+ was read on Saturday, July 2, 2022 11:42:40 AM (UTC+05:30) Chennai, Kolkat=
+a, Mumbai, New Delhi.
+
+--_002_269a19e039774de2bddf3df4c97103d0pfswebcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Mint Support<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: [00008] NONCONSENTED DISTRIBUTION OF MY PHT=
+OGRAPHS AND VIDEOS.pdf<br>
+&nbsp;&nbsp; Sent: Saturday, July 2, 2022 11:39:08 AM (UTC+05:30) Chennai, =
+Kolkata, Mumbai, New Delhi<br>
+<br>
+&nbsp;was read on Saturday, July 2, 2022 11:42:40 AM (UTC+05:30) Chennai, K=
+olkata, Mumbai, New Delhi.</div>
+</span></font>
+</body>
+</html>
+
+--_002_269a19e039774de2bddf3df4c97103d0pfswebcom_--
+
+--_000_269a19e039774de2bddf3df4c97103d0pfswebcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; usmint-support@pfsweb.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: FAdzrqmb50Oybi+QQL/pgA==
+Original-Message-ID: <633f7076-2e19-c099-0f96-c9ddf56e75e0@yahoo.com>
+X-Display-Name: Mint Support
+
+
+--_000_269a19e039774de2bddf3df4c97103d0pfswebcom_--
