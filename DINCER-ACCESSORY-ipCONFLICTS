@@ -1,0 +1,606 @@
+USC 18.225, 18.21, 18.4, 18.3, 18.2 --- IP CONFIGURATIONS ( SEE ALSO YESTERDAY ) HOTEL MANAGER HAS A VIDEO AND TRACKS MY MOTIONS?
+-- -REALLY? 
+--- NOT HAPPENING.
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\User>IPCONFIG ALL
+
+Error: unrecognized or incomplete command line.
+
+USAGE:
+    ipconfig [/allcompartments] [/? | /all |
+                                 /renew [adapter] | /release [adapter] |
+                                 /renew6 [adapter] | /release6 [adapter] |
+                                 /flushdns | /displaydns | /registerdns |
+                                 /showclassid adapter |
+                                 /setclassid adapter [classid] |
+                                 /showclassid6 adapter |
+                                 /setclassid6 adapter [classid] ]
+
+where
+    adapter             Connection name
+                       (wildcard characters * and ? allowed, see examples)
+
+    Options:
+       /?               Display this help message
+       /all             Display full configuration information.
+       /release         Release the IPv4 address for the specified adapter.
+       /release6        Release the IPv6 address for the specified adapter.
+       /renew           Renew the IPv4 address for the specified adapter.
+       /renew6          Renew the IPv6 address for the specified adapter.
+       /flushdns        Purges the DNS Resolver cache.
+       /registerdns     Refreshes all DHCP leases and re-registers DNS names
+       /displaydns      Display the contents of the DNS Resolver Cache.
+       /showclassid     Displays all the dhcp class IDs allowed for adapter.
+       /setclassid      Modifies the dhcp class id.
+       /showclassid6    Displays all the IPv6 DHCP class IDs allowed for adapter
+.
+       /setclassid6     Modifies the IPv6 DHCP class id.
+
+
+The default is to display only the IP address, subnet mask and
+default gateway for each adapter bound to TCP/IP.
+
+For Release and Renew, if no adapter name is specified, then the IP address
+leases for all adapters bound to TCP/IP will be released or renewed.
+
+For Setclassid and Setclassid6, if no ClassId is specified, then the ClassId is
+removed.
+
+Examples:
+    > ipconfig                       ... Show information
+    > ipconfig /all                  ... Show detailed information
+    > ipconfig /renew                ... renew all adapters
+    > ipconfig /renew EL*            ... renew any connection that has its
+                                         name starting with EL
+    > ipconfig /release *Con*        ... release all matching connections,
+                                         eg. "Local Area Connection 1" or
+                                             "Local Area Connection 2"
+    > ipconfig /allcompartments      ... Show information about all
+                                         compartments
+    > ipconfig /allcompartments /all ... Show detailed information about all
+                                         compartments
+
+C:\Users\User>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : GSLEX
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter h1:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3165
+   Physical Address. . . . . . . . . : 3C-F8-62-AD-72-C1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 172.20.10.14(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Lease Obtained. . . . . . . . . . : Thursday, July 07, 2022 2:22:26 PM
+   Lease Expires . . . . . . . . . . : Friday, July 08, 2022 2:08:06 PM
+   Default Gateway . . . . . . . . . : 172.20.10.1
+   DHCP Server . . . . . . . . . . . : 172.20.10.1
+   DNS Servers . . . . . . . . . . . : 172.20.10.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{6C4E0DEE-39D4-4689-BE19-382596084F46}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\User>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : GSLEX
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter h1:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3165
+   Physical Address. . . . . . . . . : 3C-F8-62-AD-72-C1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.41.118(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, July 07, 2022 5:06:10 PM
+   Lease Expires . . . . . . . . . . : Thursday, July 07, 2022 6:06:09 PM
+   Default Gateway . . . . . . . . . : 192.168.41.166
+   DHCP Server . . . . . . . . . . . : 192.168.41.166
+   DNS Servers . . . . . . . . . . . : 192.168.41.166
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{6C4E0DEE-39D4-4689-BE19-382596084F46}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\User>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : GSLEX
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter h1:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3165
+   Physical Address. . . . . . . . . : 3C-F8-62-AD-72-C1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.41.118(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, July 07, 2022 5:06:10 PM
+   Lease Expires . . . . . . . . . . : Thursday, July 07, 2022 6:36:09 PM
+   Default Gateway . . . . . . . . . : 192.168.41.166
+   DHCP Server . . . . . . . . . . . : 192.168.41.166
+   DNS Servers . . . . . . . . . . . : 192.168.41.166
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{6C4E0DEE-39D4-4689-BE19-382596084F46}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\User>
+
+/S/   BO DINCER
+    MS60710444266@YAHOO.COM
+    tel.:    646-256-3609
+From: 153974 /2020 93715 / 1516523 <BLOCK803LOT11@outlook.com>
+Sent: Thursday, July 7, 2022 7:19 PM
+To: usdoj@public.govdelivery.com <usdoj@public.govdelivery.com>; irs@service.govdelivery.com <irs@service.govdelivery.com>; usttb@public.govdelivery.com <usttb@public.govdelivery.com>; financialeducation@info.consumerfinance.gov <financialeducation@info.consumerfinance.gov>; DHSOIG@public.govdelivery.com <DHSOIG@public.govdelivery.com>; Office of Inspector General (VETERANS AFFAIRS) <vaoig@messages.va.gov>; PENSION BENEFIT GURANTEES <pbgc@subscriptions.pbgc.gov>; USPSOIG@public.govdelivery.com <USPSOIG@public.govdelivery.com>; cdfifund@service.govdelivery.com <cdfifund@service.govdelivery.com>; subscribe@subscribe.ftc.gov <subscribe@subscribe.ftc.gov>; vatax@public.govdelivery.com <vatax@public.govdelivery.com>; tigta@service.govdelivery.com <tigta@service.govdelivery.com>; Small Business Administration <news@updates.sba.gov>; DOT INSPECTOR GENERAL <news@updates.oig.dot.gov>; Office of the Special Inspector General for the Troubled Asset Relief Program (SIGTARP) <sigtarp@service.govdelivery.com>; HUDOIG@info.hudoig.gov <HUDOIG@info.hudoig.gov>; Council of the Inspectors General on Integrity and Efficiency <CIGIE@public.govdelivery.com>; CBPMEDIARELATIONS <CBPMEDIARELATIONS@cbp.dhs.gov>; AZCBPPublicAffairs@cbp.dhs.gov <AZCBPPublicAffairs@cbp.dhs.gov>; Constituentservices@doc.nyc.gov <Constituentservices@doc.nyc.gov>; OFCCP-Public@dol.gov <OFCCP-Public@dol.gov>; foia@eeoc.gov <foia@eeoc.gov>; NYCTLservicing@tcmfund.com <NYCTLservicing@tcmfund.com>; matthew.schimmel@cigie.gov <matthew.schimmel@cigie.gov>; laura.nichols@cigie.gov <laura.nichols@cigie.gov>; SOCIAL SECURITY ADMINISTRATION <subscriptions@subscriptions.treas.gov>; Columbia EMOT Alert <00000121e5ec70a4-dmarc-request@lists.columbia.edu>; Hon. Nancy T. Sunshine <kcco-efile@nycourts.gov>; CUIT Communications <cuit-communications@columbia.edu>; CommissionerCrenshaw@sec.gov <CommissionerCrenshaw@sec.gov>; CommissionerLee@sec.gov <CommissionerLee@sec.gov>; usmint-support@usmcatalog.com <usmint-support@usmcatalog.com>; ofac_feedback@treasury.gov <ofac_feedback@treasury.gov>; NYSCEF Resource Center <efile@nycourts.gov>; ServiceECF@law.nyc.gov <ServiceECF@law.nyc.gov>; KINGS COUNTY TAX MATTERS <TaxEfiled@law.nyc.gov>; JPINN@LAW.NYC.GOV <JPINN@LAW.NYC.GOV>; nschaier@law.nyc.gov <nschaier@law.nyc.gov>; hadkins@mtagservices.com <hadkins@mtagservices.com>; GREGORY.L.DAVIS@cbp.dhs.gov <GREGORY.L.DAVIS@cbp.dhs.gov>; esanford@mtagservices.com <esanford@mtagservices.com>; jmeeks@station31partners.com <jmeeks@station31partners.com>; kshadle@tcmfund.com <kshadle@tcmfund.com>; dcarter@mtagservices.com <dcarter@mtagservices.com>; nchini@bainbridge.com <nchini@bainbridge.com>; gmichaud@mtagservices.com <gmichaud@mtagservices.com>; LANDON.R.HUTCHENS@cbp.dhs.gov <LANDON.R.HUTCHENS@cbp.dhs.gov>; TAMMY.T.MELVIN@cbp.dhs.gov <TAMMY.T.MELVIN@cbp.dhs.gov>; usmint-support@pfsweb.com <usmint-support@pfsweb.com>; ANTHONY.BUCCI@cbp.dhs.gov <Anthony.bucci@cbp.dhs.gov>; JOHN.B.MENNELL@cbp.dhs.gov <JOHN.B.MENNELL@cbp.dhs.gov>; Martin.Rowland@parks.nyc.gov <Martin.Rowland@parks.nyc.gov>; dernwein@tcmfund.com <dernwein@tcmfund.com>; asimmons@mtagservices.com <asimmons@mtagservices.com>; cshugg@sylint.com <cshugg@sylint.com>; isabel.zisselsberger@kpmg.com <isabel.zisselsberger@kpmg.com>; ITACKEL@cbp.dhs.gov <ITACKEL@cbp.dhs.gov>; RICHARD.J.PAUZA@CBP.DHS.GOV <RICHARD.J.PAUZA@CBP.DHS.GOV>; JAMES.E.BURNS@cbp.dhs.gov <JAMES.E.BURNS@cbp.dhs.gov>; electronicfilings@ftc.gov <electronicfilings@ftc.gov>; Amanda [GMD] <IMCEAEX-_o=ExchangeLabs_ou=Exchange+20Administrative+20Group+20+28FYDIBOHF23SPDLT+29_cn=Recipients_cn=c190de3e029d4091b8fd14015f12e672-grecoa@namprd20.prod.outlook.com>; usdoj@public.govdelivery.GOV <usdoj@public.govdelivery.GOV>; irs@service.govdelivery.GOV <irs@service.govdelivery.GOV>; subscription.service@subscriptions.ssa.gov <subscription.service@subscriptions.ssa.gov>; steven.p.bansbach@cbp.dhs.gov <steven.p.bansbach@cbp.dhs.gov>; usattorneys@public.govdelivery.com <usattorneys@public.govdelivery.com>; OJJDP@public.govdelivery.com <OJJDP@public.govdelivery.com>; fundingnews@public.govdelivery.com <fundingnews@public.govdelivery.com>; Civil.Feedback@usdoj.gov <Civil.Feedback@usdoj.gov>; CivilRightsDivision@usdoj.gov <CivilRightsDivision@usdoj.gov>; premerger@usdoj.gov <premerger@usdoj.gov>; Criminal.Division@usdoj.gov <Criminal.Division@usdoj.gov>; privacy@usdoj.gov <privacy@usdoj.gov>; dea@public.govdelivery.com <dea@public.govdelivery.com>; NewYork.ATR@usdoj.gov <NewYork.ATR@usdoj.gov>; ATR.International@usdoj.gov <ATR.International@usdoj.gov>; ATR.TEA@usdoj.gov <ATR.TEA@usdoj.gov>; ATR.MEP.Information@usdoj.gov <ATR.MEP.Information@usdoj.gov>; ATR.EXO@usdoj.gov <ATR.EXO@usdoj.gov>; ATR.EAG@usdoj.gov <ATR.EAG@usdoj.gov>; ATR.CPA@usdoj.gov <ATR.CPA@usdoj.gov>; Chicago.ATR@usdoj.gov <Chicago.ATR@usdoj.gov>; ATR.Appellate@usdoj.gov <ATR.Appellate@usdoj.gov>; antitrust.atr@usdoj.gov <antitrust.atr@usdoj.gov>; jessica.rosenbaum@usdoj.gov <jessica.rosenbaum@usdoj.gov>; mross@stratford.k12.ia.us <mross@stratford.k12.ia.us>; yolanda.choates@cbp.dhs.gov <yolanda.choates@cbp.dhs.gov>; tameka.link@dc.gov <Tameka.Link@dc.gov>; OVC@public.govdelivery.com <OVC@public.govdelivery.com>; latonia.battlewhite@dc.gov <latonia.battlewhite@dc.gov>; syncia.sabain@dc.gov <syncia.sabain@dc.gov>; charles.akinboyewa@dc.gov <charles.akinboyewa@dc.gov>; Nicole.Colbert@dc.gov <Nicole.Colbert@dc.gov>; sandra.thalley@dc.gov <sandra.thalley@dc.gov>; Robert.Greene@dc.gov <Robert.Greene@dc.gov>; USAID-Industry-Liaison@subscribe.usaid.gov <USAID-Industry-Liaison@subscribe.usaid.gov>; donotreply@info.consumerfinance.gov <donotreply@info.consumerfinance.gov>; EDINCER54@GMAIL.COM <EDINCER54@GMAIL.COM>
+Subject: Re: VIOLATED USC 18.225, 18.21, 18.4, 18.3, 18.2 --- AFTER MY CIVIL RIGHTS IN 153974/2020
+ 
+AN UNLAWFUL ARREST- EX-PARTE COMMUNICATION - CONTINUES TO HARASS THE COURTS, IMPEDE MYSELF FOR WORKING WITH FEDERAL REGULATORY AUTHORITIES AS REFERENCED IN THE LETTER OF OBSTRUCTION
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BYhg9CRk6U6lOInehZOwZQ==
+EXHIBIT(S) - XX1  (Motion #001)
+2020.08.10 - EMAIL TO SHARI, NOTICE TO STATE FARM, A PUBLICLY TRADED MUTUAL FUND -- WAS OBSTRUCTED UNDER CIK FILER 93715
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==
+EXHIBIT(S) - XX2  (Motion #001)
+2020.08.10 - RESPONSE FROM SHARI REQUESTING AN EMAIL IN RESPONSE TO THIS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n_PLUS_CvSQR36fqPKko6L47FFQ==
+EXHIBIT(S) - XX3  (Motion #001)
+2020.08.10 - OFFER ATTACHED (SHARI) - A LETTER AFFIRMING THEIR - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
+EXHIBIT(S) - XX4  (Motion #001)
+2020.08.11 - LETTER AND HOSPITAL STICKER AFTER SUSTAINING AN INJURY FROM THE UNREPAIRED WINDOW
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mjjeGZ6gy4aiXQA/zboiwg==
+EXHIBIT(S) - XX5  (Motion #001)
+2020.08.11 - LETTER (READ AT 1056AM)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pElufxUbj5UakQ/uOR4VzQ==
+EXHIBIT(S) - 297
+sp: EMAIL TO WMCKENZI@NYCOURTS.GOV
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=A11tvYP5hhvT2rSQheEU/w==
+EXHIBIT(S) - 386
+"sp: 97 SULLIVAN STREET WAS DROPPED FROM THE SCHEDULE OF PROPERTIES TRANSFERRED FOR SOME REASON - DID NOT HAVE TIME TO ASSESS THIS DUE THE OBSTRUCTIONS AND UNLAWFUL RESTRAINTS OF MY TIME AS SEEN IN THE VIOLATIONS OF MY CIVIL RIGHTS THROUGHOUT THESE PROCEEDINGS
+"
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E94ff9uQZ6/90RDJEnWSNw==
+
+---
+
+EXHIBIT(S) - CLK  (Motion #002)
+CLERICAL SERVICES PROVIDED FOLLOWING ORDERS AND DUE PROCESS PER THE HONORABLE SHLOMO HAGLER, J.S.C.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MRI5KsH3gsrBIEC3pc/ZuQ==
+EXHIBIT(S) - ID1  (Motion #002)
+_2020.07.17 AFFIRMS DEFENDANT HAS PROVIDED A GOOD FAITH RESPONSE (GENERAL) AS REQUESTED PRIOR TO 7/2 ... show more
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MRI5KsH3gsrBIEC3pc/ZuQ==
+EXHIBIT(S) - ID2  (Motion #002)
+2020.07.20 VERIFIES DEFENDANT HAS ACCESS TO ELECTRONICALLY FILED DOCUMENTS AND SERVICE THEREAFTER IS ... show more
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GSg2nG5CaHeGPVjbY1wyWQ==
+EXHIBIT(S) - BFD  (Motion #002)
+GOOD AND PROPER SERVICE - MANDATORY E-FILING PROTOCOLS OF THE UNIFIED COURTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JwzTulQKXTDAmfd7fOGSjg==
+
+2020.06.23 REQUEST TO APPEARANCE AFFIRMED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sTDsNNcA6I3uRoTFh0RXNw==
+EXHIBIT(S) - R5
+AN UNLAWFUL ARREST- EX-PARTE COMMUNICATION - CONTINUES TO HARASS THE COURTS, IMPEDE MYSELF FOR WORKING WITH FEDERAL REGULATORY AUTHORITIES AS REFERENCED IN THE LETTER OF OBSTRUCTION
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BYhg9CRk6U6lOInehZOwZQ==
+EXHIBIT(S) - XX1  (Motion #001)
+2020.08.10 - EMAIL TO SHARI, NOTICE TO STATE FARM, A PUBLICLY TRADED MUTUAL FUND -- WAS OBSTRUCTED UNDER CIK FILER 93715
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==
+EXHIBIT(S) - XX2  (Motion #001)
+2020.08.10 - RESPONSE FROM SHARI REQUESTING AN EMAIL IN RESPONSE TO THIS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n_PLUS_CvSQR36fqPKko6L47FFQ==
+EXHIBIT(S) - XX3  (Motion #001)
+2020.08.10 - OFFER ATTACHED (SHARI) - A LETTER AFFIRMING THEIR - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D9Td7IfWXyajw1tBNCFb9g==
+EXHIBIT(S) - XX4  (Motion #001)
+2020.08.11 - LETTER AND HOSPITAL STICKER AFTER SUSTAINING AN INJURY FROM THE UNREPAIRED WINDOW
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mjjeGZ6gy4aiXQA/zboiwg==
+EXHIBIT(S) - XX5  (Motion #001)
+2020.08.11 - LETTER (READ AT 1056AM)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pElufxUbj5UakQ/uOR4VzQ==
+EXHIBIT(S) - 297
+sp: EMAIL TO WMCKENZI@NYCOURTS.GOV
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=A11tvYP5hhvT2rSQheEU/w==
+EXHIBIT(S) - 386
+"sp: 97 SULLIVAN STREET WAS DROPPED FROM THE SCHEDULE OF PROPERTIES TRANSFERRED FOR SOME REASON - DID NOT HAVE TIME TO ASSESS THIS DUE THE OBSTRUCTIONS AND UNLAWFUL RESTRAINTS OF MY TIME AS SEEN IN THE VIOLATIONS OF MY CIVIL RIGHTS THROUGHOUT THESE PROCEEDINGS
+"
+
+/S/   BO DINCER
+    MS60710444266@YAHOO.COM
+    tel.:    646-256-3609
+From: 153974 /2020 93715 / 1516523 <BLOCK803LOT11@outlook.com>
+Sent: Thursday, July 7, 2022 7:18 PM
+To: usdoj@public.govdelivery.com <usdoj@public.govdelivery.com>; irs@service.govdelivery.com <irs@service.govdelivery.com>; usttb@public.govdelivery.com <usttb@public.govdelivery.com>; financialeducation@info.consumerfinance.gov <financialeducation@info.consumerfinance.gov>; DHSOIG@public.govdelivery.com <DHSOIG@public.govdelivery.com>; Office of Inspector General (VETERANS AFFAIRS) <vaoig@messages.va.gov>; PENSION BENEFIT GURANTEES <pbgc@subscriptions.pbgc.gov>; USPSOIG@public.govdelivery.com <USPSOIG@public.govdelivery.com>; cdfifund@service.govdelivery.com <cdfifund@service.govdelivery.com>; subscribe@subscribe.ftc.gov <subscribe@subscribe.ftc.gov>; vatax@public.govdelivery.com <vatax@public.govdelivery.com>; tigta@service.govdelivery.com <tigta@service.govdelivery.com>; Small Business Administration <news@updates.sba.gov>; DOT INSPECTOR GENERAL <news@updates.oig.dot.gov>; Office of the Special Inspector General for the Troubled Asset Relief Program (SIGTARP) <sigtarp@service.govdelivery.com>; HUDOIG@info.hudoig.gov <HUDOIG@info.hudoig.gov>; Council of the Inspectors General on Integrity and Efficiency <CIGIE@public.govdelivery.com>; CBPMEDIARELATIONS <CBPMEDIARELATIONS@cbp.dhs.gov>; AZCBPPublicAffairs@cbp.dhs.gov <AZCBPPublicAffairs@cbp.dhs.gov>; Constituentservices@doc.nyc.gov <Constituentservices@doc.nyc.gov>; OFCCP-Public@dol.gov <OFCCP-Public@dol.gov>; foia@eeoc.gov <foia@eeoc.gov>; NYCTLservicing@tcmfund.com <NYCTLservicing@tcmfund.com>; matthew.schimmel@cigie.gov <matthew.schimmel@cigie.gov>; laura.nichols@cigie.gov <laura.nichols@cigie.gov>; SOCIAL SECURITY ADMINISTRATION <subscriptions@subscriptions.treas.gov>; Columbia EMOT Alert <00000121e5ec70a4-dmarc-request@lists.columbia.edu>; Hon. Nancy T. Sunshine <kcco-efile@nycourts.gov>; CUIT Communications <cuit-communications@columbia.edu>; CommissionerCrenshaw@sec.gov <CommissionerCrenshaw@sec.gov>; CommissionerLee@sec.gov <CommissionerLee@sec.gov>; usmint-support@usmcatalog.com <usmint-support@usmcatalog.com>; ofac_feedback@treasury.gov <ofac_feedback@treasury.gov>; NYSCEF Resource Center <efile@nycourts.gov>; ServiceECF@law.nyc.gov <ServiceECF@law.nyc.gov>; KINGS COUNTY TAX MATTERS <TaxEfiled@law.nyc.gov>; JPINN@LAW.NYC.GOV <JPINN@LAW.NYC.GOV>; nschaier@law.nyc.gov <nschaier@law.nyc.gov>; hadkins@mtagservices.com <hadkins@mtagservices.com>; GREGORY.L.DAVIS@cbp.dhs.gov <GREGORY.L.DAVIS@cbp.dhs.gov>; esanford@mtagservices.com <esanford@mtagservices.com>; jmeeks@station31partners.com <jmeeks@station31partners.com>; kshadle@tcmfund.com <kshadle@tcmfund.com>; dcarter@mtagservices.com <dcarter@mtagservices.com>; nchini@bainbridge.com <nchini@bainbridge.com>; gmichaud@mtagservices.com <gmichaud@mtagservices.com>; LANDON.R.HUTCHENS@cbp.dhs.gov <LANDON.R.HUTCHENS@cbp.dhs.gov>; TAMMY.T.MELVIN@cbp.dhs.gov <TAMMY.T.MELVIN@cbp.dhs.gov>; usmint-support@pfsweb.com <usmint-support@pfsweb.com>; ANTHONY.BUCCI@cbp.dhs.gov <Anthony.bucci@cbp.dhs.gov>; JOHN.B.MENNELL@cbp.dhs.gov <JOHN.B.MENNELL@cbp.dhs.gov>; Martin.Rowland@parks.nyc.gov <Martin.Rowland@parks.nyc.gov>; dernwein@tcmfund.com <dernwein@tcmfund.com>; asimmons@mtagservices.com <asimmons@mtagservices.com>; cshugg@sylint.com <cshugg@sylint.com>; isabel.zisselsberger@kpmg.com <isabel.zisselsberger@kpmg.com>; ITACKEL@cbp.dhs.gov <ITACKEL@cbp.dhs.gov>; RICHARD.J.PAUZA@CBP.DHS.GOV <RICHARD.J.PAUZA@CBP.DHS.GOV>; JAMES.E.BURNS@cbp.dhs.gov <JAMES.E.BURNS@cbp.dhs.gov>; electronicfilings@ftc.gov <electronicfilings@ftc.gov>; Amanda [GMD] <IMCEAEX-_o=ExchangeLabs_ou=Exchange+20Administrative+20Group+20+28FYDIBOHF23SPDLT+29_cn=Recipients_cn=c190de3e029d4091b8fd14015f12e672-grecoa@namprd20.prod.outlook.com>; usdoj@public.govdelivery.GOV <usdoj@public.govdelivery.GOV>; irs@service.govdelivery.GOV <irs@service.govdelivery.GOV>; subscription.service@subscriptions.ssa.gov <subscription.service@subscriptions.ssa.gov>; steven.p.bansbach@cbp.dhs.gov <steven.p.bansbach@cbp.dhs.gov>; usattorneys@public.govdelivery.com <usattorneys@public.govdelivery.com>; OJJDP@public.govdelivery.com <OJJDP@public.govdelivery.com>; fundingnews@public.govdelivery.com <fundingnews@public.govdelivery.com>; Civil.Feedback@usdoj.gov <Civil.Feedback@usdoj.gov>; CivilRightsDivision@usdoj.gov <CivilRightsDivision@usdoj.gov>; premerger@usdoj.gov <premerger@usdoj.gov>; Criminal.Division@usdoj.gov <Criminal.Division@usdoj.gov>; privacy@usdoj.gov <privacy@usdoj.gov>; dea@public.govdelivery.com <dea@public.govdelivery.com>; NewYork.ATR@usdoj.gov <NewYork.ATR@usdoj.gov>; ATR.International@usdoj.gov <ATR.International@usdoj.gov>; ATR.TEA@usdoj.gov <ATR.TEA@usdoj.gov>; ATR.MEP.Information@usdoj.gov <ATR.MEP.Information@usdoj.gov>; ATR.EXO@usdoj.gov <ATR.EXO@usdoj.gov>; ATR.EAG@usdoj.gov <ATR.EAG@usdoj.gov>; ATR.CPA@usdoj.gov <ATR.CPA@usdoj.gov>; Chicago.ATR@usdoj.gov <Chicago.ATR@usdoj.gov>; ATR.Appellate@usdoj.gov <ATR.Appellate@usdoj.gov>; antitrust.atr@usdoj.gov <antitrust.atr@usdoj.gov>; jessica.rosenbaum@usdoj.gov <jessica.rosenbaum@usdoj.gov>; mross@stratford.k12.ia.us <mross@stratford.k12.ia.us>; yolanda.choates@cbp.dhs.gov <yolanda.choates@cbp.dhs.gov>; tameka.link@dc.gov <Tameka.Link@dc.gov>; OVC@public.govdelivery.com <OVC@public.govdelivery.com>; latonia.battlewhite@dc.gov <latonia.battlewhite@dc.gov>; syncia.sabain@dc.gov <syncia.sabain@dc.gov>; charles.akinboyewa@dc.gov <charles.akinboyewa@dc.gov>; Nicole.Colbert@dc.gov <Nicole.Colbert@dc.gov>; sandra.thalley@dc.gov <sandra.thalley@dc.gov>; Robert.Greene@dc.gov <Robert.Greene@dc.gov>; USAID-Industry-Liaison@subscribe.usaid.gov <USAID-Industry-Liaison@subscribe.usaid.gov>; donotreply@info.consumerfinance.gov <donotreply@info.consumerfinance.gov>; EDINCER54@GMAIL.COM <EDINCER54@GMAIL.COM>
+Subject: Re: VIOLATED USC 18.225, 18.21, 18.4, 18.3, 18.2 --- AFTER MY CIVIL RIGHTS IN 153974/2020
+ 
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+EXHIBIT(S) - AC0  (Motion #001)
+ACRIS Detailed Document Information (2019000021408)2019010800475001
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+EXHIBIT(S) - AC1  (Motion #001)
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+EXHIBIT(S) - AC2  (Motion #001)
+ACRIS Detailed Document Information (2020000155421)2020052000291002
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+EXHIBIT(S) - AC3  (Motion #001)
+ACRIS Detailed Document Information (2020000155422)2020052000291003
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+EXHIBIT(S) - AC4  (Motion #001)
+ACRIS Detailed Document Information (2020000155423)2020052000291004
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+EXHIBIT(S) - ACR  (Motion #002)
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+
+
+---
+
+EXHIBIT(S) - 1  (Motion #001)
+6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ANDSuLFWlbjttGxgjUXGAw==
+EXHIBIT(S) - 2  (Motion #001)
+6.25.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ph76T77EGjUtofiKDKCOoA==
+EXHIBIT(S) - 3  (Motion #001)
+6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x9RFyUAiwcmGbb6y8R306w==
+EXHIBIT(S) - 4  (Motion #001)
+6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ==
+EXHIBIT(S) - 5  (Motion #001)
+6.27.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=382TNrNKjw28ce0sCmTN9g==
+EXHIBIT(S) - 6  (Motion #001)
+6.28.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UQzt9l/yhPj2jXV6Xk9JEA==
+EXHIBIT(S) - 7  (Motion #001)
+6.29.2020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM   - DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZWQqfKHMbUj/LLDfoydj1g==
+EXHIBIT(S) - 8  (Motion #001)
+6.30.2020 email
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bJO1Rhql6hYHUqwyBXgpGQ==
+
+---
+
+EXHIBIT(S) - 2  (Motion #001)
+7.2.2020 surveillance video photographs, WHAT APPEARS LIKE BLACK AND WHITE "ONLY" PHOTOGRAPH
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=beoPSi5TWTAsiW/5XVap2w==
+EXHIBIT(S) - 3  (Motion #001)
+7.2.2020 surveillance video photographs, INTO THE THRESHOLD OF MY ENTRYWAY…
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=thOx3vHzDXJ1LG9IEQ962g==
+EXHIBIT(S) - 4  (Motion #001)
+7.3.2020 surveillance video photographs, A VIEW OF THE COURTYARD AND CHILDREN
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95qV/5SZ/JLyUXzmCTpzrA==
+EXHIBIT(S) - 5  (Motion #001)
+7.3.2020 surveillance video photographs, A VIEW OF THE COURTYARD AND CHILDREN
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JxfYNYNM64O3GvWBB39vDQ==
+EXHIBIT(S) - 6  (Motion #001)
+NYSCEF Criminal Court Information- THE COURT WOULD NOT RESTRAIN THEM FROM VIDEOTAPING -- SO I CUT THE ETHERNET CORD TO THEIR CAMERA
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3G/uVrDZNeOAh9/cIVZMQ==
+EXHIBIT(S) - 7  (Motion #001)
+photographs- VIOLATION OF PRIVACY
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fC4jf3UUfVL4Nxd1UZFe7w==
+EXHIBIT(S) - 8  (Motion #001)
+7.16.2020 surveillance video photographs, INTO THE THRESHOLD OF MY DOORWAY
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rwJsp5trwCp8p5UEfE1zJg==
+
+---
+
+
+CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ==
+EXHIBIT(S) - COf
+CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET, NEW YORK, NEW YORK 10012
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g==
+EXHIBIT(S) - MEW  (Motion #002)
+Miwako Messer (AFFIDAVIT) IS REPORTED AS A 25 YEAR AFFILIATE OF THE PLAINTIFF
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw==
+EXHIBIT(S) - MW1  (Motion #001)
+Affidavit of Miwako Messer SHOULD BE CONSIDERED AS WELL ORCHESTRATED BY OTHER PERSONS OF INTEREST
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw==
+EXHIBIT(S) - VER
+NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING - PER DEPARTMENT OF BUILDINGS RECORD CONTRARY TO THOSE "COMPLAINTS"
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgwH2omenQPCvT0OYOE3Rg==
+EXHIBIT(S) - 804  (Motion #002)
+property report (see also: Miwa and Teschman) Assignment to Zucker 0526, OWNERS AND DIRECTORS- CONTRARY TO THE DEED FILED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA==
+EXHIBIT(S) - p97  (Motion #001)
+see also: MEWS schedule of assignments to Zucker  ROBERT ESNARD, THOMAS ESCHMANN, SULLIVAN PROPERTIES LLC
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eWSv56qXzYyHjq8kJphooQ==
+
+
+---
+
+
+2020.06 - NOTICE OF WINDOW STILL UNREPAIRED- THEY WERE FOCUSING ON THE OTHER WINDOW - WITH A CAMERA POINTED AT MY LAPTOP AND BED
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6YSEKbWaYH5TQs6wn7Tz/g==
+EXHIBIT(S) - @8
+2020.06 - APPLICATION SUBMITTED TO HARVARD UNIVERSITY (JOHN. F KENNEDY SCHOOL OF GOVERNMENT)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hok8HxzDKC5Gygg5mGEmUg==
+EXHIBIT(S) - @9
+2020.06 - ADMITTED AND ENROLLED AT HARVARD UNIVERSITY (JOHN. F KENNEDY SCHOOL OF GOVERNMENT)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rLrkE03EpMhCXhS4sXkBbQ==
+EXHIBIT(S) - $10
+2020.06 - ADMITTED AND ENROLLED AT HARVARD UNIVERSITY (JOHN. F KENNEDY SCHOOL OF GOVERNMENT) FOR $1.10 (ONE DOLLAR AND TEN CENTS)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_wlpqs6hRnqFLQWseKBaUA==
+EXHIBIT(S) - @$1
+"2020.06.03 - NOTICE TO PLAINTIFF (PAUL REGAN & CO) TO STOP HARASSING ME - WARNED THEM ABOUT THE IMPLIED RISK: - Why don't you just tack on the 9 billion dollars NYC is in the hole while you're at it?
+
+---
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+EXHIBIT(S) - @$2
+2020.06.05 - LETTER ADDRESSED TO DINCER WITH AN ATTACHMENT
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9vG6CoErQ06XLPWGwdqPng==
+EXHIBIT(S) - @$3
+2020.06.06 - LETTER TO SHARI LASKOWITZ IN RESPONSE TO FURTHER HARASSMENT
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Z5Qy9kwlnqym0Pj5PU1CA==
+EXHIBIT(S) - @$4
+2020.06.09 - ADNAN (SERVANT) REPRESENTS A VENTILATOR FAN AS A SPEAKER
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zEdIF90lp8Cr0xLE1Cq38A==
+EXHIBIT(S) - @$5
+2020.06.09 - PAUL REGAN (GENERAL COUNSEL) ATTEMPTS TO INCITE AN UNLAWFUL ARREST
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s3A3QFmc/KymzE0H5QErmw==
+EXHIBIT(S) - @$6
+2020.06.10 - DINCER RESPONSE TO COUNSEL - (GENERAL COUNSEL) UNLAWFUL ARREST
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dPSZ03Y2rT27NQYagFWM_PLUS_Q==
+EXHIBIT(S) - @$7
+2020.06.10 - NOTICE TO MEWS ON 07.25.2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=c8HUQarPJ58Ilx4Kl1iGCw==
+EXHIBIT(S) - @$8
+2020.06.10 - PETITIONER'S REQUEST TO REMOVE VENTILATOR AN NOTICE TO MEWS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FtSnIr2dgFXmrQ5/yD27Vw==
+EXHIBIT(S) - @$9
+2020.06.14 - 1146AM NO PERMIT FOR WORKERS ON THE ROOF (111 SULLIVAN REAR)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yHFo9LckqZufbbXWmyVEzw==
+EXHIBIT(S) - $10
+2020.06.16 - LETTER TO INGRAM - REQUESTING WINDOW REPAIR-THERE IS DAMAGES
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Zvb4zKCBfGJSlO_PLUS_eiuryuQ==
+
+---
+
+
+OPERATIONS DIRECTOR- ALOPEZ@MSKYLINE.COM
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uJd46HaWdvejXPqCaw0U0A==
+EXHIBIT(S) - $%$
+"SECONDARY RELIEF HEREIN: DISMISS ALL CLAIMS (SUPPLEMENTS)NY CPLR § 1003
+"
+
+---
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sw8P_PLUS_dvJCX1uFTbPUT8L7A==
+Document
+EXHIBIT(S) - $$%
+NOTICE OF SECONDARY RELIEF PROVIDED AS COURTESY (PRO SE LITIGANT)
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zKlc12hNNQ3mulFoxilt8g==
+EXHIBIT(S) - 3K?
+SEE ALSO: LEASE PROVISIONS IN THE MEMORANDUM OF LAW (PRELIMINARY) STATEMENTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6a66vTf7kki3b0YIbAYBQA==
+EXHIBIT(S) - ?$?
+2020.01.28 - PAUL REGAN (COUNSEL TO MEWS) LETTER "ON NOTICE" (NYPD) MEANING HE CAN STARE AT THE INTERIOR OF MY UNIT AT WILL?
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2oJ03Bv6rzNxwm21n3_PLUS_ioQ==
+
+
+---
+
+
+EXHIBIT(S) - 309
+NYCEF 309-   - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==
+EXHIBIT(S) - 310
+NYCEF 310-  - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OomxeuQk70qNjWWKb40STQ==
+EXHIBIT(S) - 311
+NYCEF 311-   - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tBNPPEezUTFc5hbuiEzdUQ==
+EXHIBIT(S) - 312
+NYCEF 312-   - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qE8ZW1H9E96HdWGe_PLUS_HUFMw==
+EXHIBIT(S) - 313
+NYCEF 313 -   - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dFo3h601PGsx5OdVHKce6w==
+EXHIBIT(S) - 314
+NYCEF 314 -   - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rKf0ePhveTNiSdMV/Ff6qQ==
+EXHIBIT(S) - MO
+MEMO TO PLAINTIFF--- LZUCKER@MSKYLINE.COM, SLASKOWITZ@MSKYLINE.COM
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
+EXHIBIT(S) - ACR
+ASSIGNMENTS OF LEASES AND RENTS  - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IY8iDH_PLUS_UpVanEtcRioef3A==
+EXHIBIT(S) - tax
+_Digital Tax Map - New York City Department of Finance
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eE_PLUS_6vTJd2LbCuTiN42PbQw==
+EXHIBIT(S) - COR
+CERTIFICATE OF OCCUPANCY FOR REAR (DCP 1077252)  - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZOCFS3HH2UeHQe8j2tXJoQ==
+EXHIBIT(S) - DOB
+CERTIFICATE OF OCCUPANCY FOR FRONT (DCP 1077252) - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xqRfxyWgjHfS_PLUS_BIgF1mcGA==
+EXHIBIT(S) - DOB
+DEPARTMENT OF BUILDINGS REPORTS FOR (DCP 1077251/1077252) - USC TITLE 18.225, 18.21, 18.4, 18.3, 18.2
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9akTYffEMVNdORAXTNTMtQ==
+
+
+/S/   BO DINCER
+    MS60710444266@YAHOO.COM
+    tel.:    646-256-3609
+From: 153974 /2020 93715 / 1516523 <BLOCK803LOT11@outlook.com>
+Sent: Thursday, July 7, 2022 7:14 PM
+To: usdoj@public.govdelivery.com <usdoj@public.govdelivery.com>; irs@service.govdelivery.com <irs@service.govdelivery.com>; usttb@public.govdelivery.com <usttb@public.govdelivery.com>; financialeducation@info.consumerfinance.gov <financialeducation@info.consumerfinance.gov>; DHSOIG@public.govdelivery.com <DHSOIG@public.govdelivery.com>; Office of Inspector General (VETERANS AFFAIRS) <vaoig@messages.va.gov>; PENSION BENEFIT GURANTEES <pbgc@subscriptions.pbgc.gov>; USPSOIG@public.govdelivery.com <USPSOIG@public.govdelivery.com>; cdfifund@service.govdelivery.com <cdfifund@service.govdelivery.com>; subscribe@subscribe.ftc.gov <subscribe@subscribe.ftc.gov>; vatax@public.govdelivery.com <vatax@public.govdelivery.com>; tigta@service.govdelivery.com <tigta@service.govdelivery.com>; Small Business Administration <news@updates.sba.gov>; DOT INSPECTOR GENERAL <news@updates.oig.dot.gov>; Office of the Special Inspector General for the Troubled Asset Relief Program (SIGTARP) <sigtarp@service.govdelivery.com>; HUDOIG@info.hudoig.gov <HUDOIG@info.hudoig.gov>; Council of the Inspectors General on Integrity and Efficiency <CIGIE@public.govdelivery.com>; CBPMEDIARELATIONS <CBPMEDIARELATIONS@cbp.dhs.gov>; AZCBPPublicAffairs@cbp.dhs.gov <AZCBPPublicAffairs@cbp.dhs.gov>; Constituentservices@doc.nyc.gov <Constituentservices@doc.nyc.gov>; OFCCP-Public@dol.gov <OFCCP-Public@dol.gov>; foia@eeoc.gov <foia@eeoc.gov>; NYCTLservicing@tcmfund.com <NYCTLservicing@tcmfund.com>; matthew.schimmel@cigie.gov <matthew.schimmel@cigie.gov>; laura.nichols@cigie.gov <laura.nichols@cigie.gov>; SOCIAL SECURITY ADMINISTRATION <subscriptions@subscriptions.treas.gov>; Columbia EMOT Alert <00000121e5ec70a4-dmarc-request@lists.columbia.edu>; Hon. Nancy T. Sunshine <kcco-efile@nycourts.gov>; CUIT Communications <cuit-communications@columbia.edu>; CommissionerCrenshaw@sec.gov <CommissionerCrenshaw@sec.gov>; CommissionerLee@sec.gov <CommissionerLee@sec.gov>; usmint-support@usmcatalog.com <usmint-support@usmcatalog.com>; ofac_feedback@treasury.gov <ofac_feedback@treasury.gov>; NYSCEF Resource Center <efile@nycourts.gov>; ServiceECF@law.nyc.gov <ServiceECF@law.nyc.gov>; KINGS COUNTY TAX MATTERS <TaxEfiled@law.nyc.gov>; JPINN@LAW.NYC.GOV <JPINN@LAW.NYC.GOV>; nschaier@law.nyc.gov <nschaier@law.nyc.gov>; hadkins@mtagservices.com <hadkins@mtagservices.com>; GREGORY.L.DAVIS@cbp.dhs.gov <GREGORY.L.DAVIS@cbp.dhs.gov>; esanford@mtagservices.com <esanford@mtagservices.com>; jmeeks@station31partners.com <jmeeks@station31partners.com>; kshadle@tcmfund.com <kshadle@tcmfund.com>; dcarter@mtagservices.com <dcarter@mtagservices.com>; nchini@bainbridge.com <nchini@bainbridge.com>; gmichaud@mtagservices.com <gmichaud@mtagservices.com>; LANDON.R.HUTCHENS@cbp.dhs.gov <LANDON.R.HUTCHENS@cbp.dhs.gov>; TAMMY.T.MELVIN@cbp.dhs.gov <TAMMY.T.MELVIN@cbp.dhs.gov>; usmint-support@pfsweb.com <usmint-support@pfsweb.com>; ANTHONY.BUCCI@cbp.dhs.gov <Anthony.bucci@cbp.dhs.gov>; JOHN.B.MENNELL@cbp.dhs.gov <JOHN.B.MENNELL@cbp.dhs.gov>; Martin.Rowland@parks.nyc.gov <Martin.Rowland@parks.nyc.gov>; dernwein@tcmfund.com <dernwein@tcmfund.com>; asimmons@mtagservices.com <asimmons@mtagservices.com>; cshugg@sylint.com <cshugg@sylint.com>; isabel.zisselsberger@kpmg.com <isabel.zisselsberger@kpmg.com>; ITACKEL@cbp.dhs.gov <ITACKEL@cbp.dhs.gov>; RICHARD.J.PAUZA@CBP.DHS.GOV <RICHARD.J.PAUZA@CBP.DHS.GOV>; JAMES.E.BURNS@cbp.dhs.gov <JAMES.E.BURNS@cbp.dhs.gov>; electronicfilings@ftc.gov <electronicfilings@ftc.gov>; Amanda [GMD] <IMCEAEX-_o=ExchangeLabs_ou=Exchange+20Administrative+20Group+20+28FYDIBOHF23SPDLT+29_cn=Recipients_cn=c190de3e029d4091b8fd14015f12e672-grecoa@namprd20.prod.outlook.com>; usdoj@public.govdelivery.GOV <usdoj@public.govdelivery.GOV>; irs@service.govdelivery.GOV <irs@service.govdelivery.GOV>; subscription.service@subscriptions.ssa.gov <subscription.service@subscriptions.ssa.gov>; steven.p.bansbach@cbp.dhs.gov <steven.p.bansbach@cbp.dhs.gov>; usattorneys@public.govdelivery.com <usattorneys@public.govdelivery.com>; OJJDP@public.govdelivery.com <OJJDP@public.govdelivery.com>; fundingnews@public.govdelivery.com <fundingnews@public.govdelivery.com>; Civil.Feedback@usdoj.gov <Civil.Feedback@usdoj.gov>; CivilRightsDivision@usdoj.gov <CivilRightsDivision@usdoj.gov>; premerger@usdoj.gov <premerger@usdoj.gov>; Criminal.Division@usdoj.gov <Criminal.Division@usdoj.gov>; privacy@usdoj.gov <privacy@usdoj.gov>; dea@public.govdelivery.com <dea@public.govdelivery.com>; NewYork.ATR@usdoj.gov <NewYork.ATR@usdoj.gov>; ATR.International@usdoj.gov <ATR.International@usdoj.gov>; ATR.TEA@usdoj.gov <ATR.TEA@usdoj.gov>; ATR.MEP.Information@usdoj.gov <ATR.MEP.Information@usdoj.gov>; ATR.EXO@usdoj.gov <ATR.EXO@usdoj.gov>; ATR.EAG@usdoj.gov <ATR.EAG@usdoj.gov>; ATR.CPA@usdoj.gov <ATR.CPA@usdoj.gov>; Chicago.ATR@usdoj.gov <Chicago.ATR@usdoj.gov>; ATR.Appellate@usdoj.gov <ATR.Appellate@usdoj.gov>; antitrust.atr@usdoj.gov <antitrust.atr@usdoj.gov>; jessica.rosenbaum@usdoj.gov <jessica.rosenbaum@usdoj.gov>; mross@stratford.k12.ia.us <mross@stratford.k12.ia.us>; yolanda.choates@cbp.dhs.gov <yolanda.choates@cbp.dhs.gov>; tameka.link@dc.gov <Tameka.Link@dc.gov>; OVC@public.govdelivery.com <OVC@public.govdelivery.com>; latonia.battlewhite@dc.gov <latonia.battlewhite@dc.gov>; syncia.sabain@dc.gov <syncia.sabain@dc.gov>; charles.akinboyewa@dc.gov <charles.akinboyewa@dc.gov>; Nicole.Colbert@dc.gov <Nicole.Colbert@dc.gov>; sandra.thalley@dc.gov <sandra.thalley@dc.gov>; Robert.Greene@dc.gov <Robert.Greene@dc.gov>; USAID-Industry-Liaison@subscribe.usaid.gov <USAID-Industry-Liaison@subscribe.usaid.gov>; donotreply@info.consumerfinance.gov <donotreply@info.consumerfinance.gov>; EDINCER54@GMAIL.COM <EDINCER54@GMAIL.COM>
+Subject: VIOLATED USC 18.225, 18.21, 18.4, 18.3, 18.2 --- AFTER MY CIVIL RIGHTS IN 153974/2020
+ 
+
+
+/S/   BO DINCER
+    MS60710444266@YAHOO.COM
+    tel.:    646-256-3609
+From: 153974 /2020 93715 / 1516523
+Sent: Thursday, July 7, 2022 7:13 PM
+To: EDINCER54@GMAIL.COM <EDINCER54@GMAIL.COM>; EDINCER54@OUTLOOK.COM <EDINCER54@OUTLOOK.COM>; governor.hochul@exec.ny.gov <governor.hochul@exec.ny.gov>; Bo Dincer <bdincer66@icloud.com>; B D2022 <ms60710444266@yahoo.com>
+Cc: OVC@public.govdelivery.com <OVC@public.govdelivery.com>; latonia.battlewhite@dc.gov <latonia.battlewhite@dc.gov>; syncia.sabain@dc.gov <syncia.sabain@dc.gov>; charles.akinboyewa@dc.gov <charles.akinboyewa@dc.gov>; Nicole.Colbert@dc.gov <Nicole.Colbert@dc.gov>; sandra.thalley@dc.gov <sandra.thalley@dc.gov>; Robert.Greene@dc.gov <Robert.Greene@dc.gov>; USAID-Industry-Liaison@subscribe.usaid.gov <USAID-Industry-Liaison@subscribe.usaid.gov>; donotreply@info.consumerfinance.gov <donotreply@info.consumerfinance.gov>; SanFran.ATR@usdoj.gov <SanFran.ATR@usdoj.gov>; ATR.TFS@usdoj.gov <ATR.TFS@usdoj.gov>; nsd.public@usdoj.gov <nsd.public@usdoj.gov>; AskSMART@usdoj.gov <AskSMART@usdoj.gov>; ocdetf.foia@usdoj.gov <ocdetf.foia@usdoj.gov>; MRUFOIA.Requests@usdoj.gov <MRUFOIA.Requests@usdoj.gov>; ogis@nara.gov <ogis@nara.gov>; National.FOIAPortal@usdoj.gov <National.FOIAPortal@usdoj.gov>; Bo Dincer <bo.dincer@yahoo.com>
+Subject: i'm very concerned. VIOLATED USC 18.225, 18.21, 18.4, 18.3, 18.2 --- AFTER MY CIVIL RIGHTS IN 153974/2020
+ 
+HEY DAD... I ALREADY CONTACTED EXPEDIA.
+
+ALL UNDER USC 18.225, 18.21, 18.4, 18.3, 18.2 --- FOR STARTERS...
+
+BE VERY CAREFUL ABOUT WHO YOU TRUST.
+
+THESE ARE ALL UNDER FEDERAL INVESTIGATION.
+.
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES
+
+
+
+I PROVIDED THIS INFORMATION AND LOOK WHAT ALL CAME BACK..
+
+I PROVIDED THEM THIS INFORMATION...
+*** THAT INFORMATION YOU NEED TO VERIFY STARTS HERE: 
+*** Lewisohn Hall, 2970 Broadway, New York, NY 10027, United States of America GPS (40.8084317, -73.9631634)
+WHICH IS WHY I AM HERE.
+ -- THEY ARE PEEPING TOMS, AID AND ABET TO THOSE FELONIES COMMITTED BY
+THE ZUCKER ENTERPRISES LLC
+
+SULLIVAN PROPERTIES LLC.
+
+SULLIVAN GP LLC
+
+SULLIVAN PROPERTIES LP
+
+MANHATTAN SKYLINE MANAGEMENT CORP.
+
+STATE FARM LIFE INSURANCE COMPANY
+
+STATE FARM REALTY MORTGAGE LLC. PER SHARI'S LETTER WAS REQUESTED "IS OBSTRUCTION OF JUSTICE REQUESTED" NOT TO CONTACT ANOTHER ENTITY TO FURTHER MISLEAD REGULATORS...
+
+STATE FARM ASSURANCES FUNDS TRUST, CIK FILER 93715, RANDOMLY ELECTED TO SELF-IMPLODE
+
+ASSURANCES FUNDS TRUST, PRESENTLY OPERATES WITH THE SAME DIRECTORS UNDER CIK FILER 1516523
+
+INDIVIDIVUALS OF INTEREST FROM NYSCEF 153974/2020 - OBTAINED A LOAN FOR $6 MILLION DOLLARS WHICH SATIFY THE FOLLOWING VIOLATIONS: USC TITLE 18.225, 18.21 (USING FALSE AND UNLAWFUL RENT ROLLS FILED WITH THE THE NY DEPT OF FINANCE) USC TITLE 18.4, 18.3, 18.2 
+(WILFULLY KNEW AND CONTINUED THOSE FINANCIAL CRIMES)
+1.    LAURIE ZUCKER        DIRECTOR   
+                EMAIL:    LZUCKER@MSKYLINE.COM
+
+2.    SHARI LASKOWITZ        ATTORNEY   
+                EMAIL:    SLASKOWITZ@INGRAMLLP.COM   
+                TEL:     347-880-1899
+
+3.    PAUL REGAN        ATTORNEY
+                MANHATTAN SKYLINE MANAGEMENT CORP.
+                LEGAL@MSKYLINE.COM
+                TEL:    917-843-3456
+
+4.    ASHLEY HUMPHRIES  ATTORNEY
+                WILSON ELSER LAW FIRM
+                LEGAL@MSKYLINE.COM
+                TEL:    917-843-3456
+5.    STEVE O'CONNELL, COUNSELOR TO LAURIE ZUCKER AND WILLIAM MCKENZIE
+            EMAIL: SGO2107@COLUMBIA.EDU, LZUCKER@MSKYLINE.COM, WMCKENZIE@NYCOURTS.GOV, LEGAL@MSKYLINE.COM
+6.    WILLIAM MCKENZIE, CLERK IN NYSCEF MATTER 153974/2020
+            EMAIL: WMCKENZI@NYCOURTS.GOV
+
+            OBSTRUTED JUSTICE WHILE AIDING AND ABETTING TO IMPEDING A FEDERAL SECURITIES INVESTIGATION,  AS SEEN IN THE COMMUNICATION BELOW ON DECEMBER 22ND, 2021
+            - SEE ALSO: STOCK PRICE OF CIK FILER, UNDER TICKER STFGX ON DECEMBER 21, 2021 - LOST COLLECTIVELY AS FOUR TICKERS NEARLY ONE-BILLION DOLLARS IN A DAY AND NO-PUBLIC DISCLOSURE.
+            - INFORMATION SHARED BY AND BETWEEN THOSE INDIVIDUALS.             
+
+A.    HALE DINCER         ACCESSORY
+                - COMMUNICATIONS WITH SHARI LASKOWITZ, ET. AL.
+                        -AND DURING THE PROCEEDINGS IN NYSCEF 153974/2020
+                        - AND AFTER WHILE I MOVE EVERY 4 DAYS SO THAT I AM MOST EFFECTIVE                             TO PROVIDE INFORMATION TO THE FEDERAL REGULATORS
+                        ABOUT AN ONGOING BANK AND SECURITIES FRAUD INVESTIGATION.
+
+                        TO AVOID BEING IMPLICATED IN THE FELONIES COMMITTED
+                        IN NYSCEF 153974/2020 WAS AT ALL TIMES AWARE.
+
+                EMAIL:    <HIDINCER@AOL.COM>
+                TEL:        +15168841083@tmomail.net
+
+B.    DAPHNE DINCER        ACCESSORY
+                - SEE ALSO COMMUNICATIONS WITH SHARI LASKOWITZ, HALE DINCER, ET. AL
+                EMAIL:        <DAPHNE.DINCER@GMAIL.COM>
+                TEL:        +15163224896@tmomail.net
+
+C.    ANNE BRANDON, ALAMEDA    ACCESSORY
+                EMAIL 1:    <anne@thehighlandpartners.com>
+                EMAIL 2:    <ANNE.D.BRANDON@gmail.com>
+
+
+
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES/tree/main
