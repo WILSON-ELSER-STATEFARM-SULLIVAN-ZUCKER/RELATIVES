@@ -1,0 +1,17 @@
+location 
+
+ipconfig - 2022-07-08
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\User>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : GSLEX
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : brooklynny.local
