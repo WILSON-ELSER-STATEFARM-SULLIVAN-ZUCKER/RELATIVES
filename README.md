@@ -25,6 +25,28 @@
 	Angelique Sabia-Candero <angelique.sabia-candero@wilsonelser.com>, angel.vitiello@wilsonelser.com, Andrea Shiffman <andrea.shiffman@wilsonelser.com>,
 	Amy Hanrahan <amy.hanrahan@wilsonelser.com>, alex.kress@wilsonelser.com, ALDEN 00066govtIdx WILSON <alden.wilson@maine.gov>, Alan Rubin 	<alan.rubin@wilsonelser.com>
 
+---
+READ THIS STORY - AND GET BACK TO ME ON HOW RESOURCES CAN BECOME AN ISSUE WHEN A FEDERAL INVESTIGATION IS IMPEDED AS WELL
+
+ Luis Ferreira is a white collar fugitive who was featured on the CNBC show "American Greed: The Fugitives" on August 29th, 2012.
+
+-- 
+
+no award.
+
+https://www.justice.gov/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations
+that is actually death sentence, not caveman time.
+attached - check the stamps 
+AUGUST 29, 2012 -- CAN'T FIND HIM ANYWHERE.
+
+
+
+    MS60710444266@YAHOO.COM, BDINCER66@ICLOUD.COM, BONDSTRT007@GMAIL.COM
+    tel.:    646-256-3609, 917-378-3467
+    
+   ==== GAVE UP ON THAT IN A DAY ANYWAY.
+
+
 
 
 Hon. Nancy T. Sunshine.
