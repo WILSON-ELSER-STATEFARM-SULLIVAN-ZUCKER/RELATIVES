@@ -1,0 +1,164 @@
+From - Mon May 30 17:16:06 2022
+X-Account-Key: account1
+X-UIDL: AO7Ym14Sh3izYpU0jwSrUDl58f0
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.220.180.164
+ by atlas216.free.mail.ne1.yahoo.com with HTTPS; Mon, 30 May 2022 21:18:06 +0000
+Return-Path: <mrc@nysba.org>
+X-Originating-Ip: [192.161.149.6]
+Received-SPF: pass (domain of nysba.org designates 192.161.149.6 as permitted sender)
+Authentication-Results: atlas216.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@nysba.org header.s=zendesk1;
+ spf=pass smtp.mailfrom=nysba.org;
+ dmarc=unknown header.from=nysba.org;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 30 May 2022 21:18:07 +0000
+X-YMailISG: liPYub8WLDso0gi4LDGHQplQNzUD0vm6Gnce45rmydJpVXuZ
+ EsQ63Xv5giJyr1jPwB_TNxxkUtk0mG1WfwEvA0l6czGaJ2WXHbqZ9.sCh3L5
+ EQ31DjOC2l8521cDOcsTfO1JIKU5pYnErKE1fQ2FH97Kr1qPe87GHRMLNGYI
+ bjxutNclx7vM7_98NB7tvUJy4Zlz_OK5giH4J0eS4jQaFdEp9LCyMxoPB.oM
+ 7XHlnw524nzBTEU6eX4ckkq0BmqQZJsBeVWPqcBDK3l_L2Wqvs1bpHJrvAqz
+ hidzc6j_OOiLvDluBc7iP1QBcdd9jsMEqR3vH.3p_0zqki0uNnf72.3_VWFK
+ mhowP0Em_90sjU1oVr.rcAZYqCfUrnbuZTqdlzN0zHBECwv2l7n.ha2knk4N
+ oQ9rT00R3sCo0AqeaE1i9BxCPybqFPqLGlw5Nau1uarmeElG7QxvwaboXlfG
+ 3aJr8ihixQRceYbN71LKaNomW5b7qZpdZXqvnaLDe4wJ4jJZnV0r9rLTolE1
+ GqrlvHfWDn.ybZ0A8CKldF6k38GJxf7BkrbcOSgg8TcZimw.jzyg3kOUwQ5a
+ A8OXlYoZOp9Fo10vtyQmhJw5vTum14iysK9zS1AmCnWTdkrdciB8cDoRDvLg
+ 1n1e.7qt4mnqPxc7pNu2ZD2XbYRd2xM3zZdE.s22GguyUvZOdQPiRQ8PzR5I
+ PDHtZBXBZ_fQyxefyIPopBfnXcXHhPoz6PnOgo4GQJYjSwg52RwxC4cLpJRl
+ UOxgH7FFQ8enus0rBSBWByNchiFgXjqmH.3GiorEJZ6HVoUiPIJUKzjsH.UU
+ vTFRZsAcxnslOjSlkYlrxqFTYBKRZ2mAN.Js5ROiRkjAD7m6gEylvwXoKuKo
+ Y4DcIqjlmtlzai0Z36nsPgOOZ2U5mai9qNAw95weR8Luk5WIloCXeZQ4SSyX
+ vLa_npDAa7dTai.kMRHfpIDK1jeVqJjmrcmHoEuH_lzqnLbOBGfxXIiPBxSo
+ FP3SwdXv9V81g8Lr2p0gT7SVjctB7c_1BsNvSpIHFDDpf5g0jeOweGH2NXip
+ d8ig2vSBdeSz70IF1la7OfMWZc4g0W4TPQLTO7Ug1e_rfqrr0OL1VYgEunH7
+ V_0YSdo_8Sbv05nQzI4UTQyq6lPPzHXaLkOYelMCQS6yE4188201GhEoUd1C
+ wHsHLH2VaZ.fYk2k
+Received: from 192.161.149.6 (EHLO outbyoip6.pod19.use1.zdsys.com)
+ by 10.220.180.164 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 30 May 2022 21:18:06 +0000
+Received: from zendesk.com (unknown [10.219.28.243])
+	by outbyoip6.pod19.use1.zdsys.com (Postfix) with ESMTP id 4LBpCx6JXNz14K2j;
+	Mon, 30 May 2022 21:18:05 +0000 (UTC)
+Date: Mon, 30 May 2022 21:18:05 +0000
+From: "BO DINCER (NYSBA MRC)" <mrc@nysba.org>
+Reply-To: NYSBA MRC <mrc@nysba.org>
+Cc: "letters@nypost.com" <letters@nypost.com>, 
+ Oighotline <oighotline@fdicoig.gov>, 
+ "OIGHotline@frb.gov" <oighotline@frb.gov>, 
+ Margaret Wood <mwood@lasnny.org>, 
+ "losangeles@sec.gov" <losangeles@sec.gov>, 
+ "newyork@sec.gov" <newyork@sec.gov>, 
+ "jpetit@mccarter.com" <jpetit@mccarter.com>, 
+ "Lillian M. Moy" <lmoy@lasnny.org>, 
+ Oig Openrecords <oig.openrecords@tdcj.texas.gov>, 
+ Spd Outreach <spd.outreach@cpa.texas.gov>, 
+ David Moore <david.moore.ct95@statefarm.com>, 
+ David Moore <david.moore@statefarm.com>, 
+ Terrance Ludwig <terrance.ludwig@statefarm.com>, 
+ Ombudsman <ombudsman@sec.gov>, 
+ "Carl Hoecker [SEC]" <oig@sec.gov>, 
+ "bdincer66@icloud.com" <bdincer66@icloud.com>, 
+ MILTON MCKENZIE <ms60710444266@yahoo.com>, 
+ KEVIN ROCK <krock5@bloomberg.net>, 
+ Thermanson <thermanson@northmarq.com>
+Message-ID: <KY3MPG4D0P_6295348d77f53_3a3f823a0cb95c5329d_sprut@zendesk.com>
+In-Reply-To: <CAOHu48_mRUafhVzYgEvgkiPXk8473kKRGqmpzEUo-XqZKp5Yhg@mail.gmail.com>
+References: <KY3MPG4D0P@zendesk.com>
+ <7MVP8Y5438_628b862da4f95_3c3fed5becb96c13983ee_sprut@zendesk.com>
+ <72591489-fb0d-404d-b452-852cec6e0160@WPSFD3P9.OPR.STATEFARM.ORG>
+ <7MVP8Y5438@zendesk.com>
+ <CAOHu48_mRUafhVzYgEvgkiPXk8473kKRGqmpzEUo-XqZKp5Yhg@mail.gmail.com>
+Subject: Re: STFGX 1516523 CIK 93715 ex-post 900$ million in losses.
+ [1-1089821708]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6295348dcfc05_3a3f823a0cb95c533024";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Delivery-Context: event-id-2089702364285
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: All
+X-Mailer: Zendesk Mailer
+X-Zendesk-From-Account-Id: 38473e9
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=nysba.org; q=dns/txt;
+ s=zendesk1; t=1653945485; bh=iEQaoN5N64102DG6A9DgAxxe/56F2NjugSLfbeq9jLw=;
+ h=date:from:reply-to:cc:message-id:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding;
+ b=InsdmVEHy2hJK49HB+LCejKwruwJg7in1SfaGyzxSUy2tu67cgFbeFv8o9YzpEhWTKKz0tWaw6TjQNcB2CIu2KneZj8WJ8uvnPo7kt1sS3ZUz4MkviURQ320/cKZhFc3tZrNoqESLEC6CG+1v9XPt4v5iYUiLYo7h6FiCni+6fXQ/KegEXn6riN6+Ohq/fuElF0SmmeOhO+1Z7ti9pyKW0Dc2DwE35kkxVsaW6/bSVN79Wb60cIaiPGuythL0n2qlHLggCu8GJmipAF/bB9slqbJLdhnD3hHAFGRq4A4bPUwaeZNlx9UFlnnhDLVEe2LYlh2yMVLRvANs0GeFcX4vA==
+Content-Length: 2499
+
+
+----==_mimepart_6295348dcfc05_3a3f823a0cb95c533024
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+##- Please type your reply above this line -##
+
+You are registered as a CC on this request (35839). Reply to this email t=
+o add a comment to the request.
+
+
+
+--------------------------------
+This email is a service from New York State Bar Association.
+
+
+
+
+
+
+
+
+
+[KY3MPG-4D0P]=
+
+----==_mimepart_6295348dcfc05_3a3f823a0cb95c533024
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <style type=3D"text/css">
+    table td {
+      border-collapse: collapse;
+    }
+    body[dir=3Drtl] .directional_text_wrapper { direction: rtl; unicode-b=
+idi: embed; }
+
+  </style>
+</head>
+<body lang=3D"en-us" style=3D"width: 100%!important; margin: 0; padding: =
+0;" xml:lang=3D"en-us">
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style=3D"color: #b5b5b5;">##- Please type your reply above this =
+line -##</div>
+    <p dir=3D"ltr">You are registered as a CC on this request (35839). Re=
+ply to this email to add a comment to the request.</p>
+  </div>
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color: #aaaaaa;&#10;   =
+ margin: 10px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeeeee;=
+">
+    This email is a service from New York State Bar Association. Delivere=
+d by <a href=3D"https://www.zendesk.com/support/?utm_campaign=3Dtext&amp;=
+utm_content=3DNew+York+State+Bar+Association&amp;utm_medium=3Dpoweredbyze=
+ndesk&amp;utm_source=3Demail-notification" style=3D"color:black;" target=3D=
+"_blank">Zendesk</a>
+  </div>
+<span style=3D"color:#FFFFFF" aria-hidden=3D"true">[KY3MPG-4D0P]</span>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage" style=3D"=
+display:none">  <div itemprop=3D"action" itemscope=3D"" itemtype=3D"http:=
+//schema.org/ViewAction">    <link itemprop=3D"url" href=3D"https://suppo=
+rt.nysba.org/hc/requests/35839" />    <meta itemprop=3D"name" content=3D"=
+View ticket" />  </div></div></body></html>
+
+----==_mimepart_6295348dcfc05_3a3f823a0cb95c533024--

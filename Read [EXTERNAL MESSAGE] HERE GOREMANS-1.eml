@@ -1,0 +1,236 @@
+From - Mon Jun 20 18:24:57 2022
+X-Account-Key: account1
+X-UIDL: AL2glV4AzCvOYqijSwiHmPnwGO4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.130.81
+ by atlas215.free.mail.ne1.yahoo.com with HTTPS; Tue, 14 Jun 2022 15:03:38 +0000
+Return-Path: <prvs=157dc59d5=lsscg@fdic.gov>
+X-Originating-Ip: [167.176.6.41]
+Received-SPF: pass (domain of fdic.gov designates 167.176.6.41 as permitted sender)
+Authentication-Results: atlas215.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@FDIC.gov header.s=ZIXVPM_13c2a3898e7;
+ spf=pass smtp.mailfrom=fdic.gov;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=FDIC.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 14 Jun 2022 15:03:39 +0000
+X-YMailAVSC: ZPKyZRo3bBtVo_cCJy15syPAP9SHcabyBw5Nxr5TNYBTxrc
+ hBXUIpTsWUbX00GwyRSyrMgPNJS1sC_7wb2YZYoGz67xYoYqKuPDOmK4emYL
+ gsZsYhYrlP91ei_hyaNj2r.XAFGCIAMKIM9dP7DRYY2nfllp691D0KYbZxXj
+ 0kpnaKU7gjGEtsc278Z9HRniIC1hKBIjcEYJW5WE_h2JsvVuCNq0a_i3zc5x
+ rchOrtv_Ag9JdmjG72c5sbccu9JoO93ykg1PKewfARvC_TEjMa_nGd0vRNp.
+ 2bnnn.YmmaEdc9f6Ga7FrFs5oELvAQm8WVyFgKfWDzu4m4LDlAt6rw8QJZKk
+ XHIHWneDmtq9jeWUodhCpYtf4sdaiMIg_a1lnlg--
+X-YMailISG: X_9t4K8WLDtrsZhZ6c1X3HgLpTcR4OHnU31Jb2zNV1zXEusZ
+ kwm2n8Uessm0pvg27RXF0o5cirUWcBnvFGjC_g_c9UjQ3VFi3av.K2932HMs
+ QY56lj5GvrLBB6ON7u4JS9oNJhxn_Z7wWxpMU_fDms.Pa_1EWLR.drLOCjUL
+ 7GPEarLiI1AF8wcDE8Ll9egMQKbDmmtX_ecUZ5uTSU0.87y5r8UJfi1BfYcC
+ VCAEIJkChwVmlb9DpwUTzMxBO4QJ41CSBlRipL_9hyKDCD_8sdW7NgUP__AC
+ CYxNeGUmiuE3X7ljzOf71je1EayNJWhMsHV97.dkun4CyQ_mNt_Dtz9wswpu
+ lyP91EYDJ8Ac_NrydGKJQ_r2N8644xKxAY1lpP2tE9Fc.3XrqyQxTMIZATKr
+ kSphbn91qBQjQESV.Fn3C92s40T8J03LsL1jY4Mu.JUuXNVjIK2BpDRssHNV
+ UYnPCtqmdxIdap.JJTKuQtRcmHkaBAQY_TVf.itb1dD0jWTNQ5u1fpXfWUi5
+ hC7FP_AtTfWLKcFtOw_2miq61lJYA1C9u2wOdda5_FOpKZyNzhWEWhRhvsPr
+ 3V35XxqyMjjBfWHr7Y0g0twDqFIWSsMVVqaSUArYSAzOvxAuMpZMPMtesxGy
+ 53xjCsogGA2q.xBNPDZ_VyhDvtne3pyuoqnsHpN0mHQo8aQ0hRTvwWW_t3nd
+ zQfmyE9P7cOzu3euFqNnSLyWO3dfNEnisg7BMCiiw5ocYJhUxTHbO0tU5g68
+ 2h5TdrYgxHpBWw8aU.tzVc_UkYzG8_isAtfdDehMai_sZ7NbFeFgh20EUzuS
+ jo7aIyYjZSX_hKmwhw.86l3RiPVl8p7SJItLQ9zGPeISdjHrvtoYJx7L1Mu6
+ 9OjvYQRJLBm3_uysCtFZSTDMmDftmz55KNgr8seT1mvYHxjdtXj1iQYzbuY0
+ Ay8Zs14EJkZYoghY9MVW.0NAcOZiLheVfTdsHwVs4A._SOzgQr8L5l2RSb4f
+ fzNPK7gVdx3USRJjfkOdPO4_Fy4iehcivfho7P92jYBJbeprcNvjLUnI3G5j
+ haQRrHBD7XyqZ4gaknHNJhDBWFEumdd_s4q3sjE85f_6B7hiXLXymSuJiV2O
+ HXgHHuC_al3iFNb4r8c3exlK3ZBJa0N5AFzVVlbC8_bn_lZL.7aikMEVRhHW
+ .7.6lpiLhef265CF0NgghxF9STSm4T2dLDS6jfe.m6JwGx3pVUqJvqykDrry
+ an4.qMVQR27bneeDEy2mTouxjfKXOqiuSiLknXQMU7RbJcT8SZ75G3oe76SI
+ .jOj_GOLkVYpzDff_.OZOqHP77ytbD.369fbfau1ywsj
+Received: from 167.176.6.41 (EHLO zixvpm1.fdic.gov)
+ by 10.217.130.81 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 14 Jun 2022 15:03:38 +0000
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.fdic.gov (Proprietary) with SMTP id EFB132060217
+	for <ms60710444266@yahoo.com>; Tue, 14 Jun 2022 11:03:04 -0400 (EDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+	s=ZIXVPM_13c2a3898e7; d=FDIC.gov;
+	h=From:To:Subject:Date;
+	b=WV6+Yw8O0MDqpBlOwDBYCYDNQwtIuLuxW3kL0RktmOW1EyelIgkLxt9N08rm3UHc
+	RV3gcN33UpH06IcEZwiZnJ76BT8hA6NNooH+rmi592FdfyvdTWEQpcuDfSYNWB
+	C9uyxuJiYyg28NCtPThEXOKrJm6qDV3Q8xZwsgpakFBNg=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=FDIC.gov;
+	s=ZIXVPM_13c2a3898e7; t=1655218984;
+	bh=7NlKd8L75m+nvYzhzouzc9uJLYJ8ifipUaTQRUQDTQM=;
+	h=From:To:Subject:Date;
+	b=IVZQYq0uCh5BoKhzrAuwquZ9lXPZoT+ju4ANNT/JI5LyovNrUoSxSfeq2lSvuMnIR
+	 LAmTibZJbeyaAGQZgZ67X0vp0x1BsBb0flpGiUxrET39gei/wjTcn1ElnlHN2q47iL
+	 jQj+f96FBrDjE78aCp7E4xfQNidYSqCk0ENAtpcQ=
+Received: from dfwfwmx01-ext.fdic.gov (dfwfwmx01-ext.fdic.gov [10.50.7.43])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by zixvpm1.fdic.gov (Proprietary) with ESMTPS id A51C9206020E
+	for <ms60710444266@yahoo.com>; Tue, 14 Jun 2022 11:03:04 -0400 (EDT)
+Received: from dfwdlp01.fdic.gov (HELO dfwfwmx02-ext.fdic.gov) ([10.50.7.20])
+  by dfwfwmx01-dlp.fdic.gov with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 14 Jun 2022 15:03:25 +0000
+X-Ironport-Dmarc-Check-Result: validskip
+X-Outbound: true
+X-IronPort-AV: E=Sophos;i="5.91,300,1647302400"; 
+   d="scan'208,217";a="36674530"
+Received: from vaswexc001p.prod.fdic.gov ([10.112.6.25])
+  by dfwfwmx02-ext.fdic.gov with ESMTP/TLS/AES256-GCM-SHA384; 14 Jun 2022 15:03:25 +0000
+Received: from VASWEXC002P.PROD.FDIC.GOV (10.112.6.26) by
+ VASWEXC001P.PROD.FDIC.GOV (10.112.6.25) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2375.28; Tue, 14 Jun 2022 11:03:24 -0400
+Received: from GCC02-BL0-obe.outbound.protection.outlook.com (10.30.130.15) by
+ VASWEXC002P.PROD.FDIC.GOV (10.112.6.26) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2176.14 via Frontend Transport; Tue, 14 Jun 2022 11:03:24 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=iccQVpgytRiUS4qmA4/tTI/RGvp1j2vfslPnytxtEORQ5ewYs7GqPbuF9TBXhyrWH2vnMkc72cIR2whIaIl75Ge+T7RaDGi13uHmTTM6MmQucX/GY6sXihgzEUWzCnpIp84JqByEOmbTgOUwqJoJ01CCyNI4pDmphfc4PaaJIjpv7i2u+TmlfK2Lg8gQ+/ZwVmSdK4Y+EhJMw+qtqpY5q5mzAYXEksXX7RypkZ3vWiy+uTnWaT3uxfoovHVIbWYLr9Jm7VqwlF7J5uk9q8lXcXepmKyN1W7+MNsdCGKc4Aa1X3iB1eb/JfoD07SA+16iYkPX823lctkvNXqgtMfb8w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=7NlKd8L75m+nvYzhzouzc9uJLYJ8ifipUaTQRUQDTQM=;
+ b=KniLVlmKhflOibqkwWCdBZ6KdPRdnzpiwKeE3mBRbnYOFMMfu9DAca72I4hC6SHdWAdYdVOPSX3btWOibSg2c+xN7JOlf+dNZOnKx7Gj3TZL8M2+bE/K4EG+9/rbe9ohHE54KeTSxaGMhjrO3tgC4iR7kKEVZ9y7hpyXX2awLkwbxDLSqpYSeaphZ2YZuTRLU5GYfwV9Hh3Bnm2fo8eidcCMCdPwGnA9CLvSkQjoKoJEtnm94uiUB/OWTjqCfpUaoEk5tcu0fkDoIXQd7mQxnhrViPb9LmobvHc97wA7ImQx1znCmd4GaGZuxtAPCtHL8O4gFhcGux1WVvhO8acb6A==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=fdic.gov; dmarc=pass action=none header.from=fdic.gov;
+ dkim=pass header.d=fdic.gov; arc=none
+Received: from BY3PR09MB7699.namprd09.prod.outlook.com (2603:10b6:a03:353::17)
+ by MN2PR09MB5051.namprd09.prod.outlook.com (2603:10b6:208:216::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5332.13; Tue, 14 Jun
+ 2022 15:03:23 +0000
+Received: from BY3PR09MB7699.namprd09.prod.outlook.com
+ ([fe80::b59b:d2a4:f703:3381]) by BY3PR09MB7699.namprd09.prod.outlook.com
+ ([fe80::b59b:d2a4:f703:3381%8]) with mapi id 15.20.5332.022; Tue, 14 Jun 2022
+ 15:03:23 +0000
+From: Legal Services and Special Contracts Group <LSSCG@FDIC.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: [EXTERNAL MESSAGE] HERE GOREMANS
+Thread-Topic: [EXTERNAL MESSAGE] HERE GOREMANS
+Thread-Index: AQHYe18iJLXOEOF+tk2Exlx7Le3Ku61PCNcL
+Date: Tue, 14 Jun 2022 15:03:23 +0000
+Message-ID: <BY3PR09MB7699CB837F354ADF60ED5545B0AA9@BY3PR09MB7699.namprd09.prod.outlook.com>
+In-Reply-To: <419086dd-eb40-117c-4ad5-e69c54c08423@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 99ac0a64-b566-41df-32bb-08da4e170737
+x-ms-traffictypediagnostic: MN2PR09MB5051:EE_
+x-microsoft-antispam-prvs: <MN2PR09MB50511A7A7A063CEA565F2254CAAA9@MN2PR09MB5051.namprd09.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: w1oRxO2dkzrHtxHQu1/LpDWFrRq06BHd0wifcslDWF/nAgzo+mdS+JbE0dUaOfGjB3tWWxVNyMs8JF8kTDZhmp305P0A/qA0ygiW/LdwXObH+zxAoYtJCFbVsqV9GJrM4p+gYV0Wsyl527EvBAkxNnb40icgW/X3fyEdZYKM7Hg35o/evYcUezSAOQoGPoRGOqGd6FcZhZSKxEc0ZyEQxchlYshk8KcbFW7dmGmbIeX0aUI/68ZuzO2oh/5uMiFjEN7/iAOTisEuNeuk/qyhh1QEGIJ2PvtzD9x2NT8hM6RSncDE96BbV2+pDslkHaX8Qr0PuR/PjeT0SpqV/JVp+6Ev0DTGu1LiEr4E0aJNy6IinMmLTcm4Rsox2Ye6jZgi1ceMUsfYTrtickeM8Bn5fp/u6VL7WssIR67kKk/gsDKU2rG8vVEBuJzbCxlU/p2hl9t/jKe88Z4GzkM/QLcarQ==
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BY3PR09MB7699.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(64756008)(66446008)(316002)(8676002)(66476007)(66556008)(33656002)(76116006)(2906002)(66946007)(38100700002)(8936002)(6916009)(52536014)(71200400001)(55016003)(508600001)(122000001)(26005)(4270600006)(9686003)(7696005)(6506007)(86362001)(186003)(621065003)(73894004)(38070700005);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: =?us-ascii?Q?AV+cIG4fRRQQ95mqKcTtuKIrcL9XjJ1JgdDBFEvFXONjBZ252RSH+0RsVrLB?=
+ =?us-ascii?Q?zE9hjGPSgmwepjIAm1e14cRk3qXG+cAvUpAjPFHqGmUDB2j5pHyGaVRcHPY+?=
+ =?us-ascii?Q?swSpFt4yPTsLD+5MFI8Ajh3vG4mDygHksyYYG3hch4nfAFAtyFa77i+K35ke?=
+ =?us-ascii?Q?X5IDf0OALdTHUsY9lAnGehraWUP1zZQ/5nKjrA4VHySWwW70H2eNQ1IyfHef?=
+ =?us-ascii?Q?RcPJCpmN5DuYjgV4+pgWeJMWv7H++JAIE5lG6tC/GCZGUessd+aFhtZqpBGq?=
+ =?us-ascii?Q?xOfVJRNJ8Q+7nMCHY7qpurFpKd6msVZbqMWvv5KwIqr1/RvjNpM3pApJCZlg?=
+ =?us-ascii?Q?TUGOGEytlLCBfaViWbHwIIkf0SmBMms3MG291jwphQYpKOpR9GSL7Ca7NO/V?=
+ =?us-ascii?Q?dwQu+Si3in4CzKzSNiE2l4xC5M4g9rsZzlz9lMMkXYzvP3HrVHunwriZ64hX?=
+ =?us-ascii?Q?/2X6ZvFMOTsUSiraPtUvXrtE36SIEcw5Je5Og8OSu9PLzyorM+A741tncryP?=
+ =?us-ascii?Q?JtcKnds/eHs39mIQpjwKs3NHexCCwVYEykJdrPGHSTJh5g/eCfhtbxj6dBa3?=
+ =?us-ascii?Q?NerKCJhKg+MrtkfqyR1Y7svYLLQkz50RcC7rwaorOGDpobawo/HZWIqAqc/R?=
+ =?us-ascii?Q?bNFMsP67lo6PvzBufd+5ClfNyBCzHhSYZoPC/IMXErcxITdWcBkp86SBDqD5?=
+ =?us-ascii?Q?HWrepSfqLLZ8izUjQFqO/uCQc2tt8exABm+y9c9dTmClPQWTjxRtnulogxOi?=
+ =?us-ascii?Q?dlBMfq9Kv43Dg034afdWXlPZmPPW5baJvNI2GebOxSo6XLmxJjorojzQwN9C?=
+ =?us-ascii?Q?hmbHtbEN/Y1nQ0BBD7ywFOYKRRlRdqqt6gFtGCycj10xdk+uzTnjZdM5pDrt?=
+ =?us-ascii?Q?kJqw+gPHfersfqORb3Kr9zplOnqEoPwoTsx89dj6AsUBn/V6L8RGObD4dPrM?=
+ =?us-ascii?Q?vTjB2sZnpPeeW4WH3UuwKDOq02qrM6n1P3xpWYMaQKJDSXRCYmkqbkRM62hs?=
+ =?us-ascii?Q?SZzZpOtycKFZ8UYbyRHg97ooaiT0ArP+ac2hLFMD/nVWw8wie9C1fYbG/AOk?=
+ =?us-ascii?Q?R3fbV+bzzDGVyo3w8aeTM+F5Q2ZDIGm/H4K4m/xSQSPrtQDxA6lxDNkXaulM?=
+ =?us-ascii?Q?vk7DZcUjwVlZLEx9GoLhj7qRsntniccdSyyL0k+dwHlo5c3fHpG3hxk2NuuU?=
+ =?us-ascii?Q?iRxksv29/BECdcINBUpZ4JSCAn8OAkfE1gc4H+K4Db9sloaVLaBB2QW7mkWx?=
+ =?us-ascii?Q?FnyR4NksnwgFneunDS0Cj0JQecz159eI8VLhTS8sNeCExu9b65oFfCqCjA1I?=
+ =?us-ascii?Q?88hKhMxRVhNsJyaqEufEK/ZPDjf3b8lQmShPeO5BFmJT/7HDsR5iL3WddCHq?=
+ =?us-ascii?Q?V+niY7+VZcGjkJ6r+Xm1GyUVog1GvKm+hQ/Io6DrvUU0NW2cwURWqfomSuqW?=
+ =?us-ascii?Q?cczQ/9gjRIueXT7JWOKL2LJHawelypeOu7RPKFeHNKGslvYVKtD4Me05fXHL?=
+ =?us-ascii?Q?0pNxQhzd82TZfJFQv1GdPkI+pK5bkpDII7+pFiANa0BCbndcn9XW3pjncsLi?=
+ =?us-ascii?Q?uTkSMTlyIigEH8ijr5jeasEpJAE/XPnpIPJKMM3qmEy5BAsPnB5ANBr4zXl/?=
+ =?us-ascii?Q?ePDiHsv5QA4J7jnZFD9pCveaR9WUAukOkgl0D645JNZYBjRL3k5fpphS14il?=
+ =?us-ascii?Q?nJMtqGt1BeEqO+Vh6pq1loeRq6yXXhy/lojmXkwRe6NBlNYnJNywuFBGx94Q?=
+ =?us-ascii?Q?rN6Rv5IC/A=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BY3PR09MB7699.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 99ac0a64-b566-41df-32bb-08da4e170737
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Jun 2022 15:03:23.8462
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 26c83bc9-31c1-4d77-a523-0816095aba31
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR09MB5051
+X-CFilter-Loop: Reflected
+X-VPM-MSG-ID: 15bed987-8bc9-4bde-b9e1-496b627d0969
+X-VPM-HOST: zixvpm1.fdic.gov
+Cc: 
+X-VPM-GROUP-ID: 414410bc-20df-4aa1-bc07-d308a4a9e043
+X-VPM-ENC-REGIME: Plaintext
+X-VPM-IS-HYBRID: 0
+Content-Length: 1948
+
+--_000_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_
+Content-Type: multipart/alternative;
+	boundary="_002_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_"
+
+--_002_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Legal Services and Special Contracts Group
+   Subject: [EXTERNAL MESSAGE] HERE GOREMANS
+   Sent: Wednesday, June 8, 2022 1:42:17 PM (UTC-05:00) Indiana (East)
+
+ was read on Tuesday, June 14, 2022 11:02:40 AM (UTC-05:00) Indiana (East).
+
+--_002_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Legal Services and Special Contracts Group<br>
+&nbsp;&nbsp; Subject: [EXTERNAL MESSAGE] HERE GOREMANS<br>
+&nbsp;&nbsp; Sent: Wednesday, June 8, 2022 1:42:17 PM (UTC-05:00) Indiana (=
+East)<br>
+<br>
+&nbsp;was read on Tuesday, June 14, 2022 11:02:40 AM (UTC-05:00) Indiana (E=
+ast).</div>
+</span></font>
+</body>
+</html>
+
+--_002_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_--
+
+--_000_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; LSSCG@FDIC.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: Efh2XkRhwkmPLTJ//5oqLw==
+X-Display-Name: Legal Services and Special Contracts Group
+
+
+--_000_BY3PR09MB7699CB837F354ADF60ED5545B0AA9BY3PR09MB7699namp_--
+

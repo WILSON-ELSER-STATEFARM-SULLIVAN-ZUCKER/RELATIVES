@@ -1,0 +1,202 @@
+From - Fri Jul  1 21:26:11 2022
+X-Account-Key: account1
+X-UIDL: ANESQ2haUfzIYr8dyQ2gSJ8I1lE
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.230.151
+ by atlas216.free.mail.gq1.yahoo.com with HTTPS; Fri, 1 Jul 2022 16:16:08 +0000
+Return-Path: <PS-Investigation@facil.columbia.edu>
+X-Originating-Ip: [40.107.244.120]
+Received-SPF: pass (domain of facil.columbia.edu designates 40.107.244.120 as permitted sender)
+Authentication-Results: atlas216.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@facilities.onmicrosoft.com header.s=selector2-facilities-onmicrosoft-com;
+ spf=pass smtp.mailfrom=facil.columbia.edu;
+ dmarc=unknown header.from=facil.columbia.edu;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 1 Jul 2022 16:16:09 +0000
+X-YMailAVSC: u1IefGo3bBuhzEP6e4hg2.OLjXSY9PzhZ_zLiVL8AXjMWmW
+ UBGHSub89IjpPMtiFy9qUYtmQUm6BIwcIR3awaUPl4q9DUGJgT9WDy9VuT9G
+ TOamVgrvVnuvm2Y4b8aEpxPNDAiPLl_27cI3NHCzHp1o3MTz0YtTZeX159XO
+ vdm7bKsvOg.8jTJSOs7rMupIM9yiuhWHTVR5ggDCeHBSxLcM6nH3LgJya8ED
+ PjOnwIelS2vh6fwdN9PEp45tYGZ6czzLI2txKZriWVs13ApEkxLaA9KE6Azw
+ xhaK1wQlCX1HDJFgKTf9MYHGMMdPTl0DbGCVkfQSOSo_a3ebZ4_KYFdrncK2
+ T
+X-YMailISG: ujzjUvwWLDvvgezAh7887ZzsIYJlJ674nAIJzOPZ2k5Mpy6o
+ dcxV.YtGPBmv7LTtN_FzLUku0p.15KXKn5bSoKEyBnRweS_yrE9j9CiZWeoy
+ BFrcSqv3wtptnAgj.9W0v5HUr.G0BMOhdWQ8_XzBYAB6ZJdfiEtCoy8ZArZh
+ zxJOAV_smCgpIiNKMQduu9a9YdcdTc_O1W.lTTnTwjd6KfZW4rELiXuUYtVC
+ raCXu3eB1iDtIJat96ZQRswHarD3va5RrT_cRLk30ZzTqQIbpwIezTiR9XYJ
+ HoNpZQq1J5wEQxiF8wXvuZqs1.IfT3cONIy3rdaDlZgiPCwoXNjdOi6LggIC
+ Kqp1LIoDzLFbPEW7sc3M_jKYXTBV3d62GDCV2_j2H05eGXNIu0aNiWdNEtx0
+ KQSkS95ELhTmNXtfNnTp9cGF6LTxyblOOW8mR9n.4pRJGOKKWWsQJTeg0xii
+ MmQTnOnf__37zueXm2BQV9qh0wDJ_E8jdZvNvQBXb2h69GumDnXQGC5HjtJE
+ CPI.qPpMsj.Xn88CJb09eiObjjckHrmKo6PpA1hPWum_rTxW.uxaaGt3gSnh
+ cQNQibuWPrEdPISYw5q5fJmv.w_JicrNFiTHArWvXRuFjfB99J4XO51fUEzK
+ xJY5NWUd0FHvpuvshfydbjM_dcHmYIruF6mZdZRWMCY22Sa2OuEa9NPfj5e3
+ fsAimDeCMeDETC_bpx60LZDJktamLQo8Iid.W94CzSQOlsc17DfIBsHWLMlq
+ bWeOdwZcXuWrxq1lANl2eDCzkg6c5WhnK0ki5ZillXnfw6x5UYaxLKHLaaJh
+ mQCgVKE6Wqs9H9VzYgnPMNie1bIh69EAXTbdiQh9Ab52.YMS_eiN.h4BK7Ls
+ QrehgfCVbHxkNwtVctJwDTln8JMWPWlm9ZPU3PsxH8l58h.QJ8LizMvXxlva
+ 2AluZO.6tuDhG.PkoKKZA94oc0caDiPRcLjmv8FlNXITpvQTdxGlmRVY5Y9Z
+ H7F6tSnOnXUSBAntpSBmv1XjdtAaUSWMR2oCgCPVl8EagiYibSr9xA_B1GA9
+ F1htUx9lonumGUy3Jyx2Cl0Mhsn6xeuZkdxqwPhYPQU0bbu.6A7ICShIt2eh
+ oHcf0VX5.sRRA5NBAngzXUPMuCzAC4tD2p1yULV0tATvdTuNSRsPp12MGUEh
+ cNqPx4Vx05Ds70xYF4uiIiJNyncie1Jc2VN8PZQGCNBQVEDRgB_SWbtNrLtQ
+ anZwm_M04vqhohHPtYr7PZUcsv_zhUFm_cl7ssP83VOlfFK3b7Hfdp5u5Ejx
+ SpVlt.5Wq.GGb5X1HqVJ054COHGJgpcOWB2O7UD4tq6J77MrKY36xBXuXVwA
+ 3DbP5A1vdA--
+Received: from 40.107.244.120 (EHLO NAM12-MW2-obe.outbound.protection.outlook.com)
+ by 10.253.230.151 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 01 Jul 2022 16:16:08 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=dneu0B+7VvLK65+c3jRrAm3zr1GSejVI0aokMZ/tbh+vxZ+gHEAYtwZoSzQnGe/t4lHf1Cg8ZFBPlOXcMSjDP55Ud88YZm/uYkgwZ/GstPa5cUijzq8R953bntS7XNDQCbPb2c8tgr/sZryaXFAS9jzJ4fqO2cMMv5dYdiznm6RJCmMSD3tbsEr6h7NIie+faSPPF0A49kj6ZrYwMBnDyE3oUPNBadSJ8X/5fO03XdHr0idMsJ5BnU1f51x6sZg/GDntj6CvCMeHKPT+0sA5C29pfDYaHofar0Pza3HEbKvr/SpWZuhKXJbLTbeJD1Id/1JTr+wUKqg2kDTsjhuzhQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=fQUNnKlsSJBPMhUg6Wf/ICuXHUUmjrdKzGUi74C6dI8=;
+ b=ivzCRm7FNdg1mj8imTwbPL1eNGQwIYakTd4D1WxAzfLaYTjNUnHpfBime1HOWxkSM67A3S/jtn09Ez27qCUZEuxO3ALXSXCnFp8x+CVlasWFQDpE+Gnde+fV5PV9qQzZx/Idt4jfLBqaHxXhwjCm7nInrga8aw/mTlwnl8jmSPPrcCybBS+f7mmQNebRmTuT4NR7bcL2vqhMSSPMsPa0M5ldmA8IN8tOUz4JEx+zUZDDjWQUvLi8/BdFBBY0yhphIF/MQ/1ja1fgl7pMKenV1AJwo0Y1L+Ho2fxc7NSv19DPOv07A6PHHFR1L7NDGvrs0iF7eNcJPMMtxTbZgdb+gw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=facil.columbia.edu; dmarc=pass action=none
+ header.from=facil.columbia.edu; dkim=pass header.d=facil.columbia.edu;
+ arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=facilities.onmicrosoft.com; s=selector2-facilities-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=fQUNnKlsSJBPMhUg6Wf/ICuXHUUmjrdKzGUi74C6dI8=;
+ b=Hn5hRmSdbaJEx94YtHTIS2WtvpBW0N+aOSSP11Y6B1KvWknKEblJlFkzXPoIHapk1KJXcoBZ67MKUu8/2hwKH6LhyzEbb9J7o0VfnjOxF0kmNCk1pPFe0PW+XPLbNK/ZABRyyI2iIfsoGnRcspHxbxP7Sh/c/Oclk5FQ3kOaNvg=
+Received: from BL3P221MB0612.NAMP221.PROD.OUTLOOK.COM (2603:10b6:208:35f::13)
+ by BN0P221MB0557.NAMP221.PROD.OUTLOOK.COM (2603:10b6:408:164::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5395.14; Fri, 1 Jul
+ 2022 16:00:58 +0000
+Received: from BL3P221MB0612.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::28bf:736b:25ed:e0a0]) by BL3P221MB0612.NAMP221.PROD.OUTLOOK.COM
+ ([fe80::28bf:736b:25ed:e0a0%9]) with mapi id 15.20.5395.017; Fri, 1 Jul 2022
+ 16:00:58 +0000
+From: PS Investigation <PS-Investigation@facil.columbia.edu>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fw: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS,
+ ETC.
+Thread-Topic: Fw: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC.
+Thread-Index: AQHYirp6LV7Id9/g5kePlbJmoRTG0Q==
+Date: Fri, 1 Jul 2022 16:00:49 +0000
+Message-ID: <4878a9608c604f86bc798b4b18c5d48e@facil.columbia.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 9d6b4c86-1eef-4b12-becc-08da5b7ae329
+x-ms-traffictypediagnostic: BN0P221MB0557:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 1/YCYmr4gjEZN6+ExPIRbR5q1LtVjsz7c8V8iXR2/WqCiBG3Cv0+2jbLd8EnAyEY0qLsq6kaMh5v5feusIt6Drr1Ko8ovuKUDhROoW0k/c0+lC+658C+vqWGHfsU5Y6UJ6lG70wHkni0CtnWovbTz3JYT+lI5+Vtv1WgJ+PfHgJzaAxamBtPiNCJZInyyP8/pK22Ysyptz+BmF9xugM2H84POg7ikCH505uHVM+2QrYP6RyC+KyNSQGch25+6h8PkS5LmCaaQY+Rr2YoqqhYWJhZMIBK7mz/ifC2PFsH2KQpfJyLfSlXC2JahFvhPlVO1A32fdUzOjpfajcHdP7ZstDx0AOgYibt3zRYjbr1ZvH1hN6kbOf5XcZQPpt27UE+m2RtkHdHWcz8VsZmxO8sQiKuZnASqmc5hTdmmH09cA3wWkwOvbqvNMC55YwLr+IN2RHdIcHUWcifL02uoNzzNR/yAPXERjBL61YplhBRZuI=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BL3P221MB0612.NAMP221.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230016)(4636009)(39840400004)(366004)(136003)(346002)(376002)(396003)(2616005)(41320700001)(621065003)(73894004)(86362001)(122000001)(186003)(75432002)(88996005)(6916009)(8936002)(71200400001)(8676002)(66446008)(66946007)(66556008)(66476007)(64756008)(786003)(316002)(24736004)(108616005)(6506007)(6666004)(41300700001)(4270600006)(6512007)(2906002)(478600001)(6486002);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?OuNkrCiTQYnVJBoRNVu/cdWfH7r38VAK23akdabynPm/dVvR403GjhodFchn?=
+ =?us-ascii?Q?9XD3kp8w92UUc3C2MfFho3xPBw824rrTlI/9M0ZFn0rWXIw9DHRqWn0TCSjf?=
+ =?us-ascii?Q?GdnagfKYkOz6gq6szTGSpxFoN1VGHpGD/ppKdvXvlgv7nJj9wp9Jns8Qfr/+?=
+ =?us-ascii?Q?YYusv5mtTimQExRaT3lnXiGubMwvWbNUpgG2STDzbvAroOIyE7UV1kX2XjC6?=
+ =?us-ascii?Q?M599QZGFFUmO/DcbpZ8FNcaostIqUpZGEDaVyctluyWrOoZUP9FAve+0MZdI?=
+ =?us-ascii?Q?Kv2ppJeBPhzDkiiMZLaZeNN8qqcBCc1zo0lCAm2DJssSK+7PvajJr4SSJYwP?=
+ =?us-ascii?Q?FQ8k64FIrcNTr+pUDrd0prioaiff+2YN68UJw8AqStur3NXhJjQ9Qg3WIM8r?=
+ =?us-ascii?Q?6naTIJVsSj3QHYUZRnFFHpqF04srJxQ2C48lyagGiojQ1iqwPx0JQOVoaVk/?=
+ =?us-ascii?Q?s4WkF3+m3pKnL/+qP79zW5SRKRXchcNUmPzy/tVuh1Fw1OxDQJ9wizTOcG0Z?=
+ =?us-ascii?Q?zAF+z+dkoxLg/zjsQkuojG4fXIpWCRDgbrWUAk7GMMD9TWiYMAjtViCiZu6V?=
+ =?us-ascii?Q?YdVHH8mgLThd6jZ0fscfxVr/ZZqsXPaROZUK112Y0Zwft+vW0nhySTJmY0b3?=
+ =?us-ascii?Q?c/2lZaWb+ZuHXgOaMYC3Qk9dYYHvwAAN8Liz5lkf21FYXh2Kxkyz4sKVhTO6?=
+ =?us-ascii?Q?qwpajTYi67+vHklHA1NtVauc0IyX2ASqKzgnKDP1iDCynIaKnOw/qnh6gRG8?=
+ =?us-ascii?Q?imtooHjAgGJgXi7IVgYk6rpvbIUgZXtEa1l6n/WnItDHdSTdSyqdjHuAoq7V?=
+ =?us-ascii?Q?c8m6g+p+5IEo1RMME2ALkq7CuJdCwm36Eme34NwdVH1V4sTe88seEs5dbETH?=
+ =?us-ascii?Q?MVIE4tXbqDb3WLSW9LTbbcQL06bmA673FP87J8f+45UXg2luHcy7gqUytaxA?=
+ =?us-ascii?Q?QJ5/az4HNTZAremO7cTR0YkMYBYl66zlweA8t8Yi4q1jx2dyb0MXlKeoO3dx?=
+ =?us-ascii?Q?lXwVJx/9uxWrtMYXhdbNJ7+a6t7jclUXuF2Ir6VMV6XjlzzMnbaLP0JH75ph?=
+ =?us-ascii?Q?5A1mNAA9XJuXGLX131XC2bLgTgWwSg0i1NGgAhw5/kFh2D92rPCVVJmdqv00?=
+ =?us-ascii?Q?IlWTv4Bbxpze2n4tKhr1DmNtChw46HbOsxYfZssxffoWC4FDiiP/lDknwa1D?=
+ =?us-ascii?Q?sjlvIJLyf7Zhu4Y+ssx0j3yyTMNrJMVMdNWKA3xQ+/LESyAqCq0tD5IHeFew?=
+ =?us-ascii?Q?quIHuZIg/VCA+wGdKDrXDWHOcx8UDYU2X3mmeVIJyreDvsBkuIUqKwjywZtR?=
+ =?us-ascii?Q?aZmXpnhxXn6jrCgP1svGVN6gkBDHg63o8/FESuSLnu9IYo4NUq9XYm1Pkjpa?=
+ =?us-ascii?Q?VvMVqEOZGFbx4EMx0NnxBaMB+/22AKRykHg18KHaWouMZnDYV8LeOsFkygmf?=
+ =?us-ascii?Q?5/IvabOrT4iGACFFcmDKuQrxnF3sK7rwelTOVPSCaRx3bAl/UoJ4UnhqS32c?=
+ =?us-ascii?Q?8rgnDBbJXLdvqbQ=3D?=
+Content-Type: multipart/report;
+	boundary="_000_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: facil.columbia.edu
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BL3P221MB0612.NAMP221.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9d6b4c86-1eef-4b12-becc-08da5b7ae329
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Jul 2022 16:00:50.1921
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: a9b0454a-29ae-4784-b7dd-3f3cdcd2b0c3
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: bu3wVh1dJh2w2lBsqYGsFda7E1aK/QKNu1NvgA6QwLfF8u+OryHw36+O3Eg2heuFKf0f2IdpSq9mRvbHQCSHGU0Ata8yVmyxfzyeG7DzJEozuS2J8even6flBmJ8tneg
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN0P221MB0557
+Content-Length: 1995
+
+--_000_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_
+Content-Type: multipart/alternative;
+	boundary="_002_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_"
+
+--_002_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: PS Investigation
+   Subject: Fwd: Fw: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ET=
+C.
+   Sent: Tuesday, June 28, 2022 6:41:56 AM (UTC+00:00) Monrovia, Reykjavik
+
+ was read on Friday, July 1, 2022 4:00:49 PM (UTC+00:00) Monrovia, Reykjavi=
+k.
+
+--_002_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: PS Investigation<br>
+&nbsp;&nbsp; Subject: Fwd: Fw: 16537-714-487-492, OMISSIONS, OBSTRUCTION, F=
+ITNESS, ETC.<br>
+&nbsp;&nbsp; Sent: Tuesday, June 28, 2022 6:41:56 AM (UTC+00:00) Monrovia, =
+Reykjavik<br>
+<br>
+&nbsp;was read on Friday, July 1, 2022 4:00:49 PM (UTC+00:00) Monrovia, Rey=
+kjavik.</div>
+</span></font>
+</body>
+</html>
+
+--_002_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_--
+
+--_000_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; PS-Investigation@facil.columbia.edu
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: EHXPAjMofUqGjCqpgCX9HQ==
+Original-Message-ID: <5feb71ba-af5a-7331-ed9c-0f5cca3e71d4@yahoo.com>
+X-Display-Name: PS Investigation
+
+
+--_000_4878a9608c604f86bc798b4b18c5d48efacilcolumbiaedu_--

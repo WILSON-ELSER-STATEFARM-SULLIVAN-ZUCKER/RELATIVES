@@ -1,0 +1,914 @@
+From - Mon May 23 20:35:49 2022
+X-Account-Key: account1
+X-UIDL: AKDwgrJavJd+YouGLwkj2Dypv4c
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.35.9
+ by atlas301.free.mail.bf1.yahoo.com with HTTPS; Mon, 23 May 2022 13:03:42 +0000
+Return-Path: <mrc@nysba.org>
+X-Originating-Ip: [192.161.149.4]
+Received-SPF: pass (domain of nysba.org designates 192.161.149.4 as permitted sender)
+Authentication-Results: atlas301.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@nysba.org header.s=zendesk1;
+ spf=pass smtp.mailfrom=nysba.org;
+ dmarc=unknown header.from=nysba.org;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 23 May 2022 13:03:43 +0000
+X-YMailAVSC: 7Nhi2dQ3bBtCoFtGDTSaMXAXCw5ALE0RfLQvOjgcGi3wE4T
+ HF9oDnUt_cEQ3RLF2BT4u_SMn65fXoKrnWHpjrMOH6Kh3qum.It9huiZpaRN
+ cjqvOQFqwm4mOKwoU03uJfvd4LpV_lMJtEMdpdZGaqyCMJyK8rnQ8IhV0.YV
+ mW3GqmazDS4e6PIAYlKALBukPkDcbVBqX1_oIRnGp_.CIOPp.d_R5Auhw0xh
+ AKZUPTRMjJv3Ytg_cFxwJTiFnoCWxxjC5bdrdBlqIUeNAjtHFYkLXEk1oxup
+ Ly1xbuxIuZ5cwmWhGtyLcuzM9T3vdfj6yhCO5Y6H9Umo6ImIKX1aseGyXgFl
+ VYAIILuWcBhnUz89AP5MjVG857YimZTQSVLly8uyvybTH3dJFfSu9RbFunaq
+ iabcnSNjDLOqqrfVscwgZsGVgE7MvcGCn_NJ96TU0DAop4.skcTPt6t9Zrk9
+ AAXvLJRhxAsxwRtIDnnoJ.gAbdqittifQZgEfaSKwHMpmNOdKaarlI7ZUrCl
+ 1UoXShfBIVHebt0xJpg--
+X-YMailISG: fOAbmuwWLDuwwAtQfpg4GgloYtrhO_u0CO8ieDxfUoVF.8Bq
+ FyIjxqKLOPrcZEHwNpZmFJvn5VD_19SY5ubknLH5Zyb7WDuAyhDNi6PuEnx9
+ .JG.41HlVcj.VE1Bv4rfix3lfDm4QZXRCZSWgAmcMz28oVZmok3puZvZkuqK
+ YBvApijiriG_5AiDw0hZkNmuYI5ccSUeg6EBFhAOrWsO.iy7uwGyH4.S7ti7
+ BAXXU2_i6PFiBPVZH_nQsEvwIemtHBbbQX9UlWY0i8swVp7LwCWjlOf1qnz1
+ U.bL4fQLO0oXPBdkKCw_14jS3qBx7M0yo9wR_8NMvP98NDdD7U6f1q0EA2ip
+ NSq8RojHzyDrIl53W9lkyU4Pgr1w_yKEkzbuKStF_r5z1DRhLpJfYExmTl7P
+ cJ8aPOeeFEPJpHOQ9h21bn8eI1EJ59HVvAi2jV6.dckumbgSuLcOuBWfX6Hz
+ zW.L5oADG2Z6Sw_lhXYyp3PJjOqlV6tst1vZBIUBWgL8wEkQ654HD0fmqQNR
+ DAea7xrg08yz.9lCu38WwwNke6CaKCgtYWn7NO01GdexHhb2ILm.HMzo5kJ9
+ kziUjG5Fg5lMEFYj3VuqG2epSfmaFjV2EL5r2wp36uEYlt2Mx0oqQ5EI2cvn
+ ValUCg1rGjVeQctMI9slb3clWKLii0fNDtbqVu70bVupmgTB6HY6EGrffnYe
+ wwDIDpmQnDYR1xu9nHR26gr6rvUOFHFtAAU7fGsbN65C68YqRD5NTY5pFIvh
+ n4VT8OlX9bgtuk9mwbCjtDNwuLLKYVjZyP7f3VqiistVr7RLgBI4dDxvPky8
+ MwLHgrptBvSSWtwCEgTd8STcsBw.vBlsuKbV.AYWXGr9WOxmLG1SGACkG.5M
+ ebBNkCnvDH2VvP17TRS77shJiLhU0hGlIaSQUkXm3aNY2XqEsbEqbo8Lv6Gp
+ jeBXwpa9OTJyZm34F3GgQlq0xEgsOr40wGLlUI6C22jbWyLnnaxFdG497M2T
+ GIbMI_kRzwZOhOozXF5.ZE_tPpqiwJ7o3t8bRPn9gFTZi61RYQomV2K7rJ2O
+ 3xrNqcLqekY73rS59CaeoNcsRXFwWipP7W3CnAdNlhRi8T8d5M.v15SC.eMB
+ m78ZCGc4s_XXz.EQFBOxfqvgAaXb0bGzWtmz7uvDkCyj.MN24VutvftqxmAp
+ jTGb8po-
+Received: from 192.161.149.4 (EHLO outbyoip4.pod19.use1.zdsys.com)
+ by 10.197.35.9 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 23 May 2022 13:03:42 +0000
+Received: from zendesk.com (unknown [10.219.28.243])
+	by outbyoip4.pod19.use1.zdsys.com (Postfix) with ESMTP id 4L6HZj6757z14K2n;
+	Mon, 23 May 2022 13:03:41 +0000 (UTC)
+Date: Mon, 23 May 2022 13:03:41 +0000
+From: "Lindsay Panzica (NYSBA MRC)" <mrc@nysba.org>
+Reply-To: NYSBA MRC <mrc@nysba.org>
+Cc: "letters@nypost.com" <letters@nypost.com>, 
+ Oighotline <oighotline@fdicoig.gov>, 
+ "OIGHotline@frb.gov" <oighotline@frb.gov>, 
+ Margaret Wood <mwood@lasnny.org>, 
+ "losangeles@sec.gov" <losangeles@sec.gov>, 
+ "newyork@sec.gov" <newyork@sec.gov>, 
+ "jpetit@mccarter.com" <jpetit@mccarter.com>, 
+ "Lillian M. Moy" <lmoy@lasnny.org>, 
+ Oig Openrecords <oig.openrecords@tdcj.texas.gov>, 
+ Spd Outreach <spd.outreach@cpa.texas.gov>, 
+ David Moore <david.moore.ct95@statefarm.com>, 
+ David Moore <david.moore@statefarm.com>, 
+ Terrance Ludwig <terrance.ludwig@statefarm.com>, 
+ Info <info@statefarm.com>, 
+ Ombudsman <ombudsman@sec.gov>, 
+ "Carl Hoecker [SEC]" <oig@sec.gov>, 
+ "bdincer66@icloud.com" <bdincer66@icloud.com>, 
+ MILTON MCKENZIE <ms60710444266@yahoo.com>, 
+ KEVIN ROCK <krock5@bloomberg.net>, 
+ Thermanson <thermanson@northmarq.com>
+Message-ID: <3M7K0REYDM_628b862d6dde9_433f88668cb9681354018_sprut@zendesk.com>
+In-Reply-To: <CAOHu48-Nk449nJwSeAB8D+ABR6YAPWApuEko6qXpqOHXmn7Ffw@mail.gmail.com>
+ <3M7K0REYDM_6289eb3c2028e_3b3fd315acb96c7112c8_sprut@zendesk.com>
+References: <3M7K0REYDM@zendesk.com>
+ <FA2B2BC9-B3C2-4AF3-99D7-6FD156CDF9A9@icloud.com>
+ <CAOHu48823Bh+Cf7SWwPRg6eaRjntLn2RhN246wLzEm-2F5F3dA@mail.gmail.com>
+ <CAOHu48-Nk449nJwSeAB8D+ABR6YAPWApuEko6qXpqOHXmn7Ffw@mail.gmail.com>
+Subject: Re: STFGX 1516523 CIK 93715 ex-post 900$ million in losses.
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_628b862dc9096_433f88668cb96813541a7";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Delivery-Context: event-id-6422860039699
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: All
+X-Mailer: Zendesk Mailer
+X-Zendesk-From-Account-Id: 38473e9
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=nysba.org; q=dns/txt;
+ s=zendesk1; t=1653311021; bh=NOxO7v797xOSAxq4nWGBrmznEkWRriGJIdJPnVMwk00=;
+ h=date:from:reply-to:cc:message-id:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding;
+ b=jSGH9LGQ8lyR1bGRf7lOSJTylLfl8YEhRKAt88RhC8/jPjc2bCNapA+F03FEHE2DYmr9eEHfo/VfVJSGotYHDmYM0zbMVGMCj2AVsBj1I3bSuGnWLH8P7ZhaXYtxqfl1seqR36fE2T5EQU2fl0jrfwZluciv2WpQqLuiCy3rOIJ88zRtjZRsxik/fQ2FTociF2BsySvhmelKgbaiMPe1NlZlkiZ/fq6ZNN7AlAfIpFjmMRHvnWZE470v2Ay69lq63YMKAVU4PYgOfKEwGxDUMqVwO+lEwKgKuOuwuGXt08wxoCHD0CFc7hHmKiVHQGJ3TCyWn34HF70HMhqNTNA+Nw==
+Content-Length: 47617
+
+
+----==_mimepart_628b862dc9096_433f88668cb96813541a7
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+##- Please type your reply above this line -##
+
+You are registered as a CC on this request (35627). Reply to this email t=
+o add a comment to the request.
+
+----------------------------------------------
+
+Lindsay Panzica, May 23, 2022, 10:03 ADT
+
+This request was closed and merged into request #35628 "RE: STFGX 1516523=
+ CIK 93715 ex-p...".
+
+----------------------------------------------
+
+BO DINCER, May 22, 2022, 04:50 ADT
+
+This is a follow-up to your previous request #35456 "STFGX 1516523 CIK Fi=
+ler: ex..."
+
+Even Lilian helps with procedural guidance, so I also have to help her. =
+
+
+/BD
+
+
+On May 15, 2022, at 2:30 PM, BO DINCER <bondstrt007@gmail.com> wrote:
+
+=EF=BB=BF
+ATTN: Pricewaterhouse Coopers.
+
+      The is a class III holding NOT reported on the semi of annual repor=
+ts=E2=80=94
+
+State Farm Has:
+
+        --- REGISTERED $852,029,489.38 IN LOSSES.
+        --- 1 INVESTMENT ADVISER.
+
+THEN
+
+        ANOTHER $505,818,725 + IN LOSSES
+
+Those losses are suffered on the balance sheet of the investors of State =
+Farm, and due to Gross Negligence, Obstructions, and Omissions.
+
+=E2=80=94That truth does hurt when you think about the $250 minimums whic=
+h were accrued over a period of 27-years by a 40' Act Mutual Fund registe=
+red under CIK 93715, which NO LONGER EXISTS... per the Securities and Exc=
+hange Commission, mysteriously decided to quit?
+     =
+
+       =
+
+--- TAX RECEIPTS BELOW FOR THE 144 UNITS FOR THE PRIOR TEN YEARS FOR CONV=
+ENIENCE.
+       =
+
+--- TAXES EVADED FOR 15-YEARS AND UNLAWFULLY COLLECTED RENTS AND SECURITY=
+ DEPOSITS TRANSFERRED TO STATE FARM.
+
+
+=E2=80=94SHARIS: Bonus Questions.
+
+https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b50=
+02248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
+
+https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b50=
+00d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg
+
+https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b50=
+00d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b50=
+00d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b50=
+02248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b50=
+00d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b50=
+0224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$=
+CIK%201516523]%20MONK[CRD%201357149].pdf (https://saaze2311prdsra.blob.co=
+re.windows.net/clean/25aff4b997d3ec11a7b500224828654e/%5BSTATE%20FARM%20V=
+P%2043036%5DAdvisers%20Investment%20Trust%20%5B$CIK%201516523%5D%20MONK%5=
+BCRD%201357149%5D.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/5380dd8997d3ec11a7b50=
+00d3a132789/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$=
+CIK%201516523]%20MONK[CRD%201357149].pdf (https://saaze2311prdsra.blob.co=
+re.windows.net/clean/5380dd8997d3ec11a7b5000d3a132789/%5BSTATE%20FARM%20V=
+P%2043036%5DAdvisers%20Investment%20Trust%20%5B$CIK%201516523%5D%20MONK%5=
+BCRD%201357149%5D.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b50=
+00d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf (https://saaze231=
+1prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/%5BS=
+TATE%20FARM%20VP%2043036%5D$%203487%20$.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b50=
+0224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$=
+CIK%201516523]%20MONK[CRD%201357149].pdf (https://saaze2311prdsra.blob.co=
+re.windows.net/clean/25aff4b997d3ec11a7b500224828654e/%5BSTATE%20FARM%20V=
+P%2043036%5DAdvisers%20Investment%20Trust%20%5B$CIK%201516523%5D%20MONK%5=
+BCRD%201357149%5D.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/3bb9011795d3ec11a7b50=
+00d3a132789/153974-2020.Docket399.FTC.StateFarmRealtyInsuranceLLC.pdf
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/ff91792a95d3ec11a7b50=
+022482864f0/[sfVP43036]%20$2876793%20-%20david.moore%20$3487%20-%20IA%208=
+018184.pdf (https://saaze2311prdsra.blob.core.windows.net/clean/ff91792a9=
+5d3ec11a7b50022482864f0/%5BsfVP43036%5D%20$2876793%20-%20david.moore%20$3=
+487%20-%20IA%208018184.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/af081f4095d3ec11a7b50=
+022482864f0/[STATE%20FARM%20VP%2043036]%20$3231040-2004555.pdf (https://s=
+aaze2311prdsra.blob.core.windows.net/clean/af081f4095d3ec11a7b50022482864=
+f0/%5BSTATE%20FARM%20VP%2043036%5D%20$3231040-2004555.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3ec11a7b50=
+02248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3ec11a7b50=
+02248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b50=
+00d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b50=
+00d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b50=
+0224828654e/[sfVP%2043036]%204971235-%20$SMITH%20-%20SEMI.pdf (https://sa=
+aze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654=
+e/%5BsfVP%2043036%5D%204971235-%20$SMITH%20-%20SEMI.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b50=
+02248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20=
+IA%208018184.pdf (https://saaze2311prdsra.blob.core.windows.net/clean/bee=
+2b76c92d3ec11a7b5002248286997/%5BSF.VP%2043036%5D%202876793%20-%20$david%=
+20moore%20$3487%20-%20IA%208018184.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b50=
+0224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%=
+20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf (https://saa=
+ze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b500224828654e=
+/%5Bsf%20VP%2043036-$3487%5D%201943922-%20$%20tipsord%20$%20STATE%20FARM%=
+20mutual%20automobile%20insurance%20company-$3487.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b50=
+0224828654e/%5BsfVP%2043036%5D%204971235-%20$SMITH%20-%20SEMI.pdf
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b50=
+02248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20=
+IA%208018184.pdf (https://saaze2311prdsra.blob.core.windows.net/clean/bee=
+2b76c92d3ec11a7b5002248286997/%5BSF.VP%2043036%5D%202876793%20-%20$david%=
+20moore%20$3487%20-%20IA%208018184.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b50=
+0224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%=
+20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf (https://saa=
+ze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b500224828654e=
+/%5Bsf%20VP%2043036-$3487%5D%201943922-%20$%20tipsord%20$%20STATE%20FARM%=
+20mutual%20automobile%20insurance%20company-$3487.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b50=
+00d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf (https://saaze231=
+1prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/%5BS=
+TATE%20FARM%20VP%2043036%5D$%203487%20$.pdf)
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b50=
+00d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf (https://saaze231=
+1prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/%5BS=
+TATE%20FARM%20VP%2043036%5D$%203487%20$.pdf)
+
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7cNVI=
+HKtnJU/ni/zvg=3D=3D
+
+
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=3D2=
+020052000291003
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_PLUS_Tlr=
+EGCsUUcCcvtJ8O/dfg=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0=
+G0QvnmRLGpYIQ=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0=
+G0QvnmRLGpYIQ=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm=
+0ynPeXZKSHgLQ=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dau8qh7Dn6=
+6hrVmJ9DX_PLUS_bdg=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm=
+0ynPeXZKSHgLQ=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7cNVI=
+HKtnJU/ni/zvg=3D=3D
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DLMUE9g_PL=
+US_k6vCmKgfCSJEzuQ=3D=3D
+
+
+https://portal.311.nyc.gov/sr-details/?id=3D4296b0c3-c4a2-ec11-826d-0003f=
+f86900c
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b50=
+00d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/f2d6a0fe5fd3ec11a7b50=
+00d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%20CUSTODY%20at%2=
+0JP%20MORGAN%20CHASE%20BANK.pdf
+
+https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b50=
+02248286386/8209-$BROOKS--4776256-6109023[FILED].pdf (https://saaze2311pr=
+dsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$B=
+ROOKS--4776256-6109023%5BFILED%5D.pdf)
+
+
+
+---------- Forwarded message ---------
+From: Lillian M. Moy <LMoy@lasnny.org>
+Date: Tue, May 10, 2022, 1:01 PM
+Subject: Automatic reply: Automatic reply: 101 STFGX 1516523 CIK Filer ex=
+-post 900$ million in losses
+To: BO DINCER <bondstrt007@gmail.com>
+
+
+=EF=BB=BF
+
+=EF=BB=BFNamaste. I am out of the office until Monday, May 16, 2022.  If =
+you require immediate assistance, please contact Margaret Wood, mwood@las=
+nny.org or 518 689 6306.  Thank you. Lillian
+
+--------------------------------
+This email is a service from New York State Bar Association.
+
+
+
+
+
+
+
+
+
+[3M7K0R-EYDM]=
+
+----==_mimepart_628b862dc9096_433f88668cb96813541a7
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <style type=3D"text/css">
+    table td {
+      border-collapse: collapse;
+    }
+    body[dir=3Drtl] .directional_text_wrapper { direction: rtl; unicode-b=
+idi: embed; }
+
+  </style>
+</head>
+<body lang=3D"en-us" style=3D"width: 100%!important; margin: 0; padding: =
+0;" xml:lang=3D"en-us">
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style=3D"color: #b5b5b5;">##- Please type your reply above this =
+line -##</div>
+    <p dir=3D"ltr">You are registered as a CC on this request (35627). Re=
+ply to this email to add a comment to the request.</p><p dir=3D"ltr"></p>=
+<div style=3D"margin-top: 25px" data-version=3D"2"><table width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentation">  =
+<tbody><tr>    <td width=3D"100%" style=3D"padding: 15px 0; border-top: 1=
+px dotted #c5c5c5;">      <table width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" style=3D"table-layout:fixed;" role=3D"presentatio=
+n">        <tbody><tr>                      <td valign=3D"top" style=3D"p=
+adding: 0 15px 0 15px; width: 40px;">              <img width=3D"40" heig=
+ht=3D"40" alt=3D"" style=3D"height: auto; line-height: 100%; outline: non=
+e; text-decoration: none; -webkit-border-radius: 5px; -moz-border-radius:=
+ 5px; border-radius: 5px;" src=3D"https://secure.gravatar.com/avatar/ec62=
+98320bdcc27312a7876b098a59ad?size=3D40&amp;default=3Dhttps%3A%2F%2Fassets=
+.zendesk.com%2Fimages%2F2016%2Fdefault-avatar-80.png&amp;r=3Dg" />       =
+     </td>                    <td width=3D"100%" style=3D"padding: 0; mar=
+gin: 0;" valign=3D"top">            <p style=3D"font-family:'Lucida Grand=
+e','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-si=
+ze: 15px; line-height: 18px; margin-bottom: 0; margin-top: 0; padding: 0;=
+ color:#1b1d1e;" dir=3D"ltr">                                            =
+    <strong>Lindsay Panzica</strong> (New York State Bar Association)    =
+                                      </p>            <p style=3D"font-fa=
+mily:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,s=
+ans-serif; font-size: 13px; line-height: 25px; margin-bottom: 15px; margi=
+n-top: 0; padding: 0; color:#bbbbbb;" dir=3D"ltr">              May 23, 2=
+022, 10:03 ADT            </p>                                    <div cl=
+ass=3D"zd-comment" dir=3D"auto" style=3D"color: #2b2e2f; font-family: 'Lu=
+cida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-=
+size: 14px; line-height: 22px; margin: 15px 0;"><p dir=3D"ltr" style=3D"c=
+olor: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Taho=
+ma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15p=
+x 0;">This request was closed and merged into request <a href=3D"https://=
+support.nysba.org/hc/requests/35628" target=3D"_blank" rel=3D"ticket">#35=
+628</a> "RE: STFGX 1516523 CIK 93715 ex-p...".</p><p dir=3D"ltr"></p></di=
+v>                                  </td>        </tr>      </tbody></tab=
+le>    </td>  </tr></tbody></table><p dir=3D"ltr"></p><table width=3D"100=
+%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentation"=
+>  <tbody><tr>    <td width=3D"100%" style=3D"padding: 15px 0; border-top=
+: 1px dotted #c5c5c5;">      <table width=3D"100%" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" style=3D"table-layout:fixed;" role=3D"presenta=
+tion">        <tbody><tr>                      <td valign=3D"top" style=3D=
+"padding: 0 15px 0 15px; width: 40px;">              <img width=3D"40" he=
+ight=3D"40" alt=3D"" style=3D"height: auto; line-height: 100%; outline: n=
+one; text-decoration: none; -webkit-border-radius: 5px; -moz-border-radiu=
+s: 5px; border-radius: 5px;" src=3D"https://secure.gravatar.com/avatar/bc=
+f767ffa1113420f2366d6290b69a5a?size=3D40&amp;default=3Dhttps%3A%2F%2Fasse=
+ts.zendesk.com%2Fimages%2F2016%2Fdefault-avatar-80.png&amp;r=3Dg" />     =
+       </td>                    <td width=3D"100%" style=3D"padding: 0; m=
+argin: 0;" valign=3D"top">            <p style=3D"font-family:'Lucida Gra=
+nde','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-=
+size: 15px; line-height: 18px; margin-bottom: 0; margin-top: 0; padding: =
+0; color:#1b1d1e;" dir=3D"ltr">                              <strong>BO D=
+INCER</strong>                          </p>            <p style=3D"font-=
+family:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma=
+,sans-serif; font-size: 13px; line-height: 25px; margin-bottom: 15px; mar=
+gin-top: 0; padding: 0; color:#bbbbbb;" dir=3D"ltr">              May 22,=
+ 2022, 04:50 ADT            </p>                                    <div =
+class=3D"zd-comment" dir=3D"auto" style=3D"color: #2b2e2f; font-family: '=
+Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; fon=
+t-size: 14px; line-height: 22px; margin: 15px 0;"><p dir=3D"ltr" style=3D=
+"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Ta=
+homa', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 1=
+5px 0;">This is a follow-up to your previous request <a href=3D"https://s=
+upport.nysba.org/hc/requests/35456" target=3D"_blank" rel=3D"ticket">#354=
+56</a> "STFGX 1516523 CIK Filer: ex..."</p><p dir=3D"ltr" style=3D"color:=
+ #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', =
+Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"=
+>Even Lilian helps with procedural guidance, so I also have to help her. =
+</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Uni=
+code', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; l=
+ine-height: 22px; margin: 15px 0;">/BD</p><p dir=3D"ltr" style=3D"color: =
+#2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', V=
+erdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;">=
+On May 15, 2022, at 2:30 PM, BO DINCER &lt;<a href=3D"mailto:bondstrt007@=
+gmail.com" rel=3D"noreferrer">bondstrt007@gmail.com</a>&gt; wrote:</p><p =
+dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', =
+'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-hei=
+ght: 22px; margin: 15px 0;">=EF=BB=BF<br />ATTN: Pricewaterhouse Coopers.=
+</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Uni=
+code', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; l=
+ine-height: 22px; margin: 15px 0;">      The is a class III holding NOT r=
+eported on the semi of annual reports=E2=80=94</p><p dir=3D"ltr" style=3D=
+"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Ta=
+homa', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 1=
+5px 0;">State Farm Has:</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-f=
+amily: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-se=
+rif; font-size: 14px; line-height: 22px; margin: 15px 0;">        --- REG=
+ISTERED $852,029,489.38 IN LOSSES.<br />        --- 1 INVESTMENT ADVISER.=
+</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Uni=
+code', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; l=
+ine-height: 22px; margin: 15px 0;">THEN</p><p dir=3D"ltr" style=3D"color:=
+ #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', =
+Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"=
+>        ANOTHER $505,818,725 + IN LOSSES</p><p dir=3D"ltr" style=3D"colo=
+r: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma'=
+, Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0=
+;">Those losses are suffered on the balance sheet of the investors of Sta=
+te Farm, and due to Gross Negligence, Obstructions, and Omissions.</p><p =
+dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', =
+'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-hei=
+ght: 22px; margin: 15px 0;">=E2=80=94That truth does hurt when you think =
+about the $250 minimums which were accrued over a period of 27-years by a=
+ 40' Act Mutual Fund registered under CIK 93715, which NO LONGER EXISTS..=
+. per the Securities and Exchange Commission, mysteriously decided to qui=
+t?<br />     <br />       <br />--- TAX RECEIPTS BELOW FOR THE 144 UNITS =
+FOR THE PRIOR TEN YEARS FOR CONVENIENCE.<br />       <br />--- TAXES EVAD=
+ED FOR 15-YEARS AND UNLAWFULLY COLLECTED RENTS AND SECURITY DEPOSITS TRAN=
+SFERRED TO STATE FARM.</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-fa=
+mily: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-ser=
+if; font-size: 14px; line-height: 22px; margin: 15px 0;">=E2=80=94SHARIS:=
+ Bonus Questions.</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family:=
+ 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; f=
+ont-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://sa=
+aze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b500224828642=
+1/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" target=3D"_blank" rel=3D"nof=
+ollow noreferrer">https://saaze2311prdsra.blob.core.windows.net/clean/8de=
+5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg</=
+a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans U=
+nicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px;=
+ line-height: 22px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.b=
+lob.core.windows.net/clean/a463845010d3ec11a7b5000d3a1326fe/0F6C27D5-69BD=
+-4971-91F6-A5A40317CC63.jpeg" target=3D"_blank" rel=3D"nofollow noreferre=
+r">https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7=
+b5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg</a></p><p dir=3D=
+"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucid=
+a Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 2=
+2px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.window=
+s.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4=
+205617AC.jpeg" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaz=
+e2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/=
+8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg</a></p><p dir=3D"ltr" style=3D"=
+color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tah=
+oma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15=
+px 0;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/db5=
+e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg" =
+target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blo=
+b.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4=
+B62-9D15-3AF4205617AC.jpeg</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f;=
+ font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, =
+sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D=
+"https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b5=
+002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" target=3D"_blank"=
+ rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.windows.ne=
+t/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD2024=
+98A9.jpeg</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lu=
+cida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-=
+size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://saaze2=
+311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b5000d3a1326fe/0F=
+6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg" target=3D"_blank" rel=3D"nofollo=
+w noreferrer">https://saaze2311prdsra.blob.core.windows.net/clean/a463845=
+010d3ec11a7b5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg</a></=
+p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unico=
+de', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; lin=
+e-height: 22px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.=
+core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20V=
+P%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201=
+357149].pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2=
+311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[S=
+TATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]=
+%20MONK[CRD%201357149].pdf</a> (<a href=3D"https://saaze2311prdsra.blob.c=
+ore.windows.net/clean/25aff4b997d3ec11a7b500224828654e/%5BSTATE%20FARM%20=
+VP%2043036%5DAdvisers%20Investment%20Trust%20%5B$CIK%201516523%5D%20MONK%=
+5BCRD%201357149%5D.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">htt=
+ps://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b50022=
+4828654e/%5BSTATE%20FARM%20VP%2043036%5DAdvisers%20Investment%20Trust%20%=
+5B$CIK%201516523%5D%20MONK%5BCRD%201357149%5D.pdf</a>)</p><p dir=3D"ltr" =
+style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Gran=
+de', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; m=
+argin: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/=
+clean/5380dd8997d3ec11a7b5000d3a132789/[STATE%20FARM%20VP%2043036]Adviser=
+s%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf" targ=
+et=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.co=
+re.windows.net/clean/5380dd8997d3ec11a7b5000d3a132789/[STATE%20FARM%20VP%=
+2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%20135=
+7149].pdf</a> (<a href=3D"https://saaze2311prdsra.blob.core.windows.net/c=
+lean/5380dd8997d3ec11a7b5000d3a132789/%5BSTATE%20FARM%20VP%2043036%5DAdvi=
+sers%20Investment%20Trust%20%5B$CIK%201516523%5D%20MONK%5BCRD%201357149%5=
+D.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prd=
+sra.blob.core.windows.net/clean/5380dd8997d3ec11a7b5000d3a132789/%5BSTATE=
+%20FARM%20VP%2043036%5DAdvisers%20Investment%20Trust%20%5B$CIK%201516523%=
+5D%20MONK%5BCRD%201357149%5D.pdf</a>)</p><p dir=3D"ltr" style=3D"color: #=
+2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Ve=
+rdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><=
+a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d=
+3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf" target=
+=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core=
+.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%20=
+43036]$%203487%20$.pdf</a> (<a href=3D"https://saaze2311prdsra.blob.core.=
+windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/%5BSTATE%20FARM%20VP%2=
+043036%5D$%203487%20$.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">=
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b50=
+00d3a1326fe/%5BSTATE%20FARM%20VP%2043036%5D$%203487%20$.pdf</a>)</p><p di=
+r=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'L=
+ucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-heigh=
+t: 22px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.wi=
+ndows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20VP%20430=
+36]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149]=
+.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prds=
+ra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20=
+FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK=
+[CRD%201357149].pdf</a> (<a href=3D"https://saaze2311prdsra.blob.core.win=
+dows.net/clean/25aff4b997d3ec11a7b500224828654e/%5BSTATE%20FARM%20VP%2043=
+036%5DAdvisers%20Investment%20Trust%20%5B$CIK%201516523%5D%20MONK%5BCRD%2=
+01357149%5D.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://sa=
+aze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654=
+e/%5BSTATE%20FARM%20VP%2043036%5DAdvisers%20Investment%20Trust%20%5B$CIK%=
+201516523%5D%20MONK%5BCRD%201357149%5D.pdf</a>)</p><p dir=3D"ltr" style=3D=
+"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Ta=
+homa', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 1=
+5px 0;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/3b=
+b9011795d3ec11a7b5000d3a132789/153974-2020.Docket399.FTC.StateFarmRealtyI=
+nsuranceLLC.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://sa=
+aze2311prdsra.blob.core.windows.net/clean/3bb9011795d3ec11a7b5000d3a13278=
+9/153974-2020.Docket399.FTC.StateFarmRealtyInsuranceLLC.pdf</a></p><p dir=
+=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lu=
+cida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height=
+: 22px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.win=
+dows.net/clean/ff91792a95d3ec11a7b50022482864f0/[sfVP43036]%20$2876793%20=
+-%20david.moore%20$3487%20-%20IA%208018184.pdf" target=3D"_blank" rel=3D"=
+nofollow noreferrer">https://saaze2311prdsra.blob.core.windows.net/clean/=
+ff91792a95d3ec11a7b50022482864f0/[sfVP43036]%20$2876793%20-%20david.moore=
+%20$3487%20-%20IA%208018184.pdf</a> (<a href=3D"https://saaze2311prdsra.b=
+lob.core.windows.net/clean/ff91792a95d3ec11a7b50022482864f0/%5BsfVP43036%=
+5D%20$2876793%20-%20david.moore%20$3487%20-%20IA%208018184.pdf" target=3D=
+"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.wi=
+ndows.net/clean/ff91792a95d3ec11a7b50022482864f0/%5BsfVP43036%5D%20$28767=
+93%20-%20david.moore%20$3487%20-%20IA%208018184.pdf</a>)</p><p dir=3D"ltr=
+" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Gr=
+ande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px;=
+ margin: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.windows.ne=
+t/clean/af081f4095d3ec11a7b50022482864f0/[STATE%20FARM%20VP%2043036]%20$3=
+231040-2004555.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https:/=
+/saaze2311prdsra.blob.core.windows.net/clean/af081f4095d3ec11a7b500224828=
+64f0/[STATE%20FARM%20VP%2043036]%20$3231040-2004555.pdf</a> (<a href=3D"h=
+ttps://saaze2311prdsra.blob.core.windows.net/clean/af081f4095d3ec11a7b500=
+22482864f0/%5BSTATE%20FARM%20VP%2043036%5D%20$3231040-2004555.pdf" target=
+=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core=
+.windows.net/clean/af081f4095d3ec11a7b50022482864f0/%5BSTATE%20FARM%20VP%=
+2043036%5D%20$3231040-2004555.pdf</a>)</p><p dir=3D"ltr" style=3D"color: =
+#2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', V=
+erdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;">=
+<a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5f=
+d3ec11a7b5002248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf" t=
+arget=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob=
+.core.windows.net/clean/d88e25ae5fd3ec11a7b5002248286997/StateFarmVP%20Ma=
+nagement%20Corp-CRD%2343036.pdf</a></p><p dir=3D"ltr" style=3D"color: #2b=
+2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verd=
+ana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a =
+href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3e=
+c11a7b5002248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf" targ=
+et=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.co=
+re.windows.net/clean/d88e25ae5fd3ec11a7b5002248286997/StateFarmVP%20Manag=
+ement%20Corp-CRD%2343036.pdf</a></p><p dir=3D"ltr" style=3D"color: #2b2e2=
+f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana=
+, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a hre=
+f=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11=
+a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.p=
+df" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra=
+.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASI=
+ON%20%20attachments%20%252F%20Omissions.%20.pdf</a></p><p dir=3D"ltr" sty=
+le=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande'=
+, 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; marg=
+in: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/cle=
+an/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.=
+jpeg" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prds=
+ra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-=
+D641-4B62-9D15-3AF4205617AC.jpeg</a></p><p dir=3D"ltr" style=3D"color: #2=
+b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Ver=
+dana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a=
+ href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3=
+ec11a7b500224828654e/[sfVP%2043036]%204971235-%20$SMITH%20-%20SEMI.pdf" t=
+arget=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob=
+.core.windows.net/clean/172de37992d3ec11a7b500224828654e/[sfVP%2043036]%2=
+04971235-%20$SMITH%20-%20SEMI.pdf</a> (<a href=3D"https://saaze2311prdsra=
+.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/%5BsfVP%204=
+3036%5D%204971235-%20$SMITH%20-%20SEMI.pdf" target=3D"_blank" rel=3D"nofo=
+llow noreferrer">https://saaze2311prdsra.blob.core.windows.net/clean/172d=
+e37992d3ec11a7b500224828654e/%5BsfVP%2043036%5D%204971235-%20$SMITH%20-%2=
+0SEMI.pdf</a>)</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'L=
+ucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font=
+-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://saaze=
+2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[=
+SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.=
+pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsr=
+a.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%204=
+3036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf</a> (=
+<a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92=
+d3ec11a7b5002248286997/%5BSF.VP%2043036%5D%202876793%20-%20$david%20moore=
+%20$3487%20-%20IA%208018184.pdf" target=3D"_blank" rel=3D"nofollow norefe=
+rrer">https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec1=
+1a7b5002248286997/%5BSF.VP%2043036%5D%202876793%20-%20$david%20moore%20$3=
+487%20-%20IA%208018184.pdf</a>)</p><p dir=3D"ltr" style=3D"color: #2b2e2f=
+; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana,=
+ sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a href=
+=3D"https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a=
+7b500224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20ST=
+ATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf" target=3D=
+"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.wi=
+ndows.net/clean/9194266492d3ec11a7b500224828654e/[sf%20VP%2043036-$3487]%=
+201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insur=
+ance%20company-$3487.pdf</a> (<a href=3D"https://saaze2311prdsra.blob.cor=
+e.windows.net/clean/9194266492d3ec11a7b500224828654e/%5Bsf%20VP%2043036-$=
+3487%5D%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile=
+%20insurance%20company-$3487.pdf" target=3D"_blank" rel=3D"nofollow noref=
+errer">https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec=
+11a7b500224828654e/%5Bsf%20VP%2043036-$3487%5D%201943922-%20$%20tipsord%2=
+0$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf</=
+a>)</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans =
+Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px=
+; line-height: 22px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.=
+blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/%5BsfVP%2043=
+036%5D%204971235-%20$SMITH%20-%20SEMI.pdf" target=3D"_blank" rel=3D"nofol=
+low noreferrer">https://saaze2311prdsra.blob.core.windows.net/clean/172de=
+37992d3ec11a7b500224828654e/%5BsfVP%2043036%5D%204971235-%20$SMITH%20-%20=
+SEMI.pdf</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Luc=
+ida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-s=
+ize: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://saaze23=
+11prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF=
+.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pd=
+f" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.=
+blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%20430=
+36]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf</a> (<a=
+ href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3=
+ec11a7b5002248286997/%5BSF.VP%2043036%5D%202876793%20-%20$david%20moore%2=
+0$3487%20-%20IA%208018184.pdf" target=3D"_blank" rel=3D"nofollow noreferr=
+er">https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a=
+7b5002248286997/%5BSF.VP%2043036%5D%202876793%20-%20$david%20moore%20$348=
+7%20-%20IA%208018184.pdf</a>)</p><p dir=3D"ltr" style=3D"color: #2b2e2f; =
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, s=
+ans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D=
+"https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b5=
+00224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE=
+%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf" target=3D"=
+_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.win=
+dows.net/clean/9194266492d3ec11a7b500224828654e/[sf%20VP%2043036-$3487]%2=
+01943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insura=
+nce%20company-$3487.pdf</a> (<a href=3D"https://saaze2311prdsra.blob.core=
+.windows.net/clean/9194266492d3ec11a7b500224828654e/%5Bsf%20VP%2043036-$3=
+487%5D%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%=
+20insurance%20company-$3487.pdf" target=3D"_blank" rel=3D"nofollow norefe=
+rrer">https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec1=
+1a7b500224828654e/%5Bsf%20VP%2043036-$3487%5D%201943922-%20$%20tipsord%20=
+$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf</a=
+>)</p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans U=
+nicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px;=
+ line-height: 22px; margin: 15px 0;"><a href=3D"https://saaze2311prdsra.b=
+lob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM=
+%20VP%2043036]$%203487%20$.pdf" target=3D"_blank" rel=3D"nofollow norefer=
+rer">https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11=
+a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf</a> (<a href=
+=3D"https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a=
+7b5000d3a1326fe/%5BSTATE%20FARM%20VP%2043036%5D$%203487%20$.pdf" target=3D=
+"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.wi=
+ndows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/%5BSTATE%20FARM%20VP%204=
+3036%5D$%203487%20$.pdf</a>)</p><p dir=3D"ltr" style=3D"color: #2b2e2f; f=
+ont-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sa=
+ns-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D=
+"https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5=
+000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf" target=3D"_blan=
+k" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.windows.=
+net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%2=
+03487%20$.pdf</a> (<a href=3D"https://saaze2311prdsra.blob.core.windows.n=
+et/clean/e9eb965d97d3ec11a7b5000d3a1326fe/%5BSTATE%20FARM%20VP%2043036%5D=
+$%203487%20$.pdf" target=3D"_blank" rel=3D"nofollow noreferrer">https://s=
+aaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326=
+fe/%5BSTATE%20FARM%20VP%2043036%5D$%203487%20$.pdf</a>)</p><p dir=3D"ltr"=
+ style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Gra=
+nde', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; =
+margin: 15px 0;"><a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewD=
+ocument?docIndex=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" target=3D"_blank" rel=3D=
+"nofollow noreferrer">https://iapps.courts.state.ny.us/nyscef/ViewDocumen=
+t?docIndex=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D</a></p><p dir=3D"ltr" style=3D"=
+color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tah=
+oma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15=
+px 0;"><a href=3D"https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentIm=
+ageView?doc_id=3D2020052000291003" target=3D"_blank" rel=3D"nofollow nore=
+ferrer">https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?do=
+c_id=3D2020052000291003</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; fo=
+nt-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, san=
+s-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"=
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_PLUS_Tlr=
+EGCsUUcCcvtJ8O/dfg=3D=3D" target=3D"_blank" rel=3D"nofollow noreferrer">h=
+ttps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_PLUS_TlrE=
+GCsUUcCcvtJ8O/dfg=3D=3D</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; fo=
+nt-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, san=
+s-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"=
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0=
+G0QvnmRLGpYIQ=3D=3D" target=3D"_blank" rel=3D"nofollow noreferrer">https:=
+//iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0Qvnm=
+RLGpYIQ=3D=3D</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family:=
+ 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; f=
+ont-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://ia=
+pps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGp=
+YIQ=3D=3D" target=3D"_blank" rel=3D"nofollow noreferrer">https://iapps.co=
+urts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=
+=3D</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida S=
+ans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: =
+14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://iapps.courts=
+.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D"=
+ target=3D"_blank" rel=3D"nofollow noreferrer">https://iapps.courts.state=
+.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D</a></p=
+><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicod=
+e', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line=
+-height: 22px; margin: 15px 0;"><a href=3D"https://iapps.courts.state.ny.=
+us/nyscef/ViewDocument?docIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" targ=
+et=3D"_blank" rel=3D"nofollow noreferrer">https://iapps.courts.state.ny.u=
+s/nyscef/ViewDocument?docIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a></p=
+><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicod=
+e', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line=
+-height: 22px; margin: 15px 0;"><a href=3D"https://iapps.courts.state.ny.=
+us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" target=3D=
+"_blank" rel=3D"nofollow noreferrer">https://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D</a></p><p dir=3D=
+"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucid=
+a Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 2=
+2px; margin: 15px 0;"><a href=3D"https://iapps.courts.state.ny.us/nyscef/=
+ViewDocument?docIndex=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" target=3D"_blank" r=
+el=3D"nofollow noreferrer">https://iapps.courts.state.ny.us/nyscef/ViewDo=
+cument?docIndex=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D</a></p><p dir=3D"ltr" styl=
+e=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande',=
+ 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margi=
+n: 15px 0;"><a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocume=
+nt?docIndex=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" target=3D"_blank" rel=3D=
+"nofollow noreferrer">https://iapps.courts.state.ny.us/nyscef/ViewDocumen=
+t?docIndex=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D</a></p><p dir=3D"ltr" styl=
+e=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande',=
+ 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margi=
+n: 15px 0;"><a href=3D"https://portal.311.nyc.gov/sr-details/?id=3D4296b0=
+c3-c4a2-ec11-826d-0003ff86900c" target=3D"_blank" rel=3D"nofollow norefer=
+rer">https://portal.311.nyc.gov/sr-details/?id=3D4296b0c3-c4a2-ec11-826d-=
+0003ff86900c</a></p><p dir=3D"ltr" style=3D"color: #2b2e2f; font-family: =
+'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; fo=
+nt-size: 14px; line-height: 22px; margin: 15px 0;"><a href=3D"https://saa=
+ze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe=
+/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf" target=3D"_b=
+lank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.blob.core.windo=
+ws.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachme=
+nts%20%252F%20Omissions.%20.pdf</a></p><p dir=3D"ltr" style=3D"color: #2b=
+2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verd=
+ana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;"><a =
+href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/f2d6a0fe5fd3e=
+c11a7b5000d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%20CUSTOD=
+Y%20at%20JP%20MORGAN%20CHASE%20BANK.pdf" target=3D"_blank" rel=3D"nofollo=
+w noreferrer">https://saaze2311prdsra.blob.core.windows.net/clean/f2d6a0f=
+e5fd3ec11a7b5000d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%20=
+CUSTODY%20at%20JP%20MORGAN%20CHASE%20BANK.pdf</a></p><p dir=3D"ltr" style=
+=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', =
+'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin=
+: 15px 0;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean=
+/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--4776256-6109023[FILED].pd=
+f" target=3D"_blank" rel=3D"nofollow noreferrer">https://saaze2311prdsra.=
+blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS=
+--4776256-6109023[FILED].pdf</a> (<a href=3D"https://saaze2311prdsra.blob=
+.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROOKS--47=
+76256-6109023%5BFILED%5D.pdf" target=3D"_blank" rel=3D"nofollow noreferre=
+r">https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7=
+b5002248286386/8209-$BROOKS--4776256-6109023%5BFILED%5D.pdf</a>)</p><p di=
+r=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'L=
+ucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-heigh=
+t: 22px; margin: 15px 0;">---------- Forwarded message ---------<br />Fro=
+m: Lillian M. Moy &lt;<a href=3D"mailto:LMoy@lasnny.org" rel=3D"noreferre=
+r">LMoy@lasnny.org</a>&gt;<br />Date: Tue, May 10, 2022, 1:01 PM<br />Sub=
+ject: Automatic reply: Automatic reply: 101 STFGX 1516523 CIK Filer ex-po=
+st 900$ million in losses<br />To: BO DINCER &lt;<a href=3D"mailto:bondst=
+rt007@gmail.com" rel=3D"noreferrer">bondstrt007@gmail.com</a>&gt;</p><p d=
+ir=3D"ltr" style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', '=
+Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-heig=
+ht: 22px; margin: 15px 0;">=EF=BB=BF</p><p dir=3D"ltr" style=3D"color: #2=
+b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Ver=
+dana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0;">=EF=
+=BB=BFNamaste. I am out of the office until Monday, May 16, 2022.  If you=
+ require immediate assistance, please contact Margaret Wood, <a href=3D"m=
+ailto:mwood@lasnny.org" rel=3D"noreferrer">mwood@lasnny.org</a> or 518 68=
+9 6306.  Thank you. Lillian</p></div>                                  </=
+td>        </tr>      </tbody></table>    </td>  </tr></tbody></table></d=
+iv>
+  </div>
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color: #aaaaaa;&#10;   =
+ margin: 10px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeeeee;=
+">
+    This email is a service from New York State Bar Association. Delivere=
+d by <a href=3D"https://www.zendesk.com/support/?utm_campaign=3Dtext&amp;=
+utm_content=3DNew+York+State+Bar+Association&amp;utm_medium=3Dpoweredbyze=
+ndesk&amp;utm_source=3Demail-notification" style=3D"color:black;" target=3D=
+"_blank">Zendesk</a>
+  </div>
+<span style=3D"color:#FFFFFF" aria-hidden=3D"true">[3M7K0R-EYDM]</span>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage" style=3D"=
+display:none">  <div itemprop=3D"action" itemscope=3D"" itemtype=3D"http:=
+//schema.org/ViewAction">    <link itemprop=3D"url" href=3D"https://suppo=
+rt.nysba.org/hc/requests/35627" />    <meta itemprop=3D"name" content=3D"=
+View ticket" />  </div></div></body></html>
+
+----==_mimepart_628b862dc9096_433f88668cb96813541a7--

@@ -1,0 +1,248 @@
+From - Thu Jun 30 17:39:45 2022
+X-Account-Key: account1
+X-UIDL: AJDSg0E+RS1aYr4ivg0rGE5ekBY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.37.233
+ by atlas305.free.mail.bf1.yahoo.com with HTTPS; Thu, 30 Jun 2022 22:25:02 +0000
+Return-Path: <ofac_feedback@treasury.gov>
+X-Originating-Ip: [166.123.212.215]
+Received-SPF: pass (domain of treasury.gov designates 166.123.212.215 as permitted sender)
+Authentication-Results: atlas305.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@treasury.gov header.s=fsticfy19q1;
+ dkim=pass header.i=@ustreasury.onmicrosoft.com header.s=selector1-ustreasury-onmicrosoft-com;
+ spf=pass smtp.mailfrom=treasury.gov;
+ dmarc=pass(p=REJECT) header.from=treasury.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 30 Jun 2022 22:25:02 +0000
+X-YMailAVSC: 1KKVMg03bBuhoA0yFDXDvJjc4w0veZb.rikppjUVGyh9jWw
+ olqK_LVzOND4nddHUourif8eikBYiYIujWyuUVUkAQ0yjloZNheTC.cs3nX4
+ kJtFcvulSYA9szzdthL6B1Yv_JbcimbW5IhNTonGYpjjgBmYsRvrhM6xVx7l
+ .xXoP9b0HTRqHkBW1hJgp3AmJm7o_6PU7n4fUULoVn4vjn9UlGvYrtuq.gI0
+ JPbOLLay1CvH_0XEDYsweFmzqV7kKCOn7BNTuBoQMZOxf15SUZlY14DuUoPh
+ jfCVbkdA4GLU9bWrQ1t5cblKBhEzm67UATzJs4fw.VIpAnQrz9aQZHPwSsF1
+ L0fk0kCdCvQI0GBdmkqPlTF1ZhTk9.h7kLXy11A--
+X-YMailISG: hKOeQPgWLDvYdrMx.41PtDuqH90kEcTZo43b1xhEB2hiZGDT
+ kTfMoB2tI5HBya8fYQMBw3WcBtSGkRPtkfYExc6EmtCVudf2g93MfIpGvnrp
+ jG3_LXHcBUT8vO9ECc2SwYBVG81JjD0DbSIhDla_uN2tParyLCOZma8LofFB
+ uxBcqdYYgHsRYEYrK3DpueJrHROtHjKGhymqH7ubCNzkotops0nq8QpGjZN8
+ meyO6PEx3SlkpHf7X_j_pS_6biJOVdzXsUd1GxTycptwxyrr9MtslyMDIygC
+ Z4RWqa4UtagCV6ciegFm1C.oNGIGxz3gYjKGIK_1b9tXGdBvcZ8_RK9ITN65
+ 9WqG7.bRqMFNuZTxA2BmHxTXi488FI.VNHN8TRZVnX3Ds3wlET8PbGhTSqje
+ SAUxb.OQ9Y6aHjQwBm4Hn_DPr.wAmP7L1aEFnZ.bKTgvw6eUt9zpciyFKqiB
+ mo_qdz0j7R4kE3Da9xlkUowzbaxbiiTmVZCik_uYtOx3q0M3VFN3hFDEt2hB
+ 4zw0EzqCmIwirt2.lnbOuEPpsG79IKPvOsKblU9o2Z3zhcR7uB04O3VbtUPl
+ bTlFF0b0JyqDKddbT6Pk5Rjnx1Lj7olrpXH1ctusSPw6.rIDKxSH2_rIF7HV
+ U2xqCJ3ydxzd8CBZUYtrLWBxF6SiafnzyfybaeD_iaEjqR2i.PcpvqIRay7.
+ 8ToY0vHBm0nQdaILl86u8evgMRMg.jiTvbP_AqUyqaQ0by9DJFeehoA5diYf
+ w52FNucaYJXguPr.L9_eq_rCDOUJ7jhLsaH4_IsM1ve7WOFN84NE7iHYLCrl
+ ei57jxLULUtOsHWo9y.EAZBR.TLx_3vE3u5ZjLEqxOK.UKouhbIk911EULFa
+ 7qTfbomdsyiIP_tGsuqcyQU4GfCNdtD1TzTzF9npUbr43pnV6SuxehrO9TY6
+ RI8ljyi3MYf8uVY3dvPayzlps2yGbQLfAFiVJSmDVNsFT8NyWp4rdwUpZrt9
+ Vyf1c5RPbPRot.Bwc.L071ePwnwA3sxlIL9OVHCXuycl_nnG3sNY0PkCqLb4
+ _iqAkbUEMti3xjE.gH9ocGUbut7KjlLbeGdS3SqhLE7fsyQJ5DTeNVwVAEN2
+ uap2x1dkywn30f4Yvq9UuZrhBC5soAFywuuL4rmEE1FPVFb7Icm5r41VhqXU
+ 9jrmb4iApR9sjPg1rOcEtJZfnqp.5ml.HtTed1XOrDQR3N7W1g--
+Received: from 166.123.212.215 (EHLO pk-extmail4.treasury.gov)
+ by 10.197.37.233 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 30 Jun 2022 22:25:02 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=treasury.gov; i=@treasury.gov; q=dns/txt;
+  s=fsticfy19q1; t=1656627902; x=1688163902;
+  h=from:to:subject:date:message-id:mime-version;
+  bh=LbTJCNKk4eEPbj0H1r3x4tri7chMMduFNVX88J130ys=;
+  b=sn7yI8BWTHtsUW37H9MhA/+GHThnfbcWQumXJKGqUHw9KnZbjp0e9VNo
+   SAsv+7Zsl9pWjCxTmNzAvyRTJxDkmKHe7cjizHK86giXARBFCG85QlLvN
+   lFJf+r2vKpHtvVRSxDSjLwD7KgCH5ZIO3FwvWw6+hBuX9El4P9vzUGUPI
+   zIzcMGHVT5RBJs1XbGm0o0emJVe3fQkv3mRZhEts9PBJoS37v+VUiIOoW
+   l2ngOK4C03Z7Dmlz26iNNFGOKsjyjS1sQMNCsPTB7FnRsqB0A0a+eBdqC
+   cX7fcE+fvAKXOgY7Vr8bBAjZmHOLaMmuie6ualwQl1Q55g6Rf6GpqyNtM
+   A==;
+X-IronPort-AV: E=Sophos;i="5.92,235,1650931200"; 
+   d="scan'208,217";a="115149424"
+Received: from unknown (HELO d98zixvpm01p.do.treas.gov) ([10.72.96.67])
+  by pk-intmail4.treasury.gov with ESMTP; 30 Jun 2022 22:25:01 +0000
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.do.treas.gov (Proprietary) with SMTP id 0869C1A15BE
+	for <ms60710444266@yahoo.com>; Thu, 30 Jun 2022 18:25:02 -0400 (EDT)
+Received: from D26IRONPORT01P_MAIL.do.treas.gov (d26ironport01p_mail.do.treas.gov [10.72.156.48])
+	by d98zixvpm01p.do.treas.gov (Proprietary) with ESMTP id 33E9A1A15AA
+	for <ms60710444266@yahoo.com>; Thu, 30 Jun 2022 18:25:01 -0400 (EDT)
+IronPort-Data: =?us-ascii?q?A9a23=3AExjryqB/hwemzBVW/xrhw5YqxClBgxIJ4kV8j?=
+ =?us-ascii?q?S/XYbTApG4j1zMHn2sXCmqBb67fYTagc4sjb4ng8BkBupHdyYNlTANkpHpgc?=
+ =?us-ascii?q?SlH+JHPbTi7wuccHM8zwvUu+CuL1u1GAjX7BJ1yHya0SiuFaOC79yEhjP/QH?=
+ =?us-ascii?q?9IQNcafUsxPbV49IMseoUI78wIJqtYAbemRW2thi/uryyHsEAbNNwpPD44hw?=
+ =?us-ascii?q?/nrRCVH5amt4mNG4jTSUtgQ1LPWvyF94JvyvshdJVOgKmVfNrbSq+ouUNiEE?=
+ =?us-ascii?q?m3lExcFUrtJk57XIx0ncpWKYDDIhn0QR7KviwMEqSssuko5HKNELxgNzWTX2?=
+ =?us-ascii?q?YoooDlOncXYpQMBGYPls9MzXhRUGSh1PoVa4rLOOmWloIqcyFOun37Ek6w+X?=
+ =?us-ascii?q?RpoYtBwFuFfRDsmGeYjADUWMEjc3rrqnO7hFLdEl80jK86tN4Qa0kyMZxmx4?=
+ =?us-ascii?q?e0OTcGTTrXBvYJAmjs3wNxUEP/FIcUed1JSgN37S0UnEj8q5FgWxY9EXkXCT?=
+ =?us-ascii?q?gA=3D?=
+IronPort-HdrOrdr: =?us-ascii?q?A9a23=3AIWcwf6lGoAU5EkXw3FIGKF9kzZPpDfIA3D?=
+ =?us-ascii?q?Abv31ZSRFFG/Fw9vre/sjzsCWe4gr5N0tMpTntAsW9qArnhPhICOoqTNSftW?=
+ =?us-ascii?q?vd2VdARbsKhbcKpQeOJ8SUzI5gPMlbHZRWOZnZN3hW5PyKhTWQIpIL5PmrmZ?=
+ =?us-ascii?q?rY/Ns3shpWPGZXQpAl0CNFIm+gYylLeDU=3D?=
+X-IronPort-AV: E=Sophos;i="5.91,230,1647316800"; 
+   d="scan'208,217";a="81893675"
+Received: from d98exc05p.do.treas.gov ([10.72.96.21])
+  by D26IRONPORT01P_MAIL.do.treas.gov with ESMTP/TLS/AES256-SHA; 30 Jun 2022 18:25:00 -0400
+Received: from D98EXCDISUSR1P.do.treas.gov (10.72.96.52) by
+ D98EXC05P.do.treas.gov (10.72.96.21) with Microsoft SMTP Server (TLS) id
+ 15.0.1497.36; Thu, 30 Jun 2022 18:24:59 -0400
+Received: from d98excmrs07p.do.treas.gov (10.72.96.180) by
+ D98EXCDISUSR1P.do.treas.gov (10.72.96.52) with Microsoft SMTP Server (TLS) id
+ 15.0.1497.36; Thu, 30 Jun 2022 18:24:59 -0400
+Received: from USG02-BN3-obe.outbound.protection.office365.us (10.72.99.254)
+ by d98excmrs07p.do.treas.gov (10.72.96.180) with Microsoft SMTP Server (TLS)
+ id 15.0.1497.36 via Frontend Transport; Thu, 30 Jun 2022 18:24:59 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector5401; d=microsoft.com; cv=none;
+ b=jvg0S3lQgexvRuhTeR5w/PdwF+xAKVrflqdJI//t45FsMIHMOgA62eQOuBiN/If+ZRR6ot1WoV1mNdLdX3YRsbQ9Z7P9yP4/O74OfZugFqsYuW8RPPbsKVV/hXWNKLND60v802NaM8uxKTYyWEZBKd8P+QQjRxmYGi5fzZHNc6/FGVRssDz9vsE38ck5tKtF4zikDW3xhkG8O0aHJj6uHWJFXfh8tbHSMmKptkMUl4Aeanvczgz6ltgXQ6Kbst+MyKfwdSomUAsFYI8vuJqgny1cufXeNo8toxl7UPJEtyIOH9yeJRMMJF0niujpcOzPPilW970aCckF58Axq89gPg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector5401;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=/Er2cqtQolVTHr5aZK5QMjBJKQ0LKu3VwElIUe+Odok=;
+ b=wbd57qzDpRkNo9pF2XLJUReYa2BiujzDyCMCwOdkBtbp7YOAa7OfanvsxLFOdh1Y0I3ZJVYExeIi9K7ShGA8EUlWZpgqB6AwVfilc7Z33ND5xCJ5G3NHibaQjhVR/bVaxU9GpBGO34jFMYL73FMJKOEwkZySsmpFupK3QalslHV4hhJosAR7wCkOSLNdXnu1HBRa1m06Vq5tfbX69+0EE4Jki+XRCYEj0IegRHKL0cJmfZRq+4RU+KRPnp3VBdfEGF2RpR1fR3IPLyHxgfvd49p3vT8ydkwTolRpa8SxGSr4Hp3cJMMsKL9LPc6jHg4ZxpuheP11imzvVZwvzLRP+Q==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=treasury.gov; dmarc=pass action=none header.from=treasury.gov;
+ dkim=pass header.d=treasury.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=ustreasury.onmicrosoft.com; s=selector1-ustreasury-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=/Er2cqtQolVTHr5aZK5QMjBJKQ0LKu3VwElIUe+Odok=;
+ b=upnzpjDd/al77TtMGAyxWiNtV95Tu97jJ3Qufp9W64phHlkhT3qm7M21dndB7R0ohzV8lWFYFU5NHgFRnCnjgOvl4ggSLVut+ZSnp5uegpLFk+8QTqr1bOPxXTIrmWo8CeC/wW/3YZeInGwX/qOh2Yz3DkGNH5Wn+jQovI/5svI=
+Received: from BN2P110MB1382.NAMP110.PROD.OUTLOOK.COM (52.145.37.205) by
+ BN2P110MB1608.NAMP110.PROD.OUTLOOK.COM (52.145.37.142) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5353.16; Thu, 30 Jun 2022 22:24:58 +0000
+Received: from BN2P110MB1382.NAMP110.PROD.OUTLOOK.COM
+ ([fe80::c0dc:f908:8df7:790f]) by BN2P110MB1382.NAMP110.PROD.OUTLOOK.COM
+ ([fe80::c0dc:f908:8df7:790f%6]) with mapi id 15.20.5353.024; Thu, 30 Jun 2022
+ 22:24:58 +0000
+From: <OFAC_Feedback@treasury.gov>
+To: <ms60710444266@yahoo.com>
+Subject: Read: Fwd: simiplified this for you as well. only 6 people knew i
+ sent that - and the recipients in the thirst MSF to
+Thread-Topic: simiplified this for you as well. only 6 people knew i sent that
+ - and the recipients in the thirst MSF to
+Thread-Index: AQHYjMSKff5oD0empkWI1IfZBO+1B61odIMA
+Date: Thu, 30 Jun 2022 22:24:58 +0000
+Message-ID: <06b8cb3a48064611811685c882e8c184@treasury.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: ef042d92-ead5-42f0-8a6c-08da5ae75dfc
+x-ms-traffictypediagnostic: BN2P110MB1608:EE_
+x-ms-exchange-atpmessageproperties: SA|SL
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: BfgvCG83zNPGa0xl2jNn6D7gQkx1cCaNrZgqwRxdx9bhPl8rHClFfmQYVz568W1BBGZnfDQPAOc2Aus9nX1fBLFbaPs15Mo8sDHDL4aTy/PwONEtg5U+jzR2k6JEsShD049tF7UiQAvJG00QkVn14BOcoDIZFRywqC8zHSk1LiywOpl7b3I5NHUUdG0SbxJdHB3LwJ1S4+lyYH2moRLaAhsBuET5Z1x6iPkpsgbTbofd5BtRuewrV97Ndabai6EhSTtqnZu+xQg5rpWLoQJ/Eu2Byj5OBG3FScWskW39GiHFxcoBFPjl4T0TA3PjBF8CtlhUz5QXPGIFck9iIC7Ssb0xQBMCRoxg3IUVAvyxLYy8vKVaXCtxnvtiICc2WYxvTyQTC6OlXxmj8LaWLh6UlH2rObZWUyK9iLyPZfeRDEWdAFAfuc7m7c3o5WmCvgEDyafIBGiBE1JPrMVpWl3hVARa/GuwPfj0gefvmfac77E=
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BN2P110MB1382.NAMP110.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(122000001)(8936002)(88996005)(66946007)(498600001)(6486002)(26005)(6506007)(66556008)(66476007)(8676002)(6512007)(4270600006)(24736004)(71200400001)(64756008)(86362001)(82960400001)(108616005)(6916009)(66446008)(186003)(36756003)(2616005)(621065003)(73894004)(2906002);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: =?us-ascii?Q?PGfwFZfbBmTWWN60t6AEc29hCOQGTM/BzXw99hriIMh5GTuX91QQw8qbKWQ1?=
+ =?us-ascii?Q?LAPfA8CN2PIL1VVuyl4deLT+D/pHWX5RjlcU9MEkXOSG/UPiqso2mLiaASEe?=
+ =?us-ascii?Q?gCHFO+4a4ooNCZ7F/5kFfUnfPCi5AI79AYUDZRTnMsBEopW1AJcfAEjipkDB?=
+ =?us-ascii?Q?x/fUiKWWolYDVIcKYvMZIWAlMqxmuntT//MR1mfCicJ0z+B2RD5+iqSiqzkv?=
+ =?us-ascii?Q?mZJQ+G2YSKxCYtkS4wwxg79cn/7KOwdxyPl5eKyw4OrbgCMcal17TyfJRMsS?=
+ =?us-ascii?Q?u0PuNlwtlnbYUGnFNMQ72Km/zspf+JOPoi2qX+zlMMmSl6x1EAo87DD17cIE?=
+ =?us-ascii?Q?UHj98PXdpBrecIU2qeBl94tuj9T62j+kE1wqimbRa9JPgkSZDVGpnEF7O7At?=
+ =?us-ascii?Q?MAs9QMWLhekj/1OsFgFPrv9Pyrj5ru7dSTrrXuoVpYpocejxj0eDgr6xNwuN?=
+ =?us-ascii?Q?tZuvCuU9ehysjZ//fV+K+FzQGRcAE8y93KodbUvBuNQUJrkvpk3/GFBMc4fQ?=
+ =?us-ascii?Q?FrNgryE9RkCXcSviCbTn8kxy6GTb31ZCJ1nfAX2kktNRvNoQaCGWqmG1Ujfq?=
+ =?us-ascii?Q?MLKexuSOCefiuDkRc2HH3qe4GxdgEVsTZkwk11RwO+aUEQMZMFndsgzhq+B6?=
+ =?us-ascii?Q?oRMTeZAK3fJzc1QBw4FKu5kzAUeR7XfhgCte0j061Oxev7trY3NgPoMf+JZI?=
+ =?us-ascii?Q?oniJzEirv4fcyClHSzK+e63evt5K5xe99Woh2MSOqc5ZAKG1Wc/Du9K2110d?=
+ =?us-ascii?Q?dLtycPBDjhC0ODK3JXnU9c+5RVRzoCzMCbLdeNAjl3BhxVb+RDPj3M4LjtdZ?=
+ =?us-ascii?Q?aSzrCbA9156GybBfhdNYOCr0iJATRorzlRmOHaz7GUCbzNwn/cXLSDsUYWWI?=
+ =?us-ascii?Q?erVri98vZFrOYs3H0BIZGK8HmUY1/rECR0oze2FiLWlfBeKuDytzP9xMtcUx?=
+ =?us-ascii?Q?53suscnvi9P+DUjvQ25q1FOK+N6Qnjw+BthNhmYKxWWObm5KMJF2sQm6tKTs?=
+ =?us-ascii?Q?GFACGdTRKeurgTKkxi7j9gEDtQsMEwr5wbrFfr8S4JFqYitWCC3o+P3TjNEB?=
+ =?us-ascii?Q?YZia3ONeP0c3BsE8zzhCGTI+G8cEaC0Lroj1lkCGaC2B29wpP2XqCmy9ow/E?=
+ =?us-ascii?Q?OgsPX/hrNwbYs24FrW/bkVsPjbYQuWSdvvJ9apZ/kaEmaJjoFbgtWII2/jfP?=
+ =?us-ascii?Q?yuxxNbLI41aAg5sGgZCLT8MN7ZLgiPpdUTqzohDWUnZfT99vyleKGgPlZjFv?=
+ =?us-ascii?Q?a811m+C+oloefvVoQT4DrvZmy61H8ZtFaUw9viOteKOEKKNY8+RSuQE52wMr?=
+ =?us-ascii?Q?G6ZR04RxnIDU+LezeR7caOidDOVgBpQFVUweKlCXWTzQnujk4uN9wnOO0q4s?=
+ =?us-ascii?Q?sc9KLv6D3YEpcuH/0+4p+tbu+E8CDD/xAnWT/J+5iT3D41D3HA=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_06b8cb3a48064611811685c882e8c184treasurygov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BN2P110MB1382.NAMP110.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: ef042d92-ead5-42f0-8a6c-08da5ae75dfc
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Jun 2022 22:24:58.6966
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 58f1e3fa-58cb-4cb6-88cc-c91cac207f18
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN2P110MB1608
+X-OriginatorOrg: treasury.gov
+X-VPM-MSG-ID: 13139b40-b4b4-4157-a0b1-013420b2216e
+X-VPM-HOST: d98zixvpm01p.do.treas.gov
+X-VPM-GROUP-ID: 1d165a36-9ba3-4161-98e8-212f1a948eb9
+X-VPM-ENC-REGIME: ZixVPM,ZixMail,Plaintext
+X-VPM-IS-HYBRID: 0
+Content-Length: 2081
+
+--_000_06b8cb3a48064611811685c882e8c184treasurygov_
+Content-Type: multipart/alternative;
+	boundary="_002_06b8cb3a48064611811685c882e8c184treasurygov_"
+
+--_002_06b8cb3a48064611811685c882e8c184treasurygov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: OFAC_Feedback
+   Subject: Fwd: simiplified this for you as well. only 6 people knew i sen=
+t that - and the recipients in the thirst MSF to
+   Sent: Thursday, June 30, 2022 5:19:04 PM (UTC-05:00) Eastern Time (US & =
+Canada)
+
+ was read on Thursday, June 30, 2022 6:24:58 PM (UTC-05:00) Eastern Time (U=
+S & Canada).
+
+--_002_06b8cb3a48064611811685c882e8c184treasurygov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: OFAC_Feedback<br>
+&nbsp;&nbsp; Subject: Fwd: simiplified this for you as well. only 6 people =
+knew i sent that - and the recipients in the thirst MSF to<br>
+&nbsp;&nbsp; Sent: Thursday, June 30, 2022 5:19:04 PM (UTC-05:00) Eastern T=
+ime (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, June 30, 2022 6:24:58 PM (UTC-05:00) Eastern Ti=
+me (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_06b8cb3a48064611811685c882e8c184treasurygov_--
+
+--_000_06b8cb3a48064611811685c882e8c184treasurygov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; OFAC_Feedback@treasury.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: GIXEDZQQ9U2mLdUsZpzHQQ==
+Original-Message-ID: <8d799c71-15bb-c66e-1156-830abc0e9b2c@yahoo.com>
+X-Display-Name: OFAC_Feedback
+
+
+--_000_06b8cb3a48064611811685c882e8c184treasurygov_--
+
