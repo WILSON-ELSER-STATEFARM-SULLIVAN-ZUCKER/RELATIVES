@@ -1,0 +1,78 @@
+From - Fri Feb 25 19:51:45 2022
+X-Account-Key: account1
+X-UIDL: AOsDJH5JUdiLYeNtYgy50M2+YUk
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.205
+ by atlas302.free.mail.bf1.yahoo.com with HTTPS; Sun, 16 Jan 2022 00:57:06 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.171]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.171 as permitted sender)
+Authentication-Results: atlas302.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 16 Jan 2022 00:57:06 +0000
+X-YMailISG: AUVbT.EWLDseeQfV8sPDyNyjiNiV02kZS5jhtLATLt99ZKD6
+ YIfNvPhoGAzZRAvpLKe2IOA6FXmxDyGoDpgAcOy.IQL8igdFOOYj3_A9WaFa
+ G4aV1MXJT4obMxxJP6pwRtVGLSEE.6VLO3Tbyis572aNvGF0bpsTG_oUQMGA
+ t2PITo2EycmgTKc6wKAlUUvchu1FLzZUdNviqZiNQohdOsRWbHmUGCzYVRnb
+ gmFGTg1KsSrtec2eznvccijYzd0UcmGYFN_01SFDWXtChGyckzyOXfppLame
+ uC6J7riZuz8LZED_2d1.B1mS7qqV6.XNv1yih7cOK5OqjI5dhe1raPUujuRf
+ kd6OBjWNDGyUnnNqzJy5F_H_As.NkCQyrSyKxZp1lboXRKXeGg1uFSeYI35O
+ a10rnH9FGj_xGxNc.7L3ofI5bF6vxqjVOrLDwOUX6qdAw58d7HY1k_0f7gPi
+ AQglaCbseBbZoTi890GH1cBbpDFasIlpDdoJVskajhIuXKkV5eOHzMFQuXsm
+ Ozkoe94xjJkikLoEpK8H1g9YJy76Nme.sKe6MIEMbXga43OSWTR0MaZ1yQW.
+ w_wSbULu7x8fBN_rCGs4aH8JJ4G9OXLbdO9apZUCQwQdlV96HC4BZDXoBL_w
+ CsgxOk7fHEqqVuZ0tyeG7vPrMGhqVngIErggnyUeAp681qjhVb3wxfux2.Fe
+ dvOOqJzsUZQbOp57oqXCIgPRmdSy7DLGylr_wpwNhi4x7rKVIQfc2kqgQTq7
+ NBRJz8DmtTqRdgkNfCnqb7qrpw1.GK9jv5eFcbfOJ.Qt.cN0qP7tf5N0voiz
+ rAJ47nDdRusurqtdv9qM0IWlWIamMHzOIcRDX5PPwMAdWVdGE9Nat8jeeZJ3
+ 8ZK9ynpAIsumzwCxhgszx6.UwAgrfG1lM.np853Ixvj50KbFeUgYyU4WYfrY
+ ICuGI8qr0LFDQ1kL1KqP8cT1yBx6HUwh6YBOkBASKNwCHaOwWTUeWQjkw8ql
+ lI8XDRtJLea0cPM5tPnG3lGVIG5_KwjkdROTeJOMxPLcVIJGs.UJXU9d8oko
+ xPvuYq8BEdsn9I1a52wtY2KOTlBIxijivUJUoayiKzASUaQsrLyYmtEtEYQy
+ tHffgYCreBr6TQ--
+Received: from 17.58.63.171 (EHLO st43p00im-ztdg10071801.me.com)
+ by 10.197.33.205 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sun, 16 Jan 2022 00:57:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1642294626;
+	bh=0cS4zy8t+npZCNGeV+qzkmgzl/CJXl+MiJQ2WtvkhKQ=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=pw8B+RKt0BFIXmUV4622ykB9sHZLlfK+Xik+LX7jNzme5D/p3hkl/jfgF7NvOrEzx
+	 iZ26iewZ1Xz95evjkYZDoqGRqjd35X5bZr7N1vo5enPuWcnvIqYw1xBZPGm1fbhr/r
+	 Rv1MUCOlh3e5NkoosOT0xnG5w6U0TApjHa3MTL1v/fqakuUtFfJlqzV2EcZeT0R0h6
+	 OuBI+c144tcGvE55NwKStwm9mgPlhsg1maab7gkvgIpRdgs+M14zdR/tSvtqeft5Z2
+	 YNYdmP8NmLZXckI/XOlah4klFJGYEkLGOg+Atz3Htxu69jR80RJf4VwUj6BrzRGQGK
+	 OV8Zad2xMauKQ==
+Received: from smtpclient.apple (mobile-166-172-63-123.mycingular.net [166.172.63.123])
+	by st43p00im-ztdg10071801.me.com (Postfix) with ESMTPSA id EA1173C07A2
+	for <ms60710444266@yahoo.com>; Sun, 16 Jan 2022 00:57:05 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 15 Jan 2022 19:57:04 -0500
+Subject: PART 202. Uniform Civil Rules For The Supreme Court & The County Court | NYCOURTS.GOV
+Message-Id: <E68B089F-6ABA-405B-9F58-C78FF5DFB286@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.816,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-15=5F06:2022-01-14=5F01,2022-01-15=5F06,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 adultscore=0 spamscore=0
+ mlxlogscore=737 mlxscore=0 clxscore=1015 phishscore=0 suspectscore=0
+ malwarescore=0 bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2009150000 definitions=main-2201160004
+Content-Length: 61
+
+
+https://ww2.nycourts.gov/rules/trialcourts/202.shtml
+
+
+/BD
+

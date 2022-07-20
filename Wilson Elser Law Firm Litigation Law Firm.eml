@@ -1,0 +1,82 @@
+From - Fri Feb 25 21:03:41 2022
+X-Account-Key: account1
+X-UIDL: AI0XPs4usi4GYhFn8w1xaExQQo4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.72
+ by atlas106.free.mail.bf1.yahoo.com with HTTPS; Sat, 19 Feb 2022 21:58:11 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.170]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.170 as permitted sender)
+Authentication-Results: atlas106.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 19 Feb 2022 21:58:11 +0000
+X-YMailISG: ZK89PAgWLDsJI_BmDm_LgQxqi0Fsa08im8H9xMEYtRp4u.I5
+ _7.VZsDjXMp.MXlXEqIncJm0XtuoxK5W0spVr5Q_jT6n_Oy094bhBwwMcdhG
+ dVCZO72Gmoq5gO6rzrnFver2O3wbYy6JllOeLiJczV3g8w4yzYaNPKvAkHv.
+ tJB0URNpN2HGw0Yuv51crzXObG371vkGSuvXzaEwtaWM5wHJ4G6GzY67lQR5
+ v4JJ5rBcs.ODmxG5VeD9.CCDCNaB9wxI0TP_FyaVEjtHsJaNoe68yRHLntDQ
+ WEkL3hf09kJOc8jgvbbWuLA79Vb8NWGG_yCpYbot_WkccEWu1DiUBBiD8xjM
+ jsf_WpUJZbOK6z7Qk4ARk5tiKiOypVSxlADiGb73nVPv7VFgjUMue8uXWazG
+ 034PK_aDwThnDENLsfdgkcERF1AxMP7f9cUMPJ.OsOYtPAEzZzorIG2RbkgA
+ oEwWY4sRKgixubTmhQRfCEZrzt0tLVsR5W.mH8sX8plQo0nZ6bmvWIVEf.3S
+ yLAzsMJywXzsZGr8OunnhiK1ZtrYTH3JlkiLy7UzZxCJ6LvZuP.DmEEszmM6
+ 6yw5CURmX2QGtbJ_BRnddL4nqiGwJB_W7NgieV_LUqYUXN0ITIGhCAgLxLYU
+ U6zxR_Gmb.1QO8NqbSOR1Lzek7zYFdNt5NqZYsmG1D5iE0mP8HhOpscn19zE
+ ttNuMtzRkgeCERARbmCeCjXOfhlU7aLd.zAAr7F33WNa3zdVesKTapzV.Ih.
+ FjpJqQZSw2vvEy6KZ0eXIRCUkKO.xSJzrZhipVll90m1NflL51efj3Aqo0aZ
+ VJtfg6uUdt0noBbQMA7XwjCqlrGkZtKe237tnQs10a8cxcsF1I_BwfJ8_GrE
+ wqV0YpRBmLXppW0ffOsIrnUG_FPn6C.M8FItq0jeugAxHaydBtblZgpBUlLQ
+ tYr4zxUTkd10mst0hGDXvzK58BFPtyPjU94KylZdFW49zCxNC7AFtrKm3Joi
+ 7BcU_mmmFCAJ9jrpQPknBNTJ17DYXoDXXDJDiV5IekvY9gORqhnOOPx6O_mP
+ aUvpylUDmtIsCTPwVH4VpD_mjqs3Hl0m.WdEVX7QWPcARsyr.BjsnMHEVni3
+ wBwVO7K3nMwOu7svt6UalHhS
+Received: from 17.58.63.170 (EHLO st43p00im-ztdg10061801.me.com)
+ by 10.197.40.72 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 19 Feb 2022 21:58:11 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1645307891;
+	bh=5ZTDOvo1t2nvdiM2xWf7DtF18k9HCdymhhxRZx/GGPg=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=wjyp86Ln+W5Na97x5K0/keY0iwCEZ/S/T4FbK2NQJFSlJABz1KyzRpi6b1p8RSSBA
+	 VTmYBMGMjmAeODGWIot4hNTPW0t369oBjqv0Vvg6hxR7fwHwyuEqISMMQO07pQd9gh
+	 CykJ8dWQeSjH4ck3jLfY9pp8rCxH0ivRt0dzaDoJP6QR15pGCNf0nxE3OW2fmip+5a
+	 6giCk6jN6pWu2dbgs2Tu5s3pDANs0w+abPc5FeqRVKXlkcaX5jO34YnFf9LH5r+wJQ
+	 gq/JVupBrt3AzOagWTB6KprurUbkUlZckG5nUX5lVoAttXjRtx4mDxnv26PBhX1AKo
+	 KAKUN5KJwmLcw==
+Received: from smtpclient.apple (mobile-166-171-186-97.mycingular.net [166.171.186.97])
+	by st43p00im-ztdg10061801.me.com (Postfix) with ESMTPSA id E7CF2C03CC;
+	Sat, 19 Feb 2022 21:58:10 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 19 Feb 2022 16:58:09 -0500
+Subject: Wilson Elser Law Firm Litigation Law Firm
+Message-Id: <7356EE77-D0E9-4C56-AD3D-80A23F96CAAB@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>,
+ BO Freeman <bscpgroupholdingsllc@gmail.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.816,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-17=5F04:2020-02-14=5F02,2022-01-17=5F04,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 mlxscore=0 adultscore=0
+ bulkscore=0 mlxlogscore=581 clxscore=1015 malwarescore=0 spamscore=0
+ phishscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2009150000 definitions=main-2202190141
+Content-Length: 96
+
+
+https://www.natlawreview.com/organization/wilson-elser-moskowitz-edelman-dic=
+ker-llp
+
+
+
+
+/BD
+

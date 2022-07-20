@@ -1,0 +1,76 @@
+From - Sat Mar 12 01:48:47 2022
+X-Account-Key: account1
+X-UIDL: AKpF2Gg6yty6Yiw0/QOOKLZlUUw
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.147.94
+ by atlas123.free.mail.ne1.yahoo.com with HTTPS; Sat, 12 Mar 2022 05:51:56 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.167]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.167 as permitted sender)
+Authentication-Results: atlas123.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 12 Mar 2022 05:51:57 +0000
+X-YMailISG: OuDPR1kWLDvfBUylpoeafsCA5Y.ONNu3mBz2PKvX4cHYVq6o
+ jU9Hy6IRJQBZAibSozC3vdeeXMcUDT6rb7zgfjgbINHZyi_wu.EsLQJcKCt_
+ iKmX1QAVMtd2U50gdC1DIqq7KAjCzRy2jsdyoRh_H5iNwW2HAv_Zn1LmtKDX
+ SNI1ZOZJTBgt9mTCk5hwERwoO4DeIeTXqVwx6znB2bPWJyYAv0V51dI3JOvl
+ N1lQDP9Il9LfVUq6AvtjcwvmLs1YNr79DwSEWRo7pO_tHi2Z3fv0b8BS5tYR
+ 0JA0xzpVHW1atfJk7HwhUgry.JrZoY6a4wNdKSb2_YVrIQT4CelIddTUrbAF
+ XcgHNEDX7NQqSsuEKHfQ_lMQccPt4SwUBbsz.YESqVGNe5i.WIyG7bsY3uod
+ QSuT4DI62a7iV8AokvBbibcy91Y6OKJQXmGkDt7yjWU9aOczc.qbDnGUuNvA
+ E3isVUU1XeXnq3nA.HbBsOCVn.veghBJErMx97OKDNtZCy5xSCPqxZ6U9tzy
+ 6bWHkP9Avb6PgbkUprQf19qnHkw60yScJ6YBRIqNUuBw.4pI54tJO6LY9hFW
+ 2W8UO5GYCV9z1M6ddl2bPQmbgMP2IyGI5zD__YP7GxPaUFuJ5C9Jqaiw3W6c
+ EaK4ObGh.1WtF40qXIzyUPzjDz4dyhAtYITWBGnmamiirv0SV.mRp5jVrb7o
+ 9KZYrJD_hS0Wb5iQ9GN51VIMscs9OSZwiqRdL7TeEtzwpPh_shrMHhY0vzff
+ 7GYv6SMG9bX2QBCGjWR1DAtZ8fP3rO_d6wC48EADlGGCd60w1Aal8YL7EJEW
+ RVa7g5G2IbOk_C0aTQMs7ek4DYR3b_lTRGlN.psWZNt8oVJUWGu2ASfDjV8V
+ hvsuB9IfvoVsW10T6gOO3D8UkEOBipJM5HYS6mK8hi_DZOR.X8N3QY26NYmT
+ nU8A4aVyhL.O0e8j__dTset4OJ48NL1yPhZ2MFLwH46JAZR5XQesF2l2X4yw
+ XYSY3aaPHffjJJJSIUI47Mf5jiiyuvJ0gB3PSNIyghkKQwPgFZV8blUK9DpY
+ N8sGRKTOl95cUUNgWAH3qWWYplOB.1mQvHlhn9O.MSUo3BYT6qejSDzxhK2V
+ QBtmzccZHZeQYuY7
+Received: from 17.58.63.167 (EHLO st43p00im-zteg10072001.me.com)
+ by 10.217.147.94 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 12 Mar 2022 05:51:56 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1647064316;
+	bh=zqv+AAxlg2mlOuGOlnyjdgwMCZo3WNh3o8Qtsz0ZmJg=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=CcEbG6PuWkFg88gS9swa138WqqA4MnTECJCodfQy4vkFab6ktgCor20hYtLPBHn6c
+	 x40XcykAOWiBv1mG1cBiGPWGQsMEwx8EvD51QnZpgiCV8zwVpfnwlmwIhUdGW3h3HV
+	 KKWj9n/87x7PgnL60xdBqIrCg5VT2+b9sdtUJAqFW8nITAOhPI/UOEBPVdflVl2hTS
+	 eBD52r1vNoj2IzbEeZuWXUI0oGnX/5SSZakk28yQgjiE011j4dbCuIfawse3vZZnV+
+	 hv89svDejoM5Ajm/LAIkmtaaZ8q8IBdTcIQYrOONxaTjIjokn3UOCo6Pn+1hx0skdb
+	 xhNAuB3RUNOfw==
+Received: from smtpclient.apple (st43p00im-dlb-asmtp-mailmevip.me.com [17.42.251.41])
+	by st43p00im-zteg10072001.me.com (Postfix) with ESMTPSA id 08209B403A7
+	for <ms60710444266@yahoo.com>; Sat, 12 Mar 2022 05:51:56 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 12 Mar 2022 00:51:54 -0500
+Subject: SCOC County Jail Addresses
+Message-Id: <77F07184-8578-4BBB-AC81-48DF9D078912@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.425,18.0.816
+ definitions=2022-03-12_02:2022-03-11,2022-03-12 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1015 mlxscore=0
+ mlxlogscore=527 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2009150000 definitions=main-2203120035
+Content-Length: 46
+
+
+https://www.scoc.ny.gov/jailaddre.htm
+
+
+/BD
+

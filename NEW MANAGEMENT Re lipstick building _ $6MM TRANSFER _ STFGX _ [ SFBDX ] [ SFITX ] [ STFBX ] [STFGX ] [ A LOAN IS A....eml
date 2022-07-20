@@ -1,0 +1,93 @@
+From - Tue Mar  8 09:33:55 2022
+X-Account-Key: account1
+X-UIDL: AN8y7j1udEvqYidnXw0jSKD0ZJM
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.241.214
+ by atlas123.free.mail.bf1.yahoo.com with HTTPS; Tue, 8 Mar 2022 14:25:35 +0000
+Return-Path: <michael@archrockgroup.com>
+X-Originating-Ip: [209.85.208.49]
+Received-SPF: pass (domain of archrockgroup.com designates 209.85.208.49 as permitted sender)
+Authentication-Results: atlas123.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@archrockgroup-com.20210112.gappssmtp.com header.s=20210112;
+ spf=pass smtp.mailfrom=archrockgroup.com;
+ dmarc=unknown header.from=archrockgroup.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 8 Mar 2022 14:25:35 +0000
+X-YMailISG: 5i0XoeoWLDuj9RzM4sbn4tCKknzdtFV.Kk0BhZDVINduNGiV
+ 2rMOjogLsPpCOv9r3lUaGdWzpl2TXN73ffbpwr8DZ26YZoYIHh52gXL7Am8L
+ anTufV0RnSitVDoEhmLRhL1zClOwhOu4DtPpXceJISPvbKvAMKJCbGpGRC7M
+ .uXIZtTzTLgitYFaNepC6UEJzTdZnUj7sUMt3AhMt.L0I2WA6wgYaZPhIkUh
+ 7BrhcD1PrF_qgYDLSx0eP9Zf63mgF.AAUvK4gu6P1om0DfYJyxFtxdsRAoM2
+ tDcNZdkl06LA.2y8HZMDB_rUyr0AhQukc.omSZKl4n6Guhr0IoP8l0eLQAAH
+ dSMLDLdmrGZaTbhsFR8IgLvIYCx2jL6XOMxUNsdqct8xIaBQgM6_d4htWM3m
+ 5YqpQdp20_wGtYR6PtCOHUzOZbBs9SRj5CqA1fBtYJsQmlRX9Jl_6kPxUOzv
+ 2.XI7DP.LxpYiC3wsQnCgQwaRX4ynSDuX657QaB5L_p9s.4V.gVkBvnrTa7A
+ d_n0MLGlidDMslKj384XCbfKJsOMwCeCXzVHrS4iNa9yHphKGbA6pgKS5kNc
+ IpGDCtZJZ5g2yxmCoyDufoSdskmpxqcnKrI0vglLQA4EGWks3svpntgJCM6u
+ 0ABx.0Jjeoagv3AxbZ4QFgP5cfTR9rmdpH5pPWWdPPwHDfWU3sKQo8oma.g0
+ j85Wmv9Sf5NRusfUSP1sstoDyuhOpmV57.EhQkbA5Y1I1ZWviXbsRaoW86z4
+ isNGqTTf2dEuuEuaBWpx.CJBnA5N3i9IGzbW9mlLiEiZie8FuC8YmtFueKDZ
+ WBsbWfX7e_EgWcBueEqXg_P_aA1_iusn6ZxzL.Q3GVXwf67VyCQc8Tl2oP1o
+ aH0aWNl4XJqFNPDIhp02Rf7nGO2bPasbHuTDmtCPECdZjxaempO1Ev2maqCj
+ J_7hF099nasNhklfw3WM.vrgR8FdnhvNld3yKLcKS6igfOXgj8RTdx_JohdD
+ Tyqg53TDp2PQiNyX2PWiagOqzwWLrcj7REI4I5_3KCW6iQ4UywFMRocdZwJT
+ PKALbdFZYGUiRNTxM8lUVba1YmcN2C7u1Yw6Ru9w0Badx.nJblLJTX0s0DuY
+ h4NJvOtJLTInA1_j4aI-
+Received: from 209.85.208.49 (EHLO mail-ed1-f49.google.com)
+ by 10.196.241.214 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 08 Mar 2022 14:25:35 +0000
+Received: by mail-ed1-f49.google.com with SMTP id q17so24710444edd.4
+        for <ms60710444266@yahoo.com>; Tue, 08 Mar 2022 06:25:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=archrockgroup-com.20210112.gappssmtp.com; s=20210112;
+        h=to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=LjwEGYjwZYzswyngoV/Udbmq0nDJASP/ZhLH7b9vp8I=;
+        b=DutOmwjnQ4o/3KnTM7KLe6PMnUiEjafnSW5t78xVniwGnhGm/LEZylecJcUyEuvEjR
+         5O6+S82+KlbjDh6XpBDbYOJ9dPHikiFvF7sLRTQgFIO/doYfJNvBvV05ycY3l9g/2KQ4
+         6/S9ouMDj6lDIRn6lW/hUNQUB5P/juTEfP7hmhk3S52tLI/ZUVVUUD1tLiPcrFqyHC8u
+         lw7pjKWCp9/be3bxlMYfuzQXnymvQneK9EJ/K8ATv+CQlN1DYObtdgAuVbriiivmiO6N
+         +kK2QC09Go6BY48dj/KMAS6eZgUXO3T9UeneUbSGe8+ISv1eaVp/1SAfyQB5MSMu9Ig5
+         xsXQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=LjwEGYjwZYzswyngoV/Udbmq0nDJASP/ZhLH7b9vp8I=;
+        b=NJWOU/5Di1GlfdVw3QDggvBKu4GbZ9LByJ7k5YQuoABLXVhKc402OXSnqMOSv981KJ
+         e7ukI/C0YCUo48lvEbWk8PB3NMcw/QzzdtUYyKq3IHT8v47srek1rbg5hT6p/Btp0Tur
+         lutTkzxsPirUSviVuB7fLOquSTqs10fzydfv0On506z2dh3k7dKpwDn817q/ErmTjAto
+         RFYmsiOs8IHBpuYW5vDgZu/iKIp3LvUqcjpaoczFBMZx8rZT/MCN3nB7P5tIZjSjydWm
+         cNNkkROJtZn5JXMPh1dHaUe4An8LkZz8lMBWpvEImR4F1s/8i+P2qMuBpG8wvBymR9Bc
+         NsuA==
+X-Gm-Message-State: AOAM532X6Ca/2LC9uHnG1aEUCv8nW6ch+Zv/iL/YQx7BwNeUpLEzLhGu
+	sVaGLYhBFrS5GRwz0aGqHDGyZ01BFfvccPAEZG3/uBBJeueNfxhsdW+acRR+d/JG
+X-Google-Smtp-Source: ABdhPJwryW5v7Ch64ARQX2qWdSF+Lj8Q3tXYGG2hEnk3IRCsz4+F9glxaBo7Fzbdh/Nn8IoFcAPcvc9NuOY/eJFJkAPFNQusC8W3GT0uR3wo
+X-Received: by 2002:a50:e60f:0:b0:415:9509:32a2 with SMTP id y15-20020a50e60f000000b00415950932a2mr16298632edm.235.1646749535304;
+        Tue, 08 Mar 2022 06:25:35 -0800 (PST)
+To: ms60710444266@yahoo.com
+From: "Michael Gold" <michael@archrockgroup.com>
+Date: Tue, 8 Mar 2022 06:25:35 -0800
+Message-ID: <CA+2C+ak9_kJbGuCPOoy9OVM3TJay70HAChcdXSiVsmhnOU6JAA@mail.gmail.com>
+Subject: NEW MANAGEMENT Re: lipstick building ||| $6MM TRANSFER ||| STFGX ||| [ SFBDX ] [ SFITX ] [ STFBX ] [STFGX ] [ A LOAN IS A RISK BTW ] 61710-0001
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+Content-Length: 168
+
+Hi,
+
+Thank you for your email. We are no longer managing the property.
+Please reach out to your new management.
+
+This email account is not being monitored.
+
+Thank You.

@@ -1,0 +1,86 @@
+From - Fri Feb 25 21:03:24 2022
+X-Account-Key: account1
+X-UIDL: ANIoabsXtGrvYhALTgw1AJs82Qo
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.136.216
+ by atlas119.free.mail.ne1.yahoo.com with HTTPS; Fri, 18 Feb 2022 21:10:38 +0000
+Return-Path: <ari@archrockgroup.com>
+X-Originating-Ip: [209.85.210.46]
+Received-SPF: pass (domain of archrockgroup.com designates 209.85.210.46 as permitted sender)
+Authentication-Results: atlas119.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@archrockgroup-com.20210112.gappssmtp.com header.s=20210112;
+ spf=pass smtp.mailfrom=archrockgroup.com;
+ dmarc=unknown header.from=archrockgroup.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 18 Feb 2022 21:10:38 +0000
+X-YMailISG: ifHJvvEWLDsSW7SY6tmTIxUdIwkuyufbv7heibnMl.IpfYA2
+ .x150bP0BcCgG3GSfS.UCR5e98aJA1MqOBrJEIlV5PVbBEAQll9nHkBYK93E
+ neEWy.9ZOi24UPRbclm1ks3drIs9okZiQ83gbcdlWrThjfXczUa7kAc_M07I
+ UHUOYIXzuTJvOSbvc6zFrYqHgLWf4tcXGA0T1f3fGurVLJYjw.xi5.YIkci.
+ CJ3ym189f.5M_dUjefZZMigZeSCtNHaIjpskRXp33zvmuO9ozAmz1JyPsVK4
+ Ovok0aC1hoEQxHpu_rgiwIIFkBVpxH1QHyn3OA21vU6dp13zKS1pKZeCcZ2U
+ 9S7jTi0ae8tBjOpxMdKiUpgcyunF8pj45tnoRaJ.jZHFhrzLY9YvuAadnMZz
+ m_ciVTcgkCP8JBME8gYLELDyjhzZnQE1x5JhONAVNA_pCmADTd3X3X4c66T5
+ k2gWhHnjrUAAtcRzdQsv7xZTuhis02bDEFKAgReL9P4CoeKzPfTanV8Mllea
+ vfeAUWzfIv5kBm66jOVbKV3ZOKu.6TvDkFRRSvJ3anDj9g2e6KhurgUoTzwl
+ ndY6R.7r.byeLnZgQU6w6vRjAPIFHACqJn4NUlMtd0sMIiNM8qNmJnJX1EqY
+ 2S57G7FAVqTCJMG17D83Qs7sb7pLzSYkpva6PqW8oV8EckAfXFy7V2bU_O_2
+ HWiLQzUL1VVRx_2GmqEVf753_.7YXOysi6PBoB9f14w2cG9wp8f4imJS_fml
+ x3GgREk25FEnmkPqJt67G0bYX6aaqxA0_cvx7LjS0B47e2WAFbEHVOx0jQC.
+ tkSYXASjJDUdH2FmyZMN3fOV1Fsw9_33iuGlUxho2v6lIMwyn6XPQThQ0bYq
+ RfYWTutFQIbdi4mnTL6dLVQO0ZN5w_EO903JHpytE.PcaPgUCfp944.InBlU
+ VasvCld7HfsjdgsdVCHBT5q2WRb7Fk_m0WDKLyUXZ7.T7i4xEPkfZphSM_Ws
+ htNPsRoJ7RXk1XqKcf7zs3iUUPywXD0ZK2q7ykfBqjlhlY4dg3AWB2SlGqDz
+ OYlQ5SUBzNtRI2gt0ofF3_XLBnfTxPpXYVMynWix.SmiEVyBoy2NBQIiz6qc
+ 3LX0wjcYNG8JnLt.x0dk7Cm3twi0LXo6E8pMgqCuiA--
+Received: from 209.85.210.46 (EHLO mail-ot1-f46.google.com)
+ by 10.217.136.216 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Fri, 18 Feb 2022 21:10:38 +0000
+Received: by mail-ot1-f46.google.com with SMTP id j8-20020a056830014800b005ad00ef6d5dso2840648otp.0
+        for <ms60710444266@yahoo.com>; Fri, 18 Feb 2022 13:10:38 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=archrockgroup-com.20210112.gappssmtp.com; s=20210112;
+        h=to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=sg/BUzGIXpr/CaTmSaCIi9ws1JqBj56P0y+Mixk7b+Q=;
+        b=P8lfnKExuDUBOgMXQsrq7boAuKhUcgguFGrlOowffTjTK4VnknoFCiVv2aOqqWxv9t
+         VrpNQ4njI5AMLrOqG/eirdjjMKUV3mpgiWpD5Uru/eXnKpJlskGzok0IgtXAPJSXAQa7
+         3c4IELWXVUqPjoAoaoKcuECr1K9w6jkORPXjpcerJR+SRIYb1vVpAkc9cGNb0BC+BdsK
+         8iOj8k5uy1HIbHpt3sEz1Qlw8Vb5cfPxIjfoF2rKlY6dWJjCYzlsMQ+VvUITofIpugUS
+         Lq26n1Y+fV4CjQrskRpeLwECZ5QTY6s4Ek47I2eTHua8UAhyedRIb9zfatx0421B9TpT
+         /qsA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=sg/BUzGIXpr/CaTmSaCIi9ws1JqBj56P0y+Mixk7b+Q=;
+        b=vTltcQbpFUxx5IsoEFdsG5TeGBG5ZNLmX7wb6pFCifj4+7ypDbqOH/qy1y9dLp6OKt
+         v+dKVeYorM1EdWU3sISIdVLPvbHg19uId6+QATfa2yHdv2IrKZAxVCQu2ib+ofS0ZKUQ
+         vH5zYzdZ28oce5rw29aLZdUjw0bHMyN+Ka0PxIjE1UEzkXYIgHNiAoDFkQt4QeI8UGFk
+         YIzis8kv0Gi6O6wRHtaR62BGY8irJpBJVg3gpo34foQv4YSf0zlMv0/r4PIEC+z1bFje
+         EvhmAk8WIRJFPhaLjCHTzWDu6M3fLIlbEFAfD3FsAyBP1WbspSV6Ef85xOBgcDCx9c5S
+         sp9g==
+X-Gm-Message-State: AOAM5314LVc+OpvTp4BT+Es9CwyXzntb4G176DibkMK6n9N0RW2reZrd
+	xdG6sZCnu3UBtRHriyXVz4oxIW26p6XV9fY6gZiOmrQnderpC1/Oq7sLXj/RQjGw
+X-Google-Smtp-Source: ABdhPJxloDGP08Pq/lYXonDQHFEpJ8G9pX7K0sKIzzrZ0WK1ZKtcI6bSMMSCLshLNVlPWaYQPiWQpTG79te6GT1LsmLtxYHOVIYISwaizrRA
+X-Received: by 2002:a25:5187:0:b0:623:e9ba:ba13 with SMTP id f129-20020a255187000000b00623e9baba13mr9210619ybb.311.1645218205080;
+        Fri, 18 Feb 2022 13:03:25 -0800 (PST)
+To: ms60710444266@yahoo.com
+From: "Ari Edell" <ari@archrockgroup.com>
+Date: Fri, 18 Feb 2022 13:03:24 -0800
+Message-ID: <CABD7VoG=v4RXKw=amb5uBC1Wr4qwgiyi8zMT0dwR6ZTRDE7GUw@mail.gmail.com>
+Subject: NEW MANAGEMENT Re: +++++++++++++ VERY VERY SICK PEOPLE .... 100% +++++++++++++ without consent... FILMED THE INTERIOR OF MY APARTMENT ++++++
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+Content-Length: 272
+
+<div dir="ltr"><div>Hi,</div><div><br></div><div>Thank you for your email. We are no longer managing the property. Please reach out to your new management.</div><div><br></div><div>This email account is not being monitored.</div><div><br></div><div>Thank You.</div></div>

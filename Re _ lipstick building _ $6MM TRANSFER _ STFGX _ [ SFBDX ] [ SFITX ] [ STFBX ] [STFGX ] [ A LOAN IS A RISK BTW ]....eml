@@ -1,0 +1,95 @@
+From - Tue Mar  8 09:53:51 2022
+X-Account-Key: account1
+X-UIDL: ADdcWBlYxOa6YidtYwJZkHJXkdY
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.11
+ by atlas305.free.mail.bf1.yahoo.com with HTTPS; Tue, 8 Mar 2022 14:51:14 +0000
+Return-Path: <3Ym0nYhEPAPEVhgmTVmnl+ghkXiercnlmVTibmTe.Vhf@listserv.bounces.google.com>
+X-Originating-Ip: [209.85.219.71]
+Received-SPF: pass (domain of listserv.bounces.google.com designates 209.85.219.71 as permitted sender)
+Authentication-Results: atlas305.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@justcapital-com.20210112.gappssmtp.com header.s=20210112;
+ spf=pass smtp.mailfrom=listserv.bounces.google.com;
+ dmarc=fail(p=NONE) header.from=justcapital.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 8 Mar 2022 14:51:15 +0000
+X-YMailISG: .rmwJTcWLDs4EoSe_bJCw39YjNk.aKC97m5DM2soAheTs39m
+ u5Ng8x4dAh_b_Rm8iKYDJrlrtm9KCFSkG0yqoAWI7wZE9YgZe.4mZg0dKg7D
+ 1QWTM5O8P3VqSk4wnBOEOkIiQuuAOFVYBk0kLgm029J8HefPijvnW.3z7aBD
+ 0iK3PvrmVu6ISdVH.bg3KljZBKPaRfhjIX.QggMK5E3VeY0hRDSLQeASl9YK
+ 5wow.B05LB.0S7eNQm1CbHn6N0kOCeECLljENc74Xj5pWvnYjp54SO684LXx
+ DhvP8nwT2NwTlJjLQl8l8Q7EHlR4Nupz5GyOS3nnCwRcnn6I4yzvG5FuKFon
+ 6yitG9i6AVHGK1xfBs7DeCjxAovjtPnHFZiQEZdKzaziRe.iwifM3L8dsom7
+ PI0gbfSmTPJPTFLHR1VGF_L3XD0uIZNdRWCd0CiijJWR7WA1uxYopJ_tugsp
+ 58P6h5UGvVR4l34IoZgp6v.bxSkOCWc9Z3inXAF.5_HC4Faol_FD1oGWkejh
+ p2N8KHpVKITTS.OUfyqsqf37jSWxdKgftUDQzRLECt.sh737vKEgrdj7.wKB
+ vw46RqKBfHAkV1dS0iFz2ge5khtRV.k8xmaK_ivun5JNm_h0G5x3uVgH1CEk
+ nBh.ie_N5fuEdAfE4_ahcrUaz0tdwHvOiAflBwQ1tLAtdcU3b_mn1W4.ViQB
+ W3UtNWyEzC_Xurv1g.ndwJI81B3UQWRIe_ZVi55DWv3ekDQVL9_fbYJkHbWR
+ Np5h36rE0prg.PROY0JR0lJ2RYqh30UDVSzWMmsd7ehg24xxmuZRcKRqJtoj
+ 1Xy20Egz3TWPNbJDhWtSjqIAxcdCr.nTrkIu0kpAbsYOeFQyL.3TT72CJjcp
+ 8z86PPBJfq2yi8Njrxs_90JHcx36uLOma.nOPNlDs3FXGCeMHhuDZsjzX2OG
+ iDJwrC6YZ87OZH8REV5mauCBcRjSqk7a98cBsqQkQlWd__kovblgFDFU3FiX
+ aKy1L7oryQ.QQxz_NNaGiYGacg0wB4FP8YwapOp5oTJhPyivCeEU80yALNq5
+ t_J3TIj9esD5dYrtKlC.l0je1ZzhX65eO7RqXyek1KkQGIWyy_boANK5aWXP
+ F3EIdJIwQC73_gp1j6N.23O31sWU_bepbOI1QOY0cGT8vLyAIoFVDoE7OXOF
+ IUWsiczIuw6_cUzOIUXgKgXQ6MuAq8uy_7.W2HkO64J12g--
+Received: from 209.85.219.71 (EHLO mail-qv1-f71.google.com)
+ by 10.197.33.11 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 08 Mar 2022 14:51:14 +0000
+Received: by mail-qv1-f71.google.com with SMTP id p12-20020a0c9a0c000000b0043299cbbd36so15832595qvd.16
+        for <ms60710444266@yahoo.com>; Tue, 08 Mar 2022 06:51:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=justcapital-com.20210112.gappssmtp.com; s=20210112;
+        h=mime-version:auto-submitted:in-reply-to:references:from:to:subject
+         :message-id:date;
+        bh=I+FrtQetM+c55iE3iqqLFQRRkf+CZEyPLJY+hXKGh1Y=;
+        b=D/r0Yoa06G+p5VENmW6n8QF85cPi4wZs2k/ZCzR1b249UvAi6T7+OqnPFIUgt8/+pg
+         FEjGX8Y8bjfGNjR78mgq4Iv6kyNr0H1VkxW2YA49NNG6ecdp9tsMIhIBvdQ4DYFVCo6z
+         dSx6bAgdk1G0d3NnAIvxkTBImb/UUJGZoD138Zkv/jyA7DzBym5qLZ4oyxCVw9d/4DvT
+         CrPtUZHKhrR03BZtZSgjZgcNZyAaMc0+vv5I8vMVYBJ20UX3bBYlzWVdJcdc983caVwk
+         f35d0IwYelPCU02BbyyXsjGSxDG2i1vkQ/uj0eXP5PaW1CHD9AQ5Iv7zo3uIbWNGVFMS
+         Y9XA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:auto-submitted:in-reply-to
+         :references:from:to:subject:message-id:date;
+        bh=I+FrtQetM+c55iE3iqqLFQRRkf+CZEyPLJY+hXKGh1Y=;
+        b=hOG3XeQhNgjJVgLs4jKoA+gC6OjkobxJ1WFfyocDdvjA/PVI6KGwGTsRSXOiWjT/cx
+         55rc6sWIHgeufJboIp96ounjwAPBsBJh4C/HeiYWRzL3EwIQw9rrzSJ14q8YBylZ7IQh
+         VtOnvkJ6RTbv9id4wHt4eis14ei05gKf3vkSMPjnxfEiwQCW9ibwQQQf5uOIN4+XeOOi
+         /7FbJzCj/ptPEOw8eA9NP25OUa4SoICVVZVIGevIBWBuFKPxR+L2I/pc6KtpXzkedwCJ
+         /QU8uLP5mUfWGBlvyn28M2u/mgNyNm2VY9CfY8hM6PMJCqoH6if3w49mItnSY+cr5CIp
+         wkgQ==
+X-Gm-Message-State: AOAM530138tDT8RN194jdZkVYXd6OnmV1ybOUVdp5k7+bmr+NUv2f1z4
+	yfiHnejW99LRABy7bpiU7CPbE5gB8orlV1mJBNXxu0uam80=
+X-Google-Smtp-Source: ABdhPJwQH0fJ4nK/zt+nHBOxk0YoHG2PpINSS6Ner3emByAj2w2pxzSm554AuWOPdMrsmZ9aJk+zBhS/qpEdn55sVpi3GsEP
+X-Received: by 2002:a05:620a:2552:b0:67b:2b38:8090 with SMTP id s18-20020a05620a255200b0067b2b388090mr6661202qko.39.1646751074523;
+        Tue, 08 Mar 2022 06:51:14 -0800 (PST)
+MIME-Version: 1.0
+Auto-Submitted: auto-replied
+In-Reply-To: <aa6aa5da-9189-ab43-0724-e2750eb8ae67@yahoo.com>
+References: <5dbb1bc7-b9dd-e952-f1dc-b012d682adc4@yahoo.com> <aa6aa5da-9189-ab43-0724-e2750eb8ae67@yahoo.com>
+From: Contact Us <contactus+noreply@justcapital.com>
+To: <ms60710444266@yahoo.com>
+Subject: Re: /// lipstick building ||| $6MM TRANSFER ||| STFGX ||| [ SFBDX ] [
+ SFITX ] [ STFBX ] [STFGX ] [ A LOAN IS A RISK BTW ] 61710-0001
+Message-ID: <000000000000d4967805d9b61c2b@google.com>
+Date: Tue, 08 Mar 2022 14:51:14 +0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Length: 502
+
+Hi,
+
+Thanks so much for contacting us. JUST Capital exists to align corporate behavior with the values of the American people, and our work has only just begun. 
+
+Because of the large number of emails we receive, we may be unable to respond directly to your inquiry. For updates on our work, please follow us at: 
+
+LinkedIn - https://www.linkedin.com/company/just-capital
+Facebook - https://www.facebook.com/justcapitalfoundation 
+Twitter - https://twitter.com/justcapital_ 
+
+Cheers,
+JUST Capital Team

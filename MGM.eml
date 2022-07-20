@@ -1,0 +1,77 @@
+From - Fri Feb 25 20:24:26 2022
+X-Account-Key: account1
+X-UIDL: AA6UJd184jf0Yf64tAGxmE5F0b4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.35.48
+ by atlas220.free.mail.gq1.yahoo.com with HTTPS; Sat, 5 Feb 2022 17:49:39 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.171]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.171 as permitted sender)
+Authentication-Results: atlas220.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 5 Feb 2022 17:49:39 +0000
+X-YMailISG: l.WQCIUWLDv9z_MDvoPRx2oL_eVrICxJcQG8nY2PwvpOHOUP
+ kDraw2jQlPUT.ts0B1xB6PW2h0xjT1keQEIiMOHo4qiOf1WmVfirSwxgATOj
+ mU86HdpcsWeJq4EWmuaZ5IuUGYSikjqPd7sabhxU4syPsL.GMh3dItIp9Rrp
+ Nus3h60txBQWH_SRD1hP6vfoMSiHSfT4Yyr3U.JFB57Wi_Ju26_L0RTrvGYf
+ kbGYJGFzFUxZwdLKxW6Lm.mANqlyWy5rv8LaoDNphCYmaYP1nl5SPg_mvzce
+ A8nEnD8FUdtdoEPGwHufGydoRd9sYnOWRpm8lsKxJ0512uJNegC1HE1O0w34
+ ArpWVcnqAF3_fTFFFv80mSU75CR7xjcTcgEI6GH4bS.Y3rZAsYmAzaMHv1Ed
+ UMO_Nwz2GP6xf138f0_OkCcteP09JVZCWFElNxiWCj0gosWvGHlQpaciK6Ov
+ lGnKOLGTydkoJAKKB2Q1mYaeVNfctjB.xaI0bqik700afZNo1IvvHxCceDYM
+ ACPpUWsTp2BWVyCgWKXTV.wVQ40Mxdv17ViFf5LCZ4D.fn5VbbW4usiujrzV
+ uuqTbnTBbLrrz3PPHHRGoWij3gAj4Qqj67BmO1wxkS5lpwD_BfCe_xwfqtF7
+ CBdkr3b_uVAh8kdqg7UFpp7E4kL.YxXXZSMhgEjHSiX_bLNRKNg_OUrwzPxH
+ 0.7MClV3T9HbDu1s9NYm76st5kJC8HYQ_OxubQ2WvAtUkONRaCNnSeFAXgzB
+ 8Xv1R9AAx4.wqHN3OAeNAguqJkeH.jUrtXsnPqNCUX_2mErTNgsDeJtdD.Ao
+ r7_rj8qVfXhsjVz5kt.cOk9cPyJ4OEWEwOIzSVdT8ES86hS88p7fZLiS6um8
+ rxWSgdXK74XQUbOjAN0bNOiLsAm_jTAzqiXLRLWtqsFTFAcnoQG.ZqYjpDUc
+ aLow2Go04ba7quMT66fVuZho_7uzK1f6QULtXoHWUU0BhxMTUhbV8N8TDfpi
+ N_DW1F9nop1zjdUx2Jc29tQoZgv63dhPcrhxteMQS5gpztbxXlqRzHShrHtl
+ Fw8W.6XA6UmI843kPez9xxN0QCdQ774Ve58Z2txSIVgEDxCBGPPSQxCtj1Bw
+ Fvd9gH9m.xiubx6acc64lQQpSH8U28sKagffrfM-
+Received: from 17.58.63.171 (EHLO st43p00im-ztdg10071801.me.com)
+ by 10.253.35.48 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 05 Feb 2022 17:49:39 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1644083378;
+	bh=7lEiQac/voEQ6sNtatmEMMmNi6UJFPZIcR8NqXmvRDc=;
+	h=Content-Type:From:Mime-Version:Subject:Date:Message-Id:To;
+	b=x4VpkR87zWMkXI8q2GnEDarj42YOkrVOu8d5Tk86FhY9kZ83dYYwdynW9ExKpwtzu
+	 SaLfOFq7jQW2c0CY64rgDY+E8MbE8kCbbQgMJi70+iLZ+b7/dX8S/ZCx/8XqsI8sbj
+	 OROX87dCMHtBe/ohAEEge7FhuIKIxs5s1px/B/+m8MDp9YuZse0z1s9uDejjJ/ZNZN
+	 VlTascq1FHMmIZSWzMlaZ284AkbxP+iefd/Osd1dXONoMNVDxXuACcZdJEmZ9Eq3Bn
+	 0+zxiGSFEUu+XJue9g4haX/Loq12bERdiRa120Yy31Fp90+ukOX+qRh3FriL8HcfaW
+	 2Lz/5aG9kJ40Q==
+Received: from smtpclient.apple (mobile-107-107-59-141.mycingular.net [107.107.59.141])
+	by st43p00im-ztdg10071801.me.com (Postfix) with ESMTPSA id 97C573C0892;
+	Sat,  5 Feb 2022 17:49:38 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Subject: MGM
+Date: Sat, 5 Feb 2022 12:49:37 -0500
+Message-Id: <65B0A9BE-067D-44A5-9465-24072C17A917@icloud.com>
+Cc: The Vegas <lasvegas@e.mirage.com>,
+ Resorts Mgm <lasvegas@ee.mgmresorts.com>
+To: Grand Las Mgm <lasvegas@e.mgmgrand.com>,
+ Grand Las Mgm <lasvegas@e.mgmgrand.com>,
+ Resorts Mgm <lasvegas@ee.mgmresorts.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.816,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-17=5F04:2020-02-14=5F02,2022-01-17=5F04,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ spamscore=0 adultscore=0 phishscore=0 bulkscore=0 clxscore=1011
+ mlxlogscore=505 mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2009150000 definitions=main-2202050119
+Content-Length: 16
+
+Hey thank you. 

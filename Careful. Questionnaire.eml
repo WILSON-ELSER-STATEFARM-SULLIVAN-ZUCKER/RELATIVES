@@ -1,0 +1,112 @@
+From - Fri Feb 25 19:47:18 2022
+X-Account-Key: account1
+X-UIDL: AEzaG0llQbKCYeKg0wKEiH/cQSo
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.232.218
+ by atlas324.free.mail.gq1.yahoo.com with HTTPS; Sat, 15 Jan 2022 10:24:18 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.180]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.180 as permitted sender)
+Authentication-Results: atlas324.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 15 Jan 2022 10:24:19 +0000
+X-YMailISG: jjOg_LMWLDv7AlMNVFrNcywOeZAi5yyhsS18zEHU.sNWKJuA
+ vfIYmVszhfCYSwL5xFPVkpHPZBkC7DePtoszet.anhYAaMHIUaIJH1nti0K0
+ XDPcED69ETS17CZ61IUhWBEAVC5TJC8GXMNDm39sCVeBJg8k694unuuvuALd
+ KdMoFZke_1TAiUDZ7xOilT__224PXInFA8D35wUQN2IQfmUsJIeVQv7Bo5Ia
+ sPbTGAvQobO61vvp_rAUeaIUP4xEqzPNRroUp4EMIEZZvcK.jBtoHUix2IVw
+ vDh7Y_DIzed3pDEPi04zE6cVB_jgpnIZ1d92bD1hFf68vQYWrLaADNHJdOVa
+ h.x4Cmq3jvxI1765sZE8cjfPUWmc6uhhNZ52MZgFZt4Ux15yUu7Asq9fmPSk
+ 10aAYUIEY8xSm9_4unjDaKWBWegCVCjD4yI49_Bsy3Lu9aYs2i9zhvgl1.Ev
+ CTTBfjWggYJot_ckGpCKbuapyc6dJP0oHIyn4ZySGoQsWUwacDnG6Wt0X4cM
+ OpsZUiF_XfoqAnNjPN_AnE9Y61HwBEypVdG3FQaKEbnzzlqc__7QiRP5qC7_
+ vikapTjzV3qMdYJ4DHl9.SS7PPIteAZ3HdcvUfNnmUO8XlhFCIsrajDCIWZS
+ LWxRZhfHunj2gu_d9IN8dKlhNFpzln4wIFCSY2As1vwCTuRzUZW5qT9rosMY
+ WO3C.JLQLHnJeZFKyAlxlUui4GetrbKONsoD8wabwbACik9y.mqUfTj3nO1J
+ 65kvf3OW2ViOayDSs7cGaRTtrLzoSrhVKgmBwYAYIerl2lQHXthSnBrA53e6
+ s8wQiZTxSO6IzN1VqZ9oxQ1utkRFY8FtBqXLC4KPf.er89TVaKdplAQ6mItm
+ zYXx_5sw3XiLRx03qV7sWNCmST9SUJLkkwuTa.jdf5yXuOzZOBPNezyNpGyv
+ zWuJcpx.oMbtwn8TgyTBuiPrdrXy0D7B7AnGk1qLrDBce6RCwM7fu5olTkxg
+ QI9n3w7QoiUR9sqGOXgTDdPNiA6WrjYn2l.fZCr__C1bKg3YeDoMsfTu7AwG
+ Vck1DvNfK40PTrHwEzutTJYjDbp5SAwmJEzQi2eDmyc8y0zOpTOF_G6PFpy2
+ hE6DdQuAG_oIj_PcZONIKp.MBvr6UsiyoOavFCG6jUkMcCPxzAvHNOmpUxo0
+ CUBMRZ8rsxAcMOJNuxXr1ppOkY74zOEdzDZHpRL1AxF_yw--
+Received: from 17.58.63.180 (EHLO st43p00im-zteg10073501.me.com)
+ by 10.253.232.218 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 15 Jan 2022 10:24:18 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1642242258;
+	bh=AXv/eN2FgP97XY2o6Nt+934m4R0Agkhnrdax2ac443U=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=gVwhZLVITrJfA9bs1XFYXUv0+xUPPelkZkAHuFhAi4yimqXH/hxR1lZIWxjIIQH70
+	 MRnjKWAyChQgeW1ETTjhrcc+yMf/PgQt06BwXC7L5e0ppKkiHczpMHz7LPod6rNb/J
+	 25lc671n8xYA5xDZ4cu2d8t+1A3fYD2j0OSWRKwwKI2pqmbOcPn+ohjKiUl6pJ9c2j
+	 t7D95ia6tsCm5fAPr9ByxXvxRn0t7AmI7/7WG1rvSnXlPrOiTX0C9Wb4o+Nbs+m7kJ
+	 dV8DcBxiW82f/qHt4ChQHjwl9xDARGMMIRhT/cI7VZ9gkV1xVktiMtwC0mp5QseT9B
+	 kestaD+6KDpTA==
+Received: from smtpclient.apple (mobile-166-172-63-206.mycingular.net [166.172.63.206])
+	by st43p00im-zteg10073501.me.com (Postfix) with ESMTPSA id 989AB360A43
+	for <ms60710444266@yahoo.com>; Sat, 15 Jan 2022 10:24:17 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-CAD44FA8-AE6E-415E-9417-024D4BB49890
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 15 Jan 2022 05:24:17 -0500
+Subject: Careful. Questionnaire 
+Message-Id: <286DE163-BC9C-492C-B845-8BB250ACA0F9@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.425,18.0.816
+ definitions=2022-01-15_02:2022-01-14,2022-01-15 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1015 mlxscore=0
+ mlxlogscore=999 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2009150000 definitions=main-2201150062
+Content-Length: 1513
+
+
+--Apple-Mail-CAD44FA8-AE6E-415E-9417-024D4BB49890
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+NYPD
+  =20
+/BD
+
+
+Begin forwarded message:
+
+> From: officeofthepresident@columbia.edu
+> Date: December 17, 2021 at 3:54:48 PM EST
+> To: bdincer66@icloud.com
+> Subject: Your email has been received
+>=20
+> =EF=BB=BFThank you for your message to President Bollinger.  Please accept=
+ this note as acknowledgment that your email has been received by the Office=
+ of the President.
+>=20
+
+--Apple-Mail-CAD44FA8-AE6E-415E-9417-024D4BB49890
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">NYPD<div>&nbsp; &nbsp;<br><div dir=3D"ltr">=
+/BD<div><br></div></div><div dir=3D"ltr"><br>Begin forwarded message:<br><br=
+></div><blockquote type=3D"cite"><div dir=3D"ltr"><b>From:</b> officeofthepr=
+esident@columbia.edu<br><b>Date:</b> December 17, 2021 at 3:54:48 PM EST<br>=
+<b>To:</b> bdincer66@icloud.com<br><b>Subject:</b> <b>Your email has been re=
+ceived</b><br><br></div></blockquote><blockquote type=3D"cite"><div dir=3D"l=
+tr">=EF=BB=BF<span>Thank you for your message to President Bollinger. &nbsp;=
+Please accept this note as acknowledgment that your email has been received b=
+y the Office of the President.</span><br><span></span><br></div></blockquote=
+></div></body></html>=
+
+--Apple-Mail-CAD44FA8-AE6E-415E-9417-024D4BB49890--

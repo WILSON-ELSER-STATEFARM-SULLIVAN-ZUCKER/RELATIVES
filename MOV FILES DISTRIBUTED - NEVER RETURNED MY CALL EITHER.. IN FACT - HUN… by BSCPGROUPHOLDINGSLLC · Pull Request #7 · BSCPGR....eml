@@ -1,0 +1,88 @@
+From - Fri Feb 25 20:55:05 2022
+X-Account-Key: account1
+X-UIDL: AMzuHFw5sozZYgYEYwh0EIbzgbU
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.37.9
+ by atlas116.free.mail.bf1.yahoo.com with HTTPS; Fri, 11 Feb 2022 06:38:25 +0000
+Return-Path: <Activations@hutchmen.com>
+X-Originating-Ip: [185.70.43.23]
+Received-SPF: pass (domain of hutchmen.com designates 185.70.43.23 as permitted sender)
+Authentication-Results: atlas116.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=hutchmen.com;
+ dmarc=pass(p=NONE) header.from=hutchmen.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 11 Feb 2022 06:38:25 +0000
+X-YMailISG: hiQQcZ0WLDtkGAqjrH5PoKdGxxTqpbcPpd3Ls5.eqYl7Ls3p
+ ygnsAUrRefvyFAARQnF.V6EWiL.xHDOxCqUE5IkPoPErjJVYbutMnS9gTBYX
+ BLAA3oO1NM6WXuls6uCI4mIBeW0Bopn7SR0F3jvDYTXecmN4Te477P51AU8F
+ pEEVaxerPPuL4dh0GNczyCyDM.2K.w6f0RGVfHj13oMUw_seQJcNrk80oxv8
+ xWbuEduh9nm13QfpftlpMPVASocYr1.AEmmi8usCVyT5OFvpesCuOa6Ehh2D
+ pLuNhDyWg9geA4q1JPshwkrVjNI1RFw0g7ugZhdCXF24BOEkHc4l2wWNhZDW
+ 7LVwYbDI8H8MJSDwidc5EyeExm9aALmn12c47pS6j_cVFJAhG4DXsydYyhE7
+ eKQjCZS0BcSVHIyle4sPA_aKvl97PvmrcYmRCgEXaQ6b2f.LYqqwDrhv6zBf
+ mDHnNhjBdiTdmZ2zkKwo07F5mFFIi1ijSK9.Rbln49eFUqfVm2jtgD0RxFtQ
+ RGtJtQKOUVtZsm3VY075IcXMmwJsi9WKZOsAwVppPiU9g6wNLFuRe_ZrFsKD
+ DXixF_0A0.oYR6fNYZyLNL8vQ8JSyXNM9R3e6e.fVwDKSYoo2ccjbHazFgxm
+ 0ZMwXKDXXI23awTqTatJzQwvcEF7zJGjk5I3FNpLYW9sFREndSUZUTZMxxau
+ FAhj6d7UHPY6FOr0J__53bSTwRobQCkB9ZsFED4v1JZ2H_MKCqxrDnTqH9FT
+ lYOug0T.g0fsmR5SyLEeddoMu7Q7VAy4EuDtJSlsrxnOXaolclB0P8vJlo8S
+ xJzcTN7GVRwaU4Pnni1l_p9IJrl4XyXA4ejWwYY4IUN8dITJ4BfLlDcZaCj3
+ 55G_bfcyvRseU4VPd9d0joUpgzouu_2w1_ALYKHXEOcSl1iAmlk1DiNZHtnr
+ w3mNywX62trbV6fxpYFlSPaF9DiPANZNHCZOZVJdkO4NZpibu5OfWzlpM2V.
+ GGR4EoYbed.aAtqLwhN9cz2KRuv_CQrnFAwMKPR8YG9VGKXF_pk2B8bwUfZF
+ NBxSRRfsfwErZajBF_gvrlE-
+Received: from 185.70.43.23 (EHLO mail-4323.proton.ch)
+ by 10.197.37.9 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Fri, 11 Feb 2022 06:38:25 +0000
+Date: Fri, 11 Feb 2022 06:38:17 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hutchmen.com;
+	s=protonmail; t=1644561504;
+	bh=jYPoqfruZ7qZUongVV+wzEG/9DepL85P0q8GwJeiceA=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:From:To:Cc:Date:Subject:
+	 Reply-To:Feedback-ID:Message-ID;
+	b=Erm5nKc6Qz77g+I0wAd1mfFHXtMa6VTIEPqBcDxJsclloaZf4js+dOOWYhCgU58x+
+	 0qM1YNGwCHD91Fbsit5ucjREAh37BuAlsW0EmDrq+GRVmWF5+VPbN14fSxolun8lGi
+	 n0Jj8PhBsNOchqcDseMoSIjeYB3UTEbEeCFXEI3Zt0T1OteNcew2cTjeRWAazpu0D8
+	 InYOAn/3/KjmDD8wYxWOqtFepUMjVX2R61IqRySUvT7XpPV36/Y8TwV/9Zb5KPFCQ3
+	 QcD5amt9Ei0sVFvP7dB9IBop8k/2MCcqNCck34fMqyEMw1Lm3rGvTSZJEyKYEOtt+9
+	 Bq/MG3tHpMdcw==
+To: "TIPS@GOTHAMIST.COM" <TIPS@GOTHAMIST.COM>, "TIPS@latimes.com" <TIPS@latimes.com>, "TIPS@NYPOST.COM" <TIPS@NYPOST.COM>, BBO 153974 MCKENZIE MILTON HAGGLERS ZUCKER <ms60710444266@yahoo.com>
+From: CS TEAM <Activations@hutchmen.com>
+Reply-To: CS TEAM <Activations@hutchmen.com>
+Subject: =?utf-8?Q?MOV_FILES_DISTRIBUTED_-_NEVER_RETURNED_MY_CALL_EITHER.._IN_FACT_-_HUN=E2=80=A6_by_BSCPGROUPHOLDINGSLLC_=C2=B7_Pull_Request_#7_=C2=B7_BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER_=C2=B7_GitHub?=
+Message-ID: <S5qXDQsrPPXhc6cksM8-9uIkBj_ClFtKkTbzuxd5gJ_waEevoIggZRu8QEJhzWiAcVo1cDrhpA6JVcArhWsHjtcIDPdJ5XHDbYWzr9KYdfA=@hutchmen.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_526zPmQDYgJg3ue8D786mhahzBba2JpOX6NE7yrFW4"
+X-Spam-Status: No, score=-1.2 required=10.0 tests=ALL_TRUSTED,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,HTML_MESSAGE,
+	T_SCC_BODY_TEXT_LINE shortcircuit=no autolearn=disabled version=3.4.4
+X-Spam-Checker-Version: SpamAssassin 3.4.4 (2020-01-24) on
+	mailout.protonmail.ch
+Content-Length: 748
+
+This is a multi-part message in MIME format.
+
+--b1_526zPmQDYgJg3ue8D786mhahzBba2JpOX6NE7yrFW4
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+aHR0cHM6Ly9naXRodWIuY29tL0JTQ1BHUk9VUEhPTERJTkdTTExDL0VMU0VSLUFORC1ESUNLRVIv
+cHVsbC83
+
+--b1_526zPmQDYgJg3ue8D786mhahzBba2JpOX6NE7yrFW4
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PiA8YnI+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29t
+L0JTQ1BHUk9VUEhPTERJTkdTTExDL0VMU0VSLUFORC1ESUNLRVIvcHVsbC83Ij5odHRwczovL2dp
+dGh1Yi5jb20vQlNDUEdST1VQSE9MRElOR1NMTEMvRUxTRVItQU5ELURJQ0tFUi9wdWxsLzc8L2E+
+ICA8ZGl2Pjxicj48L2Rpdj48ZGl2PjxjYXJldD48L2NhcmV0Pjxicj48L2Rpdj4gPC9ib2R5Pjwv
+aHRtbD4=
+
+
+--b1_526zPmQDYgJg3ue8D786mhahzBba2JpOX6NE7yrFW4--
+

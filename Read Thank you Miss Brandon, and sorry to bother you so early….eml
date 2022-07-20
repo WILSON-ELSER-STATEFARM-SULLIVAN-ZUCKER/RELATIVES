@@ -1,0 +1,91 @@
+From - Fri Feb 25 20:40:02 2022
+X-Account-Key: account1
+X-UIDL: AD5EzDIwiwhaYf/8OwMFcBEj4dA
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.155
+ by atlas202.free.mail.gq1.yahoo.com with HTTPS; Sun, 6 Feb 2022 16:50:02 +0000
+Return-Path: <bondstrt@protonmail.com>
+X-Originating-Ip: [185.70.43.24]
+Received-SPF: pass (domain of protonmail.com designates 185.70.43.24 as permitted sender)
+Authentication-Results: atlas202.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@protonmail.com header.s=protonmail2;
+ spf=pass smtp.mailfrom=protonmail.com;
+ dmarc=pass(p=QUARANTINE) header.from=protonmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 6 Feb 2022 16:50:02 +0000
+X-YMailISG: p3GbdoIWLDtrUnfIiPFSD8GgSRXjHDVKDRfzAZk3DzLFIAZz
+ PEfLWgZP5gJ5KnQFrQgyYfxr0N3B7NCKF4zk3mjEQwArQRHsT8nDm4KzdNu1
+ .AdIANHdzUkEQH.FzoKN6VQjCcuKB1pzBwgdd39O14HSvmUK1j7A04r_v9VY
+ O1tGDC9gbCKc2TzySTM3oPDzAexBd1g98OYpsRmJs_EmIgO37FA4pvCbt4V3
+ lLA5KZgabMm0L2sN.n6X2Q3SH0jYo_wzuzmOauFBYN.Q.C6_9WDsvwNpHA.B
+ uuThSvfcjeexonePst1MNXQxEFcDyFsvyFnykxY6EGEqr_VgDVK7S_rjiyza
+ NJUJd3.aCTlBjO.pY7K3NI9YZ3y_fST3U3H8ZxfLD2qOBk_blJBDsGy04KS3
+ 4JRxVFewU9LIA98M9AMyisORx7QfCHGL54IUfRObqO_dQ77wH1tJ7P1nO.xI
+ .n0iIXeWx0bsubRYEheYpIIWqnFtgU5FokbCKz36lTnehz6Q9mWU5AdnRfbB
+ Tre18RhijoUiYm5sv9M7pGmnoiViMdnn01dLs275tAsezLLloYh_IcAYgLnL
+ gWhyD.7EFAlxQz0FXzd_kJ4bGxrjZw8YJzsGB.PIcfCU6CUdIFXcvcMiUTAi
+ bSDoBjLV9bOvt7OIUw9drC.fLcxmDwIWIzuJf2ij4gSD0v3kNmluqLcSDiYd
+ 5qVjUjQ224u6CAnMZrA_TyQBEZ9LWNA707aZeirj9nzyVHOqH2Cwtg.5OdPi
+ KdZP4.SzWUvPoHrbdL8iQzvF.8eGYOb6mIszHCxykxvvdyOODvh81Do8lAp3
+ BSbUX0BNVsCYHynrwQ5bkPh5xp73HNHgZiJ5huDG.vtIjBxU_10f9n3OCOoW
+ ONmFXa0xsO.dCVrx.HI0RUiQuw8vZCztYz4kTgO.HWnE5p0ysNaBM4fVhzWk
+ TwEjtTu5r85HLooGtgx.Y7w.wqIodM9UUsw9Tnfc8R3MoYQlKbfo4_wugGj3
+ YGvZ73ZPamXUIW8l5Ljvr1hYf1MMlFbulUlavYf_8RxD2tQ1eErHErXS.hPi
+ prRjvxA.I8QYXQf_23W_SDmguu6VsjRpiSNPmm.vEeDPX16eEwXb4aruuDLj
+ peEq1TXDy1zsNLxf7uWhFj0-
+Received: from 185.70.43.24 (EHLO mail-4324.protonmail.ch)
+ by 10.253.62.155 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sun, 06 Feb 2022 16:50:02 +0000
+Date: Sun, 06 Feb 2022 16:49:49 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=protonmail.com;
+	s=protonmail2; t=1644166200;
+	bh=gkDHCSpahkXOeSXanvYc4IiSfFr8rsKge1k/kpE2ia0=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:In-Reply-To:References:
+	 From:To:Cc;
+	b=WB4DRcVu6AHRQSAI9+jhTH5lu18SA5pOhy1og0Dp1ZVkDzA6ST6tMjdMy3hFTBJE4
+	 BBLHGeOzHT3f2o0tfDhIxxro5Wp1oFHlQwiYLSWBpUAFY+GbGfOt/0gN3GbmBiXnfN
+	 1kCrbalwYym5HHGs05Xwz6i4oUMxsh4uwjst7gPOuEgxnTzmd7kiqV2DMhrrlbm2Wk
+	 imlUwdn+gi9O3BcWatEb+5+pr6WowINhgZ43RaWCpxECFEBxnLlUy9/uCAm5P9uV6D
+	 EchijiKlTt2Zj5J799Ktubfzb1DgaIxqd1Mq1ZWtop+/eXj9ipQx9ZERp0A9NwFPWi
+	 wZ1iOYjVnBGYA==
+To: ms60710444266 <ms60710444266@yahoo.com>
+From: BD <bondstrt@protonmail.com>
+Reply-To: BD <bondstrt@protonmail.com>
+Subject: =?utf-8?Q?Read:_Thank_you_Miss_Brandon,_and_sorry_to_bother_you_so_early=E2=80=A6?=
+Message-ID: <uWNQy4Wwq8NVrB9398rUWn_I8bRBFlmqNpTeQfKdjpaHRf_TjmarrOAjHDQ1llNwwsxXqewGvCaP7ZoFaGpmR-DdLsb-mxpxmSmC0FO5yI8=@protonmail.com>
+In-Reply-To: <0c5001d81b78$ed2f38b0$c78daa10$@yahoo.com>
+References: <0c5001d81b78$ed2f38b0$c78daa10$.ref@yahoo.com> <0c5001d81b78$ed2f38b0$c78daa10$@yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=disposition-notification; boundary="------910f11152ec8df63bcd113b4b95e787e7224c25996c16190e76b7a55d889a333"; charset=utf-8
+X-Spam-Status: No, score=-1.2 required=10.0 tests=ALL_TRUSTED,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,FREEMAIL_FROM,
+	T_SCC_BODY_TEXT_LINE shortcircuit=no autolearn=disabled version=3.4.4
+X-Spam-Checker-Version: SpamAssassin 3.4.4 (2020-01-24) on
+	mailout.protonmail.ch
+Content-Length: 948
+
+--------910f11152ec8df63bcd113b4b95e787e7224c25996c16190e76b7a55d889a333
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+This is a Return Receipt for the mail that you sent to bondstrt@protonmail.=
+com.
+
+Note: This Return Receipt only acknowledges that the message was displayed =
+on the recipient's computer. There is no guarantee that the recipient has r=
+ead or understood the message contents.
+
+--------910f11152ec8df63bcd113b4b95e787e7224c25996c16190e76b7a55d889a333
+Content-Type: message/disposition-notification; name="MDNPart2.txt"
+Content-Disposition: inline
+
+Reporting-UA: mail.protonmail.ch; ProtonMail
+Original-Recipient: rfc822;bondstrt@protonmail.com
+Final-Recipient: rfc822;bondstrt@protonmail.com
+Original-Message-ID: <0c5001d81b78$ed2f38b0$c78daa10$@yahoo.com>
+Disposition: manual-action/MDN-sent-manually; displayed
+
+--------910f11152ec8df63bcd113b4b95e787e7224c25996c16190e76b7a55d889a333--
+

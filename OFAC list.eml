@@ -1,0 +1,88 @@
+From - Sat May 21 23:53:32 2022
+X-Account-Key: account1
+X-UIDL: AFqgMgh93BIPYokj3w2gSA3viyM
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.137.14
+ by atlas223.free.mail.ne1.yahoo.com with HTTPS; Sat, 21 May 2022 17:39:43 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.176]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.176 as permitted sender)
+Authentication-Results: atlas223.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 21 May 2022 17:39:43 +0000
+X-YMailAVSC: p89NnIA3bBvEi1WNNpF5hZW1SEdruwt3ckqFKdZJfZ.2XzC
+ 2k3MxHxPxYpm6815S_LOW8iaWGrgLmfTpW.hQeJVccECKbTPq7dvpfXhmZMV
+ CFbUh9kioTgTvOfWO9s684HwBqR.yTO36e91L_E5EZsiRu99AiFrImLFO6Oy
+ krbNKxMCEYZHkuVdvxF0nqAK6iqEFzdyzOgC965PTPghBsqL6PtNyhze0wRJ
+ 4zaeQ0II2OjojWN94D_4IdUnWQgZ9UK6C_6x10ICMeYL2nV23G8Fj2by7TPk
+ JIQ9Q7WANYSnTxCq.Sfc2yTH0IoYS3Wrpnb_UoApl.5g1aF3xHqJo3GWadt1
+ 4n5f7HB7CtdwaOCMvl4UgB36fggHPIiOb0N6Kt4GSdSOSZU22gyaOeioSKe0
+ zJBn6tStLjQ6aeA0-
+X-YMailISG: EjJsTuwWLDtQIlMejSTtZBnR9aUTA.vvgxuDghxTobpc.aOo
+ a3HDvOlZT1RLTsB8lUX06mQsB5cPpuzdjuRDna.VPN5VozHef1Dag_jm5Vv0
+ xDFC1xgreHmPZZ9RCD0pCNV9aKAXE1e2Hcymv3IBLyGSeVgvW8QpDyOREvAe
+ AI9oDoTgttqAk0PSWajbND7RpLxNG1D22tVQYMHz3RetvZWLFoQkaa9MRyA8
+ ypxSGj7aI9rfVoXRxc2glST_4TtZXZttMDxuOpPzKTd3pwBIHNJHkgQEbt_G
+ v.nvAuO54EMQqlipfv9GrGMs6PT_QZmBC4ZsW4UwaTAeS6IH5giSO536b6I7
+ ijdb8VxTIt2Vtstn1jN4o6cgj27fYD8EupUG7MMhYVBnKHvRU_g2TDaXMLZc
+ EpmMOdVJOomcz5kKnz9mT1elVIS_Oszjz5A4Vq0oZaFOmai13UfNAuiXfuiI
+ Lel66QUsyts3n7qo86kcGJVaz6NQLyTaKE2AI4yQn42VAxe9ImKGqZ_4jJGc
+ MbD5iQz9rmzGFVZAsmZkxp_khN.PSDX6h6cUHzt5FAm560LqNTz5fL6QyY3G
+ e..srg55FxeW8ZmK2lqgFAzyShEqmGLiDzDI0DOqLbW1PC6HhyMMYLIY0nx0
+ JycnfuWXtjajNrV.iCvx2PkM_3P1eDhuGgmrg9jC0QJflcANHkWJPQS7NBE5
+ su7CxQSKy.OVke5RJnDaIPCS5Nsq.cIadtFxxot.R.uLvkRh.av4IZoKSlJ5
+ CpN5HfSvi3Uanw3NjVrxmRL3aziEH8I7rO.brrq8Taczt0mB16YkhVRLFIcy
+ KJ6XcNBWTf4DRMyTwKqfQ4FZB9KGgbDVEVmHXWTkyJQy.IlDfUa6mLgRpXJN
+ O1IEvLEmcQgiKTeVtUxWzJyzjsCH9oul9UgYvazeyo50uxVh0WEG50Ot8NII
+ bdffjKcpmX63X4yj9ncbQ_mPOJsPqMNKfsFzaJlri22XFutr.wnUgGu69.T_
+ XZdYSXJFXon8xZCefHLojYzHolTst1H5IehskmKpvgkeBUkxWtd5EFQ_LNx5
+ 6wWidWm4fu8dBIeuuzjir8Tb7jovy3yRoaEcY47m3zpsx5G1m182NAL_uUr9
+ JsgbMrpqzWEhnZX.AK6T
+Received: from 17.58.63.176 (EHLO st43p00im-zteg10063501.me.com)
+ by 10.217.137.14 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 21 May 2022 17:39:43 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1653154783;
+	bh=RsPJ0moSQtibqDLFemSppDHYYJNqMznq3JCgYmd4cUg=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=n+Pol2uZesiU2MUncPmBKogz7gloM3itgbw4PLKSgWLwH6ZNlk6agQzx2qdiIubt3
+	 LtNDGP5KIck1o+q0N3R7hmU89yDWSyUQS5+viAmXI5tj792FD321bc2HWd3DSw/Wos
+	 8rgLsFqvErmX+lsyvqKz6fd0KWGCmhKoltbx0jOqlGCrT2OznMFf61eDRv1Mic2RtY
+	 ExmiWSU3+gO11QkqfSlR3ra3sW+DGIs3lZhIjI9Dd/F7o+otOnLzs6CLjGUOZ105RG
+	 DUd25fPRo8DTQNBCiczA/WSRf27jc5SWCO0Rg3WTlxRSkVScQT0UAiw+wW8j+MHOC6
+	 TZvwlNEoYDW5A==
+Received: from smtpclient.apple (st43p00im-dlb-asmtp-mailmevip.me.com [17.42.251.41])
+	by st43p00im-zteg10063501.me.com (Postfix) with ESMTPSA id 9CFA24C0CFE
+	for <ms60710444266@yahoo.com>; Sat, 21 May 2022 17:39:42 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 21 May 2022 13:39:41 -0400
+Subject: OFAC list
+Message-Id: <C50A6A2A-0D00-4B57-899B-19C5C555C140@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-ORIG-GUID: zayKi41VPBOTVpXi151SvB8Bx4TZkiV_
+X-Proofpoint-GUID: zayKi41VPBOTVpXi151SvB8Bx4TZkiV_
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-14=5F01:2022-01-14=5F01,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 adultscore=0 phishscore=0
+ mlxscore=0 clxscore=1015 bulkscore=0 malwarescore=0 suspectscore=0
+ mlxlogscore=467 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205210112
+Content-Length: 60
+
+
+https://www.treasury.gov/ofac/downloads/sdnlist.txt
+
+
+/BD
+

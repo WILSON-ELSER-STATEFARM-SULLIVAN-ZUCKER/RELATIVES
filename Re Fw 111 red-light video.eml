@@ -1,0 +1,89 @@
+From - Sat Mar 12 01:48:46 2022
+X-Account-Key: account1
+X-UIDL: AJsPknwJ78ARYiw03QoOOEFeBxU
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.230.152
+ by atlas323.free.mail.gq1.yahoo.com with HTTPS; Sat, 12 Mar 2022 05:51:25 +0000
+Return-Path: <bondstrt@protonmail.com>
+X-Originating-Ip: [185.70.40.131]
+Received-SPF: pass (domain of protonmail.com designates 185.70.40.131 as permitted sender)
+Authentication-Results: atlas323.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@protonmail.com header.s=protonmail3;
+ spf=pass smtp.mailfrom=protonmail.com;
+ dmarc=pass(p=QUARANTINE) header.from=protonmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 12 Mar 2022 05:51:25 +0000
+X-YMailISG: pqZRbyYWLDsW9r8BblbCwAIofEWGeYxC9smpyqVqX0i94uu_
+ rB9d7TKSrokYJ3ecT9UsyBRJ2FAnA6qXoaHExlGiEFCLNSImTvhLzQVc.uCe
+ CzqUbrTkIIjvFoJ7nMIDlGjjWimugVIvOpXxHD3n7sqklI9WFHTj8Xbc5FCf
+ WvjSN0J0QB6.1MejFsw5ZWhONWNmbBXcVP9DGWNGKb3aVfnlvPR2e5t6TPmg
+ zfzq_PLC1Eu_7emsveUByJsE05XkIGwSPPobfXhphkyHL_O2CLjxvBrUqA5I
+ SEy2YcEm8muOmYYscTTKUHAaVX262sZwxHR91nQgGcv2F0spaeVfPO8LQVPH
+ MMIOMxZC3GxewiKho00oNdrXsptq6_6oi.201r_jUDNtUy_uIjtS_FSMdfIe
+ nNpYuxtJA12147lY4eVze9lsTSOUUZ2mW7N.QLp89kxT1l6UKEDn_y5F7rCg
+ plMYPWv2ezIBNzLHYOHlr4e2HiNAIFz8A7ZUg1adwD2tnxJHkfZM11YkE3wr
+ cj5ho3P0WVNxOzTlOHn5XSByo2f2ci.PifW.0SVvOQpylRV0eugrY.oHXfRu
+ t7I5bdijo8sKo5rRYedvgC7uEZ.CgrEkoyTtPGCLpvXf0wc67irodZmnAU2S
+ flokOFiDeYHGeywHtruvzxRHoJKGcgUSKgNSHVjQhR4UV4942HqH35Cw4zyH
+ KpZVzfhnN21jHa3TYwpmkxsDcq73tMbUIoFvoWm56mc2baLPKZg.bCpyjWae
+ 0KZS0hsk7A1cwLCN.Cdd5s3RiJD4oB4DKDhsbApY1yqQIR2YBtkHt7e3V5oF
+ u6.VvzN5ocdOKeUcq_PSTcVBxA7xkIxqGzQmKHKXrhXfysmgX8XnT9PNgxXj
+ Q8y8Z8Dta96kB4epx5.oC2vRdZsoVpm5QxSJqcN3tt5oBWIXf4dOm6weQnWl
+ qqkhFwHOq1NRDnVSPuq4X0ujXnUbySd3Hzw_3wWYZIiskeoW2_OUZFItscqR
+ 1pUhBReHeNkhOFFLpSnoqAH5Gnv0y_ah.G3R6CanZCD_LHjtryeiPAvzhXYz
+ 89_E5_J.KA.EMNYpbQxJW3dq1jhi5OdsgvjnsNI7QxHeUX._xI3pBv1viAB7
+ kSfkP0mgEjb_6ZZ8_RLWnok4A2YWYHhZvlDkMhoCIyGMZsR.OS6MK.Z4xMUR
+ 6yIohMr7Jdy.1Fx3CF2qbAWNHnmjBkKTrwI-
+Received: from 185.70.40.131 (EHLO mail-40131.protonmail.ch)
+ by 10.253.230.152 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 12 Mar 2022 05:51:25 +0000
+Date: Sat, 12 Mar 2022 05:51:18 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=protonmail.com;
+	s=protonmail3; t=1647064283;
+	bh=oQzIBCp1cr1N3WYGZqDsKGuNtt9lvfiVWgj9nTHYCow=;
+	h=Date:To:From:Cc:Reply-To:Subject:Message-ID:In-Reply-To:
+	 References:From:To:Cc:Date:Subject:Reply-To:Feedback-ID:
+	 Message-ID;
+	b=QhYYOPvRDlvVZ3qPJJm+UA+Il5CD+ldNX9nG3W2hLjOkfkkuY3O+HjTlOaVsAaPwV
+	 mYZUWbskq4y0C4zjwLR0imBT74c3JaB591aERYgA8GYEZm2erphXIOUfoC6Y9jXZWg
+	 sYSnp2BA4lofCgCUCNq0qpyTG7zFgVM14hTIaTP9ov4zpw1KFEaKYAQ1JRttHvvXA/
+	 c73VJOLDLj0Oaokbvyh+JCQrXqR/h9hckJV7fSxCAr4GHUWqXObPDS6SnhR3PkXir6
+	 2ws3LtIWDpdMxDGt3lks6IMo5oE472KoLpgWpk4TxfKd2E5BHmfs5RQVh2FMVuBKds
+	 +byRABHccZEOQ==
+To: "ce@westchestergov.com" <ce@westchestergov.com>
+From: BD <bondstrt@protonmail.com>
+Cc: BBO 153974 MCKENZIE MILTON HAGGLERS ZUCKER <ms60710444266@yahoo.com>
+Reply-To: BD <bondstrt@protonmail.com>
+Subject: Re: Fw: 111 red-light video
+Message-ID: <tN0xguBpsvdrAixKP8XXmjSKwh1ykekWdduEaHY9Vo94TE-prWUTcus8IzHwCCTTGpyYENjrbWa1ha3P9JTjBOA08ZxWzPSMZZUzZ6lU-mA=@protonmail.com>
+In-Reply-To: <meOMX-POpQcd_4sI9bL3rCVTLu8K1ZPqRGyrepW_TAXFMIgjlAiZxC5QOkLOuOcWgyKMOU6DTvEa8MvnTUTyYKW7bSDogl0OOhK9AAO_uhA=@protonmail.com>
+References: <meOMX-POpQcd_4sI9bL3rCVTLu8K1ZPqRGyrepW_TAXFMIgjlAiZxC5QOkLOuOcWgyKMOU6DTvEa8MvnTUTyYKW7bSDogl0OOhK9AAO_uhA=@protonmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_DJGpJISQvIW9jiO75bd3viqvWUj0t6LEbK3dt4Fl2G4"
+Content-Length: 839
+
+This is a multi-part message in MIME format.
+
+--b1_DJGpJISQvIW9jiO75bd3viqvWUj0t6LEbK3dt4Fl2G4
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+aHR0cHM6Ly9naXRodWIuY29tL0JTQ1BHUk9VUEhPTERJTkdTTExDCgo+IC0gcHVsbC8xMA==
+
+--b1_DJGpJISQvIW9jiO75bd3viqvWUj0t6LEbK3dt4Fl2G4
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PiAgIDxkaXY+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIu
+Y29tL0JTQ1BHUk9VUEhPTERJTkdTTExDIj48Y2FyZXQ+PC9jYXJldD5odHRwczovL2dpdGh1Yi5j
+b20vQlNDUEdST1VQSE9MRElOR1NMTEM8L2E+PGJyPjwvZGl2PjxibG9ja3F1b3RlIGNsYXNzPSJw
+cm90b25tYWlsX3F1b3RlIiB0eXBlPSJjaXRlIj48ZGl2Pjxicj48L2Rpdj48ZGl2Pi0gcHVsbC8x
+MDwvZGl2PjxkaXY+PGJyPjwvZGl2PjwvYmxvY2txdW90ZT48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj48L2JvZHk+PC9odG1sPg==
+
+
+--b1_DJGpJISQvIW9jiO75bd3viqvWUj0t6LEbK3dt4Fl2G4--
+

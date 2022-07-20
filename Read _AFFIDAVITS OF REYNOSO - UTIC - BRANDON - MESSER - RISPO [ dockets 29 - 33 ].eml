@@ -1,0 +1,86 @@
+From - Mon Mar 14 01:10:01 2022
+X-Account-Key: account1
+X-UIDL: AIRY7vJ9WaXPYi7aPwpzyBZejIg
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.248.165
+ by atlas325.free.mail.ne1.yahoo.com with HTTPS; Mon, 14 Mar 2022 06:01:35 +0000
+Return-Path: <bondstrt@protonmail.com>
+X-Originating-Ip: [185.70.40.135]
+Received-SPF: pass (domain of protonmail.com designates 185.70.40.135 as permitted sender)
+Authentication-Results: atlas325.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@protonmail.com header.s=protonmail3;
+ spf=pass smtp.mailfrom=protonmail.com;
+ dmarc=pass(p=QUARANTINE) header.from=protonmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 14 Mar 2022 06:01:35 +0000
+X-YMailISG: WsyxQIYWLDsZJ__dPBikwVgkgQ9aDfv8BjSL.1EPgfZ1bDX_
+ w0IGmjTAAEFRfJhBln4h8gKrc7ct22PS02dMphN1xfkGEWq6QCr9BekSXA47
+ HdufSiXbRU5Hk_R_DyOT3O1K9b8Rj_cGgwx3oOc3X6SgRPL0andx_rx1fKZ_
+ UR47pxs3MNPRd_WXMZVfXe3vwOxNq80bgHIYj5R5WPi19FyqR_kd2ZdN7Sx8
+ 9ohrVCybLR4yd5RaNedAMLwy4oSwTrBvWhqIxPdmFUCm2YixsyiHFW4Rj2N4
+ Vc.J2KOFdIY.P572EQ_TGlvHQdqDZQ_wZ3owxlJ48TxAtryMqeTFGSyoKU4c
+ F8_E3vTsMdCAT1wdk8sBWMXEUrLM61cQrOKlpHCG3TpImIsYdBbkIUaI2vzb
+ vfSa_w6zo9fDRsPddCX1ZIh85i1G_5aJNMwBjV51J4qbwNyYKI.m0xyXlxve
+ _198x.ulU_1tadbidID_FUGau8dpVNt6H3mmNpsfJLD1n12hiZZk7Z257cjY
+ dmm7LQXRYMmBhPhu7ZLUyQVTJn8xccvV2v0HQ0RxJj60Uv4s7v5gul3IWQdL
+ MvonI9eCptVPEt57bdcJ_QxGTbJ.iPnGacXbwj4_6VuxfKOuvYZ_cL1YlLTX
+ Lpn20kWQXjMA4s9F2_OA2pafsTM2YzEEjamnXKVtv0ViFklkf5r1t1PvZxiN
+ u1Zfa_bQq_wzLt6u38M6EnxwoQ7rYI6wlxV_OonUYP7iSZG_ZV8rr5reaW9X
+ VUETWTOpzlVr7JFtaHpfEr5GcTE95xuN1h.45.6ap1Mp2wwef6nX6S7ReT42
+ H3GYHcdOH0yqCKTE3d8FX9MiQe2BV735JZ6ynIXaB_UVkox7UqbL2yF6ZID6
+ lgSk_i63qSo7iHk_VHZaqlXt4Ksj8hBnlOF19eMv0w1STclyGbMV0MaqnIXR
+ c.1pZt.FUowcBb.BsZdXIyXl2CvkEJgTh7CUkEL5B243fEo8PBOA2QnYp6Zf
+ 02UCI4ZTXqz95xdvqPcF3SHh.rDbJrEIwLTs9XM4lnPr2yIWW4zXaNNvI_Io
+ Dwc_CN3BGaL6p4WsiQbxyFxjTY9jUWy9YU0Z_nwXvecyc1bo_y.euYUigFFl
+ 0sET1vQPNN6c3BaGwGCHGRPX01eelEZvt_A8qQBXiQ--
+Received: from 185.70.40.135 (EHLO mail-40135.protonmail.ch)
+ by 10.223.248.165 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 14 Mar 2022 06:01:35 +0000
+Date: Mon, 14 Mar 2022 06:01:29 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=protonmail.com;
+	s=protonmail3; t=1647237693;
+	bh=c4RHzG6qrQwZD8Xa+gf8MvTIUceB/GPep9Ann7A2A7Q=;
+	h=Date:To:From:Reply-To:Subject:Message-ID:In-Reply-To:References:
+	 From:To:Cc:Date:Subject:Reply-To:Feedback-ID:Message-ID;
+	b=g1gt/8HprmGSU3kl84pJS3YDI1VBXSne/BVJqOuEyJ1jv/B8C1kZIjBEwd50Ps7eL
+	 fB1mMysWvuC3ARDQAn10JIVM8qfSuuV3m00mmDqoQ5KpJLepthLNPIwTRhOWC7NHjt
+	 q6t3Ln2v3un+C5i+H2nD4DRSDqBsURB/+5BovQm2r3qQdYvpu4mxcExy/EiTuQrQKS
+	 nLpAB+6v+TDTTGpzIe8QbxCDmIrnUSwCROYl+Em2Xxn46vMkaKJt7bHiVfmOpnnXR7
+	 yDw14AoyBZusmMmdLlX+XusHJhK7ZduC6zPwXrDbX7+fSrXVYsc8VW9jUHqJzyn4F7
+	 F9RfBMHftXQgw==
+To: ms60710444266 <ms60710444266@yahoo.com>
+From: BD <bondstrt@protonmail.com>
+Reply-To: BD <bondstrt@protonmail.com>
+Subject: Read: _AFFIDAVITS OF REYNOSO - UTIC - BRANDON - MESSER - RISPO [ dockets 29 - 33 ]
+Message-ID: <QiEl50aCVaWHHxjZwuIwnxoqfSTNt1lTKCphm48hPrm8cDXYtCahsAa-QfNYrCZ2hxHscg1dazBLW0Yu7wcxBYm31Mzi5g1wHt7B26rQW4I=@protonmail.com>
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAJAY067VEMBEsaDzXyzyFJ/CgAAAEAAAAHBCXcvhGblNpyg6GGb50D4BAAAAAA==@yahoo.com>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAJAY067VEMBEsaDzXyzyFJ/CgAAAEAAAAHBCXcvhGblNpyg6GGb50D4BAAAAAA==.ref@yahoo.com> <!&!AAAAAAAAAAAYAAAAAAAAAJAY067VEMBEsaDzXyzyFJ/CgAAAEAAAAHBCXcvhGblNpyg6GGb50D4BAAAAAA==@yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=disposition-notification; boundary="------3f6575a0e797bf1c9076435d7c82fc4d73dd3409ec4861573db16a509d95af45"; charset=utf-8
+Content-Length: 1004
+
+--------3f6575a0e797bf1c9076435d7c82fc4d73dd3409ec4861573db16a509d95af45
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+This is a Return Receipt for the mail that you sent to bondstrt@protonmail.=
+com.
+
+Note: This Return Receipt only acknowledges that the message was displayed =
+on the recipient's computer. There is no guarantee that the recipient has r=
+ead or understood the message contents.
+
+--------3f6575a0e797bf1c9076435d7c82fc4d73dd3409ec4861573db16a509d95af45
+Content-Type: message/disposition-notification; name="MDNPart2.txt"
+Content-Disposition: inline
+
+Reporting-UA: mail.protonmail.ch; ProtonMail
+Original-Recipient: rfc822;bondstrt@protonmail.com
+Final-Recipient: rfc822;bondstrt@protonmail.com
+Original-Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAJAY067VEMBEsaDzXyzyFJ/CgAAAEAAAAHBCXcvhGblNpyg6GGb50D4BAAAAAA==@yahoo.com>
+Disposition: manual-action/MDN-sent-manually; displayed
+
+--------3f6575a0e797bf1c9076435d7c82fc4d73dd3409ec4861573db16a509d95af45--
+

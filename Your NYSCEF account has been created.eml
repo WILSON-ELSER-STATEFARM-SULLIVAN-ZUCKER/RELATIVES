@@ -1,0 +1,84 @@
+From - Fri Feb 25 19:52:01 2022
+X-Account-Key: account1
+X-UIDL: AEMLcPQMrXezYeTN+Q8yoOjyl8k
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.137
+ by atlas111.free.mail.bf1.yahoo.com with HTTPS; Mon, 17 Jan 2022 02:01:29 +0000
+Return-Path: <SecurityAdminUnit@nycourts.gov>
+X-Originating-Ip: [207.29.128.140]
+Received-SPF: pass (domain of nycourts.gov designates 207.29.128.140 as permitted sender)
+Authentication-Results: atlas111.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=nycourts.gov;
+ dmarc=pass(p=NONE,sp=NONE) header.from=nycourts.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 17 Jan 2022 02:01:29 +0000
+X-YMailISG: .BLG04YWLDv6buPiOTrpD3s5jm_5pRbzmjQH5YKX2F6dFoxo
+ 1wtjgXRjCOzT9sblYlrqSPqf8V2ZaqDESURYAbs2VuSYD8f2oVcbtl6WIh3R
+ TOVCXcQ0utWR7sg1Yp6uH7MJcq.WdQAmhvTeWAOwDMbrC8Am5V1VA7DcZnQC
+ N0sZn25dACyQlObjZIUoNQgkKAIGW0kbwl6tz8RkXiGX2S_y.Mju4hTghxNj
+ G4dyRWILLQFuuoOL.DNk4ps0xLCZn9pxAwwcg15.Hxww6GoEJz9dM5oVeUo8
+ WwrdURzU1Oomebxr2M7HPcLv_NI8Ez047mbGipvZyrkZE7dKCWh8wQx_0BSh
+ VU6R8ZX4V0Xi1Pj7OvKMqSOoqp3mYtGSlgqMEvA9MM75txPxsbcnjOY0SOCh
+ XkPt9VF5fggXhySzRQUjk4F_22makc4JJF.lHdk75cMqEMrVI2Aw2kKYCV5d
+ wGttghcMo6z77tjzWKS9MFyoSPHvabrUFfOFRgKBFG5y6g7rCZQVrzmH7jaU
+ bsdRKPyyDlPFsJihmkNEHns25NzzJP5.rRKsrMEwnexqDe54_0v19yrIUKAE
+ .BN40bbrIugtGDNPxRaE0kC_ipYD5TVoNP35MA1lu5bGIU.RloIRt1oqkqyN
+ z8ABulXtC3aLz9yrqL4TVR0qeiogz76ufiBalPJj9k55NyIteG2Rznagt2om
+ 0ZR5j3LFSYUHz5ubmY9Xl1jtzKHpq5aGc6RsILfEipuq7ZPOegWTcR.WM5r2
+ d1J.hSzmJVeZ6VQBfhWMtQZ.uNDkWI5ZwnngJBZIWQSETRzmA3pztwzPhPGJ
+ GdKAfdW7sZFuxJirZgy_BDu66rcbn45AOeRk030leH1CMYT44lDdSM903NL6
+ oY2gbPIqVJ1KWz0OFArDQeA9D5ygZ1b1BCF_tGa2dfV_UjvLdxNGJI1Z6E5Q
+ T031XcLAK9jEGvdaavEJbG_g9CvDP9E1gM1ytzbFegkxeNmx3ZRKvEFmkm_i
+ 2XyYXZjhkLDkM3_T2600awlYJQEuOYqahFWdRQ--
+Received: from 207.29.128.140 (EHLO mailin1.nycourts.gov)
+ by 10.197.33.137 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 17 Jan 2022 02:01:29 +0000
+X-ASG-Debug-ID: 1642384889-0f98505f582c76630001-igPLcE
+Received: from vm-smtp2.sys.courtent.org ([10.1.9.173]) by mailin1.nycourts.gov with ESMTP id DX4HFA8Bu5y2z4HP for <ms60710444266@yahoo.com>; Sun, 16 Jan 2022 21:01:29 -0500 (EST)
+X-Barracuda-Envelope-From: SecurityAdminUnit@nycourts.gov
+X-Barracuda-RBL-Trusted-Forwarder: 10.1.9.173
+X-ASG-Whitelist: Client
+Received: from common-appp6.sys.courtnet.org (common-appp6.sys.courtnet.org [10.1.20.152])
+	by vm-smtp2.sys.courtent.org (Postfix) with ESMTP id 1CA6C16002F
+	for <ms60710444266@yahoo.com>; Sun, 16 Jan 2022 21:01:29 -0500 (EST)
+Received: from common-appp6.sys.courtnet.org (localhost [127.0.0.1])
+	by common-appp6.sys.courtnet.org (Postfix) with ESMTP id 11D515B3C
+	for <ms60710444266@yahoo.com>; Sun, 16 Jan 2022 21:01:29 -0500 (EST)
+X-Barracuda-RBL-Trusted-Forwarder: 10.1.20.152
+Date: Sun, 16 Jan 2022 21:01:28 -0500
+From: SecurityAdminUnit@nycourts.gov
+To: ms60710444266@yahoo.com
+Message-ID: <918886978.39581642384888978.JavaMail.common_code@common-appp6.sys.courtnet.org>
+Subject: Your NYSCEF account has been created
+MIME-Version: 1.0
+X-ASG-Orig-Subj: Your NYSCEF account has been created
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3959_31295840.1642384888969"
+X-Mailer: JavaMail 1.4
+X-Barracuda-Connect: UNKNOWN[10.1.9.173]
+X-Barracuda-Start-Time: 1642384889
+X-Barracuda-URL: https://207.29.128.140:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nycourts.gov
+X-Barracuda-Scan-Msg-Size: 925
+X-Barracuda-BRTS-Status: 1
+Content-Length: 1075
+
+------=_Part_3959_31295840.1642384888969
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+
+<html><head><title></title></head><body>Welcome to the <b>NYSCEF System</b>.<br/><br/>
+Your NYSCEF account has been created. Click the Complete my NYSCEF Account link to create a password and complete your registration. This link will only be available for 24 hours from the time this email was sent. If this link expires, please contact the NYSCEF Resource Center to request a new link. 
+Once you have completed your account registration, you will be able to access the NYSCEF System.<br/><br/><strong>
+<a href="https://iapps.courts.state.ny.us/nyscef/CompleteRegistration?uid=DLj6EvNM6OPucBB9GRv4EQ%3D%3D&uname=A2oEpnPndIQgBZAvo7dyHA%3D%3D">Complete my NYSCEF  Account</a></strong><br/><br/><br/>
+<strong>NYSCEF Resource Center</strong><br/>
+Email Address: nyscef@nycourts.gov<br/>
+Phone: (646) 386-3033<br/>
+Fax: (212) 401-9146<br/>
+</body></html>
+------=_Part_3959_31295840.1642384888969--

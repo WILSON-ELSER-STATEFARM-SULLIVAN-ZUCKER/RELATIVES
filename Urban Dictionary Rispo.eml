@@ -1,0 +1,78 @@
+From - Fri Feb 25 20:46:57 2022
+X-Account-Key: account1
+X-UIDL: AFn5Tt0SAWvJYgG3lgo9GDwVw7E
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.204
+ by atlas201.free.mail.bf1.yahoo.com with HTTPS; Tue, 8 Feb 2022 00:21:42 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.182]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.182 as permitted sender)
+Authentication-Results: atlas201.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 8 Feb 2022 00:21:42 +0000
+X-YMailISG: vA070pYWLDuqOhoGuA.f7cYFZlRoU9EQhcA6EGPWEpiPP6Jm
+ VZmusj9CWC8h6pPnP4VtHJrzeR2UdUioo5omtbGzMipWo4y4SpYN365HRXUp
+ Y9jku5JF5g0rUXyscTuq8MtU93Zy3wmG2cHTgMWnw2a5eEX6o8zcvJa8LY_A
+ _mQm4nGX_.1KLGMIp8bfxnPWrXZsVX5JEqqJzXc5LWLKALtlbYiWEm2bJN8J
+ 05sTKmRP215XahlHA6wtUz853QyiX9fJ8uauqllJ_XmP2R82G1.CP.3z7GCX
+ CIj1PeJQ7Eb_vZFnMWfdpGShm4F3uThKVIIFK7N6SH2DVO0ndungYE4l4hdY
+ AbBK4PjBQ_w7s5YamFSzKMnqKOY.XJBeSPaqrZjFCTZATybNz7Ntgf4Y2sP2
+ viItjy323MN7Uu03hzfa96ww_JPhUYw1KFGSdhkRZCBqYwZwb8Z0Fvhjm2x2
+ gkgk0U6JMor.wFsrHDptxSl15u.b4YntCnN8Ag4wE2wcGppThXok6oR3DRjr
+ es9yadwUDdY5tBVr1pn2DaKDYN9Ce42Yhl4NZ7u6liwPHPnT2ilzL6tQw3ZX
+ 971VEqpBknVTXTeyYSx0Of0QZgADPMqCqLEVfBuxbElk6y_hwqrri4oZXt2g
+ 3en_y66TkGq3NO.mQFjGDy3e6ZFwn7EAH1C_8losK6VaZMyvvri1k73NXRwO
+ opt.4DpYjUdFTJsMrEVGhNNGZZjhGhKybl3F0ImLldCj_tuafG2aPbzonQ6S
+ .uEHAZynvHLB_Pv.xme.FSFwDT.bVPZRC_n7JYLvxtzbdPEaVqZ17NouVILu
+ GgRiS6r7YtE9ErQEYUQX4A17tdKj7Zcu6.bQml32EIhelma2yDweQjWwfPzM
+ cRW2eFZgf8hDGhz9eHqYBJIgRaif4GdHNFxfJqPbK.LEQewDJ748c11rVcmL
+ pb.kJ66RYCJ5JKyevlFx7H8nf8Q0YFyxfDiodzqNXD9ochpsHCYaGkbqnLnk
+ p6pvVvNzOdDtOuF4CaUQw7Um6C.EnJscYcUuscLWtt74dF4Jk.kNJfm_Jy3n
+ ANXYpLYtQUcotI.mmYLFe.hJr7NDcx.XK.Q40TE.uogwUTXGSJBAu0tM0dt8
+ QCf06kfDf4BpObLV
+Received: from 17.58.63.182 (EHLO st43p00im-ztdg10063201.me.com)
+ by 10.197.33.204 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 08 Feb 2022 00:21:42 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1644279702;
+	bh=TSCougkRDxjs2EMce/ufh5deW/yTjLtsfORsrXF8pLk=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=0tSLLtgpxcK/7/KpY0h1jYHPaTKkzhbU8u6iB5EJ49pUxo55JKNuqhnDvBI0iE++W
+	 9R8EmKqEvg1E8e/MQYYbDvs2t2JnNQt0DI9uqsauUi5RYE8PWfmbEVYqPQVfEeXiUE
+	 4QEHS8S9Xov2YPvlmF7/kLtctEFpbAnWwMnVGq4aR85HX8pmRb4aBozu7v2IyIuPK2
+	 picDkMfneNBlAYzDLn5YPQ5sGvPW89lGwFdCb4JyyrNe1/NM1e+qjli/kCCPCtcjyS
+	 7n/FRzScMVQWLcGCoyfwmG3Nz77z96L9dJA6qwqBvXBxNlqGU7dnYKUs9JpJQz7uUF
+	 Ubfs8stU6/UiQ==
+Received: from smtpclient.apple (mobile-107-107-59-142.mycingular.net [107.107.59.142])
+	by st43p00im-ztdg10063201.me.com (Postfix) with ESMTPSA id 6C2B6380B68
+	for <ms60710444266@yahoo.com>; Tue,  8 Feb 2022 00:21:39 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 7 Feb 2022 19:21:39 -0500
+Subject: Urban Dictionary: Rispo
+Message-Id: <81A5EDE2-7E97-4444-A686-FDF081E1617D@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.816,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-17=5F04:2022-01-14=5F01,2022-01-17=5F04,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 mlxlogscore=456 bulkscore=0
+ malwarescore=0 phishscore=0 suspectscore=0 clxscore=1015 adultscore=0
+ mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2009150000 definitions=main-2202070131
+Content-Length: 68
+
+
+https://www.urbandictionary.com/define.php?term=Rispo&=true
+
+
+/BD
+

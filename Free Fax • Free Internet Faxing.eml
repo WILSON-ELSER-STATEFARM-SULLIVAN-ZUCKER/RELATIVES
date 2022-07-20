@@ -1,0 +1,77 @@
+From - Fri Feb 25 21:06:47 2022
+X-Account-Key: account1
+X-UIDL: AIB5oI1p23A1YhMXawD96Pe3Bho
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.234.154
+ by atlas222.free.mail.gq1.yahoo.com with HTTPS; Mon, 21 Feb 2022 04:39:06 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.168]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.168 as permitted sender)
+Authentication-Results: atlas222.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 21 Feb 2022 04:39:06 +0000
+X-YMailISG: z6Z8ejYWLDulausI.pVFOGnMIrgkI3eTkw.vzjKQKTxT7Xks
+ b3_KrQr.3aD4L.nqmW7bxpWNJRo2PY.oNfrU7UGbx7oGly5t2KZthxrjpZdx
+ u0Fkmzj81ItTBnF5gGUZ1Nhg.f_IQYg0UhBnfLVKfzO6EntKVUaiuss0HM_N
+ iuOaOaIS5RaBYNTnDdC5MaTZrf2OdMW0Qj63yvMn_6LrSmItDfXmon2gcYXt
+ hAIN4t.yew4dbV3HDQDJHm53H_AKq.WLGHPMgFRu1R8Ms8s9.y8VN.5lo8Cd
+ t3R8mGPcHduKFx_W7M2xcnKtnBwQ4F0A6W5C9nkiQ7cQ22elB6PpimkUDO0r
+ W2s4jGzScmwErcE5G8M_vrv8xvC9AEH9rRWDsMo.lKxzYQ0n4tl5hMi12IOL
+ PN0y4uOmmvpDWHdGy9hMSeyrrp8q..P1tPbCN64beu2.znSFVr8eG4geAc.e
+ CjX.VLq4BZw2chFhO8UWYkLVliBDb0JKYB2i24acWkcXvaH1o_XEvYqO.FMA
+ ndPS9aayCK8WTR.45mt1QuxHy0FmCzIJdSMKGxySqYUHw0cRhqd8TNW71zqO
+ d2j9ECkkfQBkr6XLo0C5dXkGEdQijV.k5SQU9xJV9_97zk2NWXuYPgwzMpMY
+ Pwkk9QuFMFaT2G8K4hsd9KI8YYajS9hHaYKG7TXYjuUmMJ1b4xhVN0RpshaL
+ cTbjZCyfit1W_s33C.L4Q7vfvjJDPI.xq8VxWHmriouJgeGrwmapChCCkF2e
+ ekQYyoa60vGkp4WiRwDIMMFxvYwELxh1NhFT7D895DBGhXRK8f6usWSSFekP
+ MuCuYQpirIOyCVKSc3QE9tCGSQAWKZpR423tyg7U19TOYyuypZPYBRIN4WpV
+ fd1pi2Du.Undw_lGTqDSDKjuUZ8soYF2BU7dIft_XsGK5Nn3sZxm4r8g3rVU
+ 69Ah4Nc_O_AC.t1uJ8AC.Xi4byNUwHoGLn.YTFYQ21zwlR5KFBU1bwRBYQZ3
+ yM8DergJMCeETbSX0ppi2Hof8U7RnMYSFgD1fhF.z0G5ib0rACsekmQGHiDS
+ Gf_qkJVzFVSF5VbA64DS68NV.zYCRIqLW8gWTYgfK4l._3Hyx_9kXd2k
+Received: from 17.58.63.168 (EHLO st43p00im-zteg10061901.me.com)
+ by 10.253.234.154 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 21 Feb 2022 04:39:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1645418345;
+	bh=q2Nuj8n5VFvBQmX6GwgAlubEA7NUZMfFZNRQZAmzq7I=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=OSjeybmZ6iRbkKZor7aVXE0O4dFLXc2B7w0xDFnpJlqbQEp5ZB4v8Av84INU2KncY
+	 /2H/OjDRjHOzDbqUNmyLag3fO63/6RqycQxy+Rrm6k21T2VDcBgz7asxdfAtLauqGD
+	 k6cT8724tgjMwPLUjUoX39dByEnNZPMOHRoiwujB42mfCZmlL5cb0wfFbbGi/3UnDR
+	 jXQbD7mlFAI1dBKojnRZnPVSdYCUGkwvGC95GrG9NWs/n7J+F3L1Z2fztVuPAu9M6/
+	 4iXoDAl2ZhKchqRxs41zW0eMn+YKeMyg70FTUR4oY/Aa/O4FRwlZhxnPgDYHvD7t68
+	 +eB1/D+VmE35w==
+Received: from smtpclient.apple (mobile-107-107-63-130.mycingular.net [107.107.63.130])
+	by st43p00im-zteg10061901.me.com (Postfix) with ESMTPSA id 7CEBD540703
+	for <ms60710444266@yahoo.com>; Mon, 21 Feb 2022 04:39:05 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sun, 20 Feb 2022 23:39:04 -0500
+Subject: =?utf-8?Q?Free_Fax_=E2=80=A2_Free_Internet_Faxing?=
+Message-Id: <C8E93645-2FF7-4186-87C8-C44609E4736F@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.816,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-17=5F04:2022-01-14=5F01,2022-01-17=5F04,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 malwarescore=0 bulkscore=0 spamscore=0
+ mlxscore=0 clxscore=1015 suspectscore=0 adultscore=0 phishscore=0
+ mlxlogscore=461 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2009150000 definitions=main-2202210027
+Content-Length: 56
+
+
+https://faxzero.com/confirm/30666994/1645418305
+
+
+/BD
+

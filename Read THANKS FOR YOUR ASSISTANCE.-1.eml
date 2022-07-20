@@ -1,0 +1,94 @@
+From - Fri Feb 25 20:49:55 2022
+X-Account-Key: account1
+X-UIDL: AHVmNz1+HoRTYgP9TAjhcIdUmHM
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.231.19
+ by atlas214.free.mail.gq1.yahoo.com with HTTPS; Wed, 9 Feb 2022 17:43:39 +0000
+Return-Path: <bscpgroupholdingsllc@gmail.com>
+X-Originating-Ip: [209.85.222.171]
+Received-SPF: pass (domain of gmail.com designates 209.85.222.171 as permitted sender)
+Authentication-Results: atlas214.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 9 Feb 2022 17:43:40 +0000
+X-YMailISG: Ut39oCUWLDt1NPQH0CxbPJgtZ0gTf.hUvUOfn9_tysbelX6E
+ 7O0VqasYCnrU_m4zBMKMxjePfjncaVEuRGvyS35MrWn4B6GyXQNc96X9sJHx
+ ESsg3NpYVRAoLKFdqX05AWcSLu6P0KSiUphaXh9.Nmc2tGYhfr3QcKrLRoP6
+ AeqOLomps7M_l7SlTAVxm3SnRWntratZb4deQz6pO1TDdqqlaRmFOf2uhLzq
+ oTsq2acElyCZ45IDD3vZzdqUgPwaCMH64CN.dUwNvR3risc.WgbHXrGs5msg
+ 9CT6RNX3khfr.wMJego1xfUjMhWP4W7YQ6FNynMvVth9qegJb1YnRfxeuP3i
+ ierEnN4cyWS5F6Z_fM2tx6Uq7d84TBFS5TQcaLmtQNlBTThEu2L8aZUfH2dr
+ n7jinAY.LG1bD_kQdTmcKyFJ69IRncrt2yPC1O9kAr.7P9h8Hb3GauBI8AFe
+ r0ZbJ3GwQQJZAmGNnisiKoxCWHFgTYx8HGR8CU1NH5phslFMralp37GkFzpn
+ Qqa710OzTuN6BfM8A5RPMag3ko70JgtGMQIwVCkf9nTypdiMdtbag8WEPAI0
+ 56qfJKLi0mt_6RHZ6SgLiz5UoOcnnQU82plhVP9yeN3RPG5NiISDBP6_ncxv
+ BdMjE78Gg9bI478hVVh_mvFtlAcbyFiT1wwG7jJceALPMBdAwpRpYRXutUPE
+ yiWmq.rHC83qmyHqRh7mar8RlI1lr5wSFSsXsqsffQgWUOabsxf7PGvNiKXa
+ 6evmYepnSMnX48nIm5bJ1s5hexb9_jiIvQOaop.mJ6ilRsOtBIZsI8nz1kay
+ ocDwSPtAaW_sx_XoqbC5M1CPmJrg5CdQ1XsL1bwz6r9kJADXvcGxMFDMruRa
+ sMbBSTfYiXC1nLPaIOKG1pllU8DRk7rehdN4UtFTcqdc0pTVeRVRH3t4n3G5
+ USVjmhanjzxlz4dA4i.Q4tOeBZ6ZL3z4ZXWqowpNJUUW0k1KKp.thDAXJnpY
+ wUPnXYIL.BXm6IbdLET68yr2xwUMZ9NadFEZGtpMbr.jCIzIAFrztxp4B_9k
+ aV3RTvlVpw2cSC4.H.vdZygzsVXmOaNgFZ31i4gohPl8Sxh7H97stPACeOU-
+Received: from 209.85.222.171 (EHLO mail-qk1-f171.google.com)
+ by 10.253.231.19 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 09 Feb 2022 17:43:39 +0000
+Received: by mail-qk1-f171.google.com with SMTP id g145so2262030qke.3
+        for <ms60710444266@yahoo.com>; Wed, 09 Feb 2022 09:43:39 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=from:to:in-reply-to:subject:date:message-id:mime-version
+         :content-transfer-encoding:importance:thread-index;
+        bh=qyQdV6w/JtzageKUnMNjU7VpLoGii1aaX9YNIuRxxRY=;
+        b=K+K2835Dsntrt9KERBDHgr/5GzePMityYuukTLSmXBMJMEY/7RNFp4B+Jtki8knf5q
+         xHjeUYs4SPFUYCsFN99EYqx2Hmva+xNfvyaNimFLFOV4gLr08CDCpsho4TJEj6jzXY+r
+         Xx8VUvnjbahDFVzRfUdj/MSwC63G2cfSSE509FxbeJEwHorvkii7CjikJC3Ex/UrUIAK
+         mORt9SyXWQBC60C3co5vy61oOxtrVi5xGGdg2OH6aeOLlTdaFR1oddZZEMcnc+EgAVDV
+         7y8sY+kpGlUJ6sH3xofuqUVKloohyVwKQZo5YiyFT78clnEk9iYC5baq0/+7Y8rifnyg
+         wyfw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:from:to:in-reply-to:subject:date:message-id
+         :mime-version:content-transfer-encoding:importance:thread-index;
+        bh=qyQdV6w/JtzageKUnMNjU7VpLoGii1aaX9YNIuRxxRY=;
+        b=Dbq8AUT/IVIhqpuT/O9Duy9epPRO4YUHNlUCW6K4Q3V8QL2F3wlBAA8JETjvPXuaW8
+         BDmeC2jDjUdnxoSTUflUyF0mhu3AHgQSg8u0CWhYC3/3xlcENSq2NC94aBHzyFthUnq7
+         7JlC2HEhBdeqENdSnBG0MGKdMIy8nEvEwQQqI+HYhLjkc/ReNJxwiInzH5nWEWWSmX9w
+         L3sNfwLCO6EWt9JLzrd5eGz3cdUuu+Fld2JsGZy13MXwU8uMqEU8FCJTgVcfj1mbSoOQ
+         T5hJb7dNyS38CXwTMugThwh1IYJjBNm6Q02r9FwauSR1a5LD3UtnxqrEpr+n1kHhTDHF
+         tGQQ==
+X-Gm-Message-State: AOAM530llyD1kioaJbcCxGvjbg+OjT3Lw63yLQ7bx4lZc8tn60FfUFwS
+	Ob6JLsBq5aEF6dx9qwJQwNKKItydBHslLQ==
+X-Google-Smtp-Source: ABdhPJyl4b4WVea2QUcy8CbQ4j/RSTJiBeEKLOL7S48PWS5ZtMgBXyHzgJWEFisPkv8BczWvzX7Mow==
+X-Received: by 2002:a37:2c02:: with SMTP id s2mr1717647qkh.76.1644428618874;
+        Wed, 09 Feb 2022 09:43:38 -0800 (PST)
+Received: from GSLEX ([2607:fb90:7a92:1c95:a466:7eb0:ae61:3b7c])
+        by smtp.gmail.com with ESMTPSA id f2sm9282676qti.61.2022.02.09.09.43.38
+        for <ms60710444266@yahoo.com>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Wed, 09 Feb 2022 09:43:38 -0800 (PST)
+From: "BO FREEMAN" <bscpgroupholdingsllc@gmail.com>
+To: "'ms60710444266'" <ms60710444266@yahoo.com>
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAJAY067VEMBEsaDzXyzyFJ/CgAAAEAAAACWOtJunwupChPqHzX5oAl0BAAAAAA==@yahoo.com>
+Subject: Read: *** THANKS FOR YOUR ASSISTANCE.
+Date: Wed, 9 Feb 2022 12:43:30 -0500
+Message-ID: <00d101d81ddc$8dbc2d00$a9348700$@gmail.com>
+MIME-Version: 1.0
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook 14.0
+Importance: High
+Thread-Index: AQGC6t+XJY2EgXgfXc5s98YVi+vH6QJ16OeIrSIz4/4=
+Content-Length: 286
+
+Reporting-UA: gmail.com; Microsoft Outlook 14.0
+Final-Recipient: rfc822;bscpgroupholdingsllc@gmail.com
+Original-Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAJAY067VEMBEsaDzXyzyFJ/CgAAAEAAAACWOtJunwupChPqHzX5oAl0BAAAAAA==@yahoo.com>
+Disposition: manual-action/MDN-sent-automatically; displayed
+

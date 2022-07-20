@@ -1,0 +1,77 @@
+From - Fri Feb 25 21:03:38 2022
+X-Account-Key: account1
+X-UIDL: ALI1j+9NDSgXYhCYtwCzsDXvGio
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.130.17
+ by atlas117.free.mail.ne1.yahoo.com with HTTPS; Sat, 19 Feb 2022 07:13:58 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.166]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.166 as permitted sender)
+Authentication-Results: atlas117.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 19 Feb 2022 07:13:58 +0000
+X-YMailISG: _3fj6VgWLDsm_1g5cXrHoYr0_OuDK9SKugCdb0IuRxZy3Rjd
+ a3UCGn08pqQlAmSdEI82J_Bn5o3hZHxNuYgsWDxdFxn0dTDgnXriVwEj35_c
+ hXGVLl5b3MsP1F5jV7Xjo.bzDxeIFFuYh02vgsPSevFFz.qVr7PsxNAIOjJe
+ nuiLITJ7.NzCiudnVb8iqCJ8VWNTSQLQ_mR0bxarCHIdTtF2l.6DPSELDRoV
+ Ah9_bmyilCNGGezyd3jPMXvyduvq7mlqxPR7Q7Z4ZLb9s3NhryNIiiUI042m
+ zsdULfKbhMMcIJeEY82rPY81tpue2e6erbDeATvJ7deMGCl9COJNPPLzRUgl
+ 5Du4Ifv8NNqsdIVF6pZy3EVotd2Ce9oKbKSX1IDc.5SW7XSByDDt_7.zBBFC
+ 7fR.YtGlOcAehkcKvR.PhUP6FbAQ1e3fYfxB1ZfPaIw_hziLNgCy3jEOm0TQ
+ 2jEzmEjEi2icvymJG.qjzznVAXbjpIWzcFR2gCm8azMbCqk5_PHPreQQE.lj
+ tmUKfRPd4xSv0kWxe7RrTnIwn4kLD77MvRzdkA2ccFWlo8kgF7zdjonxLzRE
+ cV6ZjmXAG8LndHsfk0Y5VGqkkhXhd8Gj2CdjbkdjLvL9mn3vfXaPSmXr9Nmp
+ w_7NLJqo3mq1ojhWFTNuUDjX9AJg6PxdT2D43WYd97xJwejxiL9jPW1lJ6ck
+ ShVNEdBjnPLzyudXk4w8MEkGdOzLtYl8z7e.ps5Fi4modgINk5cmAC3wuib4
+ 9kOIYHiqs1q3828vWYj8eNmAfxCUCvGQY1IvCTZsbfSoqy6LAeDk9W0UBUwO
+ XTRNQaxCAV90eiENt75qeFfMTEmbIwmydAPLo4dYNsToKIap7lqa.LJEPyyk
+ iVmkKXbUyMFW8T7M.HE6ONJ5Eb1wugwytJnnX4wlK88q_k55DNCtwu.wpQrH
+ ilOH2.iOrdv8pgM.GNLxLCiG.DYz_Uld0aeIUYDrAG646k5M8NFpsUvmKss7
+ XSfr4EAyily9sd_96ffrRfMimIiL6xZ1J9j_FIhXjV6cYehq5so8sg.epKr1
+ LkA5qpzxsttF15WajG2tOgUHnruVcdUxPHlJYK.PdF5JZHBUmMLYhSB3T51N
+ GwmIrO6stLuyDymnMGIspXRvHA--
+Received: from 17.58.63.166 (EHLO st43p00im-zteg10062001.me.com)
+ by 10.217.130.17 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 19 Feb 2022 07:13:58 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1645254838;
+	bh=Me8hOAeY//EDRT68JRQvXBidFG2S37la3qcuqKTTWTo=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=Bh76tWdDwWGquLy3J7jONMwW/sJw49ZYBxAEJhpQkWeq92Xogd5BpdqWa7qMakRco
+	 plFzeyoiI/Xrq9kxOKS+AQkMHqR2niBGbtDifnWDzZcHlwo9xXCySXwEixnV4iCBoo
+	 IgfTTCBGisieNTa7fQJLPtzEzHAYFJvMiD6siXMdnJCFgsbfjzbk58TgEfJ8Pu8ijL
+	 ueVISNk6l6ulaOnRVtSNRII/u2xiSw/K+6pgh2RqH4xgegNd3FerA9gim0iigMKhx+
+	 Vyp3XprCP4C2PIbY9LJW8wMryiUbGbQ3g0P0FJZ/4SIRvOURm+fO01jKNpeLksSujR
+	 MtVsrF5+1Ci2w==
+Received: from smtpclient.apple (mobile-107-107-63-33.mycingular.net [107.107.63.33])
+	by st43p00im-zteg10062001.me.com (Postfix) with ESMTPSA id BFFB7800BBE;
+	Sat, 19 Feb 2022 07:13:57 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 19 Feb 2022 02:13:56 -0500
+Subject: SEC.gov | Credit Suisse to Pay Nearly $475 Million to U.S. and U.K. Authorities to Resolve Charges in Connection with Mozambican Bond Offerings
+Message-Id: <A47A6184-417E-4164-8F57-70FF6E934764@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>,
+ BO Freeman <bscpgroupholdingsllc@gmail.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.425,18.0.816
+ definitions=2022-02-19_02:2022-02-17,2022-02-19 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1015 mlxscore=0
+ mlxlogscore=992 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2009150000 definitions=main-2202190046
+Content-Length: 56
+
+
+https://www.sec.gov/news/press-release/2021-213
+
+
+/BD
+

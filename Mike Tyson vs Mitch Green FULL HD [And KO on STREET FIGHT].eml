@@ -1,0 +1,77 @@
+From - Fri Feb 25 23:55:45 2022
+X-Account-Key: account1
+X-UIDL: ADl2YIQ59vLjYhmijgwVwA//0mY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.34.75
+ by atlas318.free.mail.bf1.yahoo.com with HTTPS; Sat, 26 Feb 2022 03:46:22 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.173]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.173 as permitted sender)
+Authentication-Results: atlas318.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 26 Feb 2022 03:46:22 +0000
+X-YMailISG: XjMYYl0WLDtWetUpi52mgUrSmGSeIwbKkAvBDoB9KJDlmbhJ
+ 3nw9EhQWQEJg_9AkzNfjxcjSbKhFGHdx.0wYPHj4CFm6_Xrqhv_7QmuwcivQ
+ KcWIngCQU5KnjlQeS0rEWapzvRIZvHjukH9q1jDA3Mz1Y5iMcESBTWeKmiww
+ YHLLFIhmp0HxhP9OAtD4iE1hgT6uUkTG.1m0ACn4.ob17CwbdRtPsBeMCX.6
+ hkAFfyfX1lzSn.rmybzLp.LFTx88dysB_9QhJly73U7K7DN7Z5cVrtjBkefk
+ gVLEpA60z4b3uCFQv.FZithTZfUm3OmGQqQ8wYGyHqA73HR.i9Z6jdhu3EHv
+ EByNI7r4e1mkQhQJjty.tnZcs7Mh0NyWIWA8tm903UnCjX6_Ao_hN6udKT9v
+ y4CWkW04kZmIC9bzjR4UBTFphsonhvaGST5S7LM273226.OVieUlKwAKPpCz
+ HUIMN3KA_PfL4sWB5u.6Z1eWYGo9f60QLj4XrjUX6L8460bgBmC2Kvdb4Zrv
+ lLBFGYlQtT8fN3Af.Kn.lrvZOB4TcSq6YYEnURmVL2SG.SPccHY66D0TibrY
+ i2R8bid2i_U6ZHyxqFE4l97wmei860jQDEWgqDqoYS80GD.aGiYQeIYgikKy
+ jBbJkclvLYdpus_B7LKbGg5WywSB0n.uHzQPlc89yrAW6WkELTGEUxz6NvtJ
+ uCguhrYNBCGCq.MT7w8LtP_RwhDEczywivChmy73IUXWiIaN7Hl6e7WrVzYM
+ 90l8LOglxPFQ6oBZsGPqnGb86lwD7sdxQ.N8278y8ojpXE2vshNPIla9AElH
+ fG5bXcO.h8lkklfyXMzMn82lIqDtvXkgcptX3qHjc.nEGh95Pat8QWc7XP5G
+ uRkshjZlzDJyJ4Mcx1o2auzhLeaKp1HYMgv6uK8q4dqlWj4JFH49gHKbmHpv
+ rzjy36wg3haJYsVQs8QwtfYliV0sCm_LHMv7.od7swb.l_K8BUEK3a1CuRYk
+ wE1ITbD6ySVJensnp4X6i0FDzAVUU.5XmAANcVNTZk8WH5ysHhlfhTEisM3N
+ vgtrboobCfMXFTcqIIBC5Aduhw7aUJyMmUmPu61muMXgUXTP30b1MszobAGF
+ RIxO3Kum.Olq0H7iQQ--
+Received: from 17.58.63.173 (EHLO st43p00im-ztfb10071701.me.com)
+ by 10.197.34.75 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 26 Feb 2022 03:46:22 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1645847182;
+	bh=tFWx8lFD3meGmM7js1IBcFMXroDB2q7aQy9Oj5JIpWA=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=coctfBhwC/M/ti293OWIuF/1pq1SaVT/4imeEf/6OPJ40QHWp5cvoWvwl5yNXcJWx
+	 y96SFGfqtZECzyagr7KOrGNd9qXVAIexg7OlSW0h+dDNY+4+mX6/gB6ky0+0RiBe6N
+	 91HqyjlhuXPUrDHHKuUtFsCHUXLzJTK8qj+jrkz6jK1rOK631BS9XOUgZ8XlNYAE8A
+	 9xIg1Y1NqHLBLMEXcNATPGQ9LWWHXvu14dBTfPMhu00BapURs3f+mEJaY3oiRp9+SX
+	 Raa7NEH6s7MgCUPDleN0z8nh/+lu5pj2U/gjkuBXHIk3ZjazAlhKt0Vq3jmIiA3oPP
+	 sDqhAg33Jn2aw==
+Received: from smtpclient.apple (mobile-107-107-62-65.mycingular.net [107.107.62.65])
+	by st43p00im-ztfb10071701.me.com (Postfix) with ESMTPSA id F0A83A0640
+	for <ms60710444266@yahoo.com>; Sat, 26 Feb 2022 03:46:21 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Fri, 25 Feb 2022 22:46:21 -0500
+Subject: Mike Tyson vs Mitch Green FULL HD [And KO on STREET FIGHT]
+Message-Id: <6536F5C5-4139-4983-98B0-44BB140369A0@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2020-02-14=5F11:2020-02-14=5F02,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 mlxlogscore=835
+ malwarescore=0 adultscore=0 bulkscore=0 suspectscore=0 clxscore=1015
+ phishscore=0 mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2009150000 definitions=main-2202260028
+Content-Length: 36
+
+https://youtu.be/FToop0lneck
+
+
+/BD
+

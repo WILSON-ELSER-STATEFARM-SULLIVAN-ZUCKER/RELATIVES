@@ -1,0 +1,79 @@
+From - Fri Feb 25 19:54:40 2022
+X-Account-Key: account1
+X-UIDL: ANmY50I5X2nZYefopwCcQNBxY3k
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.205
+ by atlas108.free.mail.bf1.yahoo.com with HTTPS; Wed, 19 Jan 2022 10:32:06 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.167]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.167 as permitted sender)
+Authentication-Results: atlas108.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 19 Jan 2022 10:32:06 +0000
+X-YMailISG: qJvACygWLDvSXPHKfmqvIOzpIitDNStN.JusxpPFu7L05t5R
+ 9K9K9e8E_agqQt4bOZHdt_woM3mb8sZangtLhVucDcL6teDeemhpK.0GPSGr
+ HSpKB.6SZx55CdczgWjM8MJOyBFovr8b.jF3Fgcw72b8PrhfUoKj9l3wsMdu
+ KS8hmczKcjAWbuQQLhIPXPKxvAP6K35b5BfVJ45r0ondkHJ6DJFK3wi.XhvD
+ .XIcvybkNfO_k_m597K2p0b_c3uZpyQlr5ERsu0elSiqQqyriOBHt_dHm0lC
+ 1IdIYgOnn5ntCBKCdRw0ZlSEMsK8ZPDcWiJ91EdBGAmVCkKwjyHiFkif6xUi
+ MRUbN6qUlxVqwvYZO2MSVqCl8LZaDY_4uW5DBNrCKpfYrEWO1HzjhPtgod5x
+ 9NcN7JTRjCph9_213W0fWkB7vRD7oEiqwbIfWH4_ofIulObEhvV60726XDKP
+ a.jNCAanBOdOR_AyzbQ1RmGoqxj4gbjEORDqEeHCXYt06pj5Ug8go0P.cVWH
+ ImSe6aod2QhnrMgeKotOABjk36uO83UcBzsPG4_GEMahTBPJfenLqcXx89NO
+ fBoazfDW6KyiiplV823yro6vLMP4trrl0mNvsEcGv3D_zdPg.6nYB5uCX0rv
+ 2wSbSz6BVPlvyAssQ3DM2FlYHiEK0cNRzKsCNGpRtEk5L.so9zxXZ1vzkL86
+ YPKCEo_fg9l4bSoCC7SDKksIWoc5jMStc1cQ67dSGnUn.9sdT6R5J7QW1Og7
+ RXJMn7c_VKuAwE4DmYto_eYnS1oXOueuLI3wNl4M.p0igHRQJo0AjK96oMhG
+ Huj2COLsyGnjUXlvigDFqYlYia9DxiUAD_kUWg5dL5eEfpjmxH_Y_V2oZaZ5
+ GmsQRiAFVPk5gTvtsuDwET8QATqlEbp83KQqrNIsIKpo6xvwpyaKkitHkjvt
+ .d2CG8ZY8nChDTNIIr8Vfg6ev7OpJzj8bXv3mRXaN3Lv1lErOVvOudV99zpy
+ JJKNNDwdSoZqUAMD0lRuJnD.Tshoi9_bfOgcfoIdbLqbLu6sjSR8pipG9GT3
+ XIoJA7FK3mAjPksashig_B6k8MrpMMQuOCr3G9jdg7n.d2qWfJuU2PhUOeTT
+ ewDJzJrqafW7hy4_pMgh8r1lbcALWvjIslE-
+Received: from 17.58.63.167 (EHLO st43p00im-zteg10072001.me.com)
+ by 10.197.33.205 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 19 Jan 2022 10:32:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1642588326;
+	bh=OSH5WD5PsDA12qU7bJaMSfiA54FOBrJI9Da2eJt90/8=;
+	h=Content-Type:From:Mime-Version:Subject:Message-Id:To:Date;
+	b=WAKVjygiJ82fM71YULoMXpvJb3HWJmAg+rF8o2R2WmQohyBg81gu+kDpqnEG9FEWf
+	 Sor9w1ZgVGtplA9vzEkqWd2pabUaIdZCTyhsl1dmKIFy7z9zTkACOd/CMAr+p9tTyY
+	 hNT/4HWy/MNq4WlLUWU4b8WEH3d0/PUD0+vzeloUQ0WhezNSwtZiEMLF930KrchWHE
+	 zU4njUPJvV0/rqh2kFRwtFhFzn6jbLlEUACX3FRMoe5niu++ClbutazBR+iRhPFUXT
+	 w3DJCtY6B8V74fIfmi7QC3QWD6UqifeaTMieUu3J2h4aWaB5FynHw3fMV45+eCtpGp
+	 dPpXD0QVpNQYg==
+Received: from smtpclient.apple (mobile-107-107-60-251.mycingular.net [107.107.60.251])
+	by st43p00im-zteg10072001.me.com (Postfix) with ESMTPSA id DCAAFB40784;
+	Wed, 19 Jan 2022 10:32:05 +0000 (UTC)
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Subject: Re: Supreme Court Submission
+Message-Id: <6C6C2453-BE5A-44B3-AF97-1D9687BB96D5@icloud.com>
+References: <1642583252.4Jf0CS6NYkz1XNYfh@smtpgw1.supremecourt.gov>
+In-Reply-To: <1642583252.4Jf0CS6NYkz1XNYfh@smtpgw1.supremecourt.gov>
+To: PIONoReply@supremecourt.gov
+Date: Wed, 19 Jan 2022 05:32:05 -0500
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.425,18.0.816
+ definitions=2022-01-19_04:2022-01-19,2022-01-19 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1011 mlxscore=0
+ mlxlogscore=881 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2009150000 definitions=main-2201190057
+Content-Length: 287
+
+Thank you!
+
+> On Jan 19, 2022, at 4:07 AM, PIONoReply@supremecourt.gov wrote:
+>=20
+> =EF=BB=BFThank you for your submission, it has been received and should it=
+ require any other information we will contact you at this e-mail address. -=
+ Public Information Officer, U.S. Supreme Court
