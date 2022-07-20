@@ -1,0 +1,212 @@
+From - Wed Jun 29 14:38:30 2022
+X-Account-Key: account1
+X-UIDL: AE7xPtdkDhh1YryobwxQWOHkVk0
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.213.183.118
+ by atlas308.free.mail.gq1.yahoo.com with HTTPS; Wed, 29 Jun 2022 19:30:55 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas308.free.mail.gq1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 29 Jun 2022 19:30:55 +0000
+X-YMailAVSC: PdvTI2E3bBsO_aud0_xuG7Vwb7iVMdYrmlQlaf0dFCC6Hh0
+ ZMhXyE7w96GFCXK4ItNn0gK_l80u0.m36pOynd2mIbGsXkub4HI0ctFwn2wv
+ D_gDdxN_U6dvQnVJNNMVMBwoGosC1nWf0UExNl1a33JFoFDZTY83crr5j62j
+ 0j0iRdVy5wWizPcOZveHUUoCHhDagIaHdI_QCP.8SPDRk4mxzsyGZlnQeEOR
+ yp_U2e7fPWssYm8_PRZPrxDFUqRuW1Y6F9LjW.gAzEsB5iX2GrxG.sYhIZWc
+ AzQGWmJbgsMZXHZPu9A3KM4QFlrvCR7GdBSneTQz5Vwqtt5cAQSw9CGyrAQ-
+ -
+X-YMailISG: 3615B5wWLDtC8a3LWeMSXTSjsO7cHW89LUHOynj34hFH7Wss
+ eWgEQ9.mNmh6VFqjEiv_i5OjSjiR5Z1YwwftUa2VoYE8foiexiyoFO6uDUB3
+ GuiGxycQMgck26Vv9xQg5QO5muyEQ6VcrBLnyTTonIa4_FOFale_w.OJJW7G
+ VkEPtIgNQ1ogWBZSsVE56fwDTmkSLvvnRk4OorO8D7SPxvWpmcNd78quec5w
+ ce9UrOexFOsIUAwm7fP.IBugaPuWUD5EABE6xl5MFNdWRj2F84iaBDU1Xiet
+ nit9OrNoNJzkTu7TlxsTqi1ERvOTXjeSbvAUVFSqcuqJ4VyHY68UMvoxDQyG
+ bEbSN6RN2L1Oxi0kXYkmvnV._cK.BsRNqvBL0qlSgcXtdLxR4AUYah6f8ngs
+ SENV8OfR3KLP1KVinSWqkxuMzPGbnExIsIYQCfmbO7KKk1gZd1D.pGHRS9R_
+ dsYhxPAdMLOtLE6S5jmpTJj2wKT1x9BYqBDRrX.1pgdxKrnzz9hGyPXkJV5h
+ SrqF3tfpnqGuk9RhZ.H.BQ7AVkNzVza8DvW0Ayzmi6qmDGF4l8ltuHAmm46D
+ a2IoDJvPGCPzAPTkAds3N6wqX3J22MRnc3cHD3BHYHjSznYv_y.puLUriokS
+ AKeLgCoozXqWbXCQP4IfKhFxTU4LdnRcTyZ9HePJvUT4LjTocU15WfmMG8_f
+ EsYoT5uSRMq6u1MGPFowCHp_CxZKQAOoPcoKCK4FHPJc15cQ6eP2qaAu8Pxj
+ SS8rxT_2mqV5UcsXmXWliU390RnMsiWP1hqAzzS.J1bS5qGCiPPGdu733uzF
+ xCfOX6IScOMh6jCl8RielBiMue6YZNlb1dIzQPLtbYlcA44WzYzRXi9MC1En
+ g4zAK6dBLwEthQ_Cbn6nGKHP.YUaxG5.5dT2wILPVRwA8Z4FgPPhL5V.GHfV
+ JpSPs4YNSOL9a3nbE30Mervi7484Ar4bN5OwPE2ndG7zQtxWkB4tIEpMkpc-
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.213.183.118 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 29 Jun 2022 19:30:55 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id D5C5BD2063
+	for <ms60710444266@yahoo.com>; Wed, 29 Jun 2022 15:30:53 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_1B0F0E0B_F81E_D0F2_DD83_A528CA2DFACE"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Wed, 29 Jun 2022 15:30:44 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26986.002
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26986.002
+X-TMASE-Result: 10--12.042900-10.000000
+X-TMASE-MatchedRID: A6ZDD7WWxWwqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEbOK8uskIIKbFt6EYoORf6NtofdVs4T9OVlZQ40fIzCEzKA
+	CX7I5tE7D6EGGMtajOzPh1cH+czpS6wxIhzeSfYpJPW3fXR8oG7RSwExQYqB+XV3nmazSW4JGAW
+	q9Esvw4F5JFh5FQezJunxGEs0J95GNFHD2NJPCbp4CIKY/Hg3AaZGo0EeYG96lPA9G9Khcveo86
+	dL2DqU+eW9Lf9neatmYmCPb2rcBOOlXxMBRhmEv/l/LcwyFtw0OUhUxWZtfbX7cGd19dSFd
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220629193053.D5C5BD2063@mail4.chamber.state.ny.us>
+Content-Length: 8603
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_1B0F0E0B_F81E_D0F2_DD83_A528CA2DFACE
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_1B0F0E0B_F81E_D0F2_DD83_A528CA2DFACE
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 40D36D2063
+	for <governor.hochul@exec.ny.gov>; Wed, 29 Jun 2022 15:30:44 -0400 (EDT)
+Received: from sonic310-14.consmr.mail.bf2.yahoo.com (sonic310-14.consmr.mail.bf2.yahoo.com [74.6.135.124])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Wed, 29 Jun 2022 15:30:44 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656531043; bh=ZmBPheHPFv78PwpoQZzqYnw9s0iZI/309ZgtpDwhKDQ=; h=Date:To:From:Subject:References:From:Subject:Reply-To; b=ZJdAS37BmpfhoOsuD9BAyyahwrjFZnIx+biEDEnUSRKw1taXYky1HD5QmOsDVbZ4yt0vLvW9SXLLwQ2hhRFqW0AZnAXUhRvje6h+i5KfsitziAQyAQnlQ98SWjgkm6mw54BVqueI27qnuOhw3yLJchhtaTJOgZOx01K7ZXotvHIBsIX5byGO0C/GgXIdHhO3EozpDJ1Rs3BXJ9u+/YpY0oLAoV6bph66VnENpl42sQrR/lTv+4L85jA1kIlGORCl1NFcnfs6fnklryyw2/zwVII34W3F8vS0lqqy9HH7N9WONqBoXIldMDKvC6pQ+XcMLAV9Kl1UPWfVg2Ldy8fqRA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656531043; bh=TjlGDgqQTWCfhyn9I/CkwrXVVd4WOZnQeQwRS0sW2MG=; h=X-Sonic-MF:Date:To:From:Subject:From:Subject; b=TdE81cMn+fjKONfAZphpYwVfHvv3UyB8Ngd2q2CXePR/kidSluqRuDUl9soGjxEQACE8T91Vp8Oh3m5Nfa31XSKTjGf1KcOdLK12fwhzn/hWnKJrPDrQRy4mXe9Qs7JZsKYAWHmbavZ8h6Sp3J9FgJJaEsN0A0G2JKKJ+HMHoc5JPicMb3TnsaZKkEyPalyrpXc3/ckhS4S2QCEIKEedGo1QAiVU9w6XyWRssLUzxilhsjE7++LluY6gAQ3srkugoIqye+lOQSOunQ4QBWnc7T4vNtR+oFph4sJfU7WwP5BmN3LXGpWlYVpX4AGou9BHJN1v22mQ4BFWii8+hUVPPg==
+X-YMail-OSG: boOz5IAVM1m242_mEEecCOnIwMClD9jXqxmPDQU5Vy5vOwgsrXApho5XVSQ1cQC
+ _aAbO8XvKdJ_HpNTeHk2Ere4W7mKBta4grUDYX6Q03oF_gWfl.CAWdnaQq550hxn6fR3_9nMJPLk
+ SO6VHLcTwOIIMasSzwlNRUAUAEpHYWH2jutulrzbhOAKzL99sE9IHZ3_d6dWXY.92EKlfqKr15FR
+ DG_Vq6wXnwscg2JVfvp1gv.g0KDPsD48TdzdFDq1MtjmLCFvZjk1KTL0LNMe1zMS1_IBHayVjSp2
+ _OdRU.G3T8PnHp9Xp5eToUFR2XdK0QTRi2XtxkE1vk8eTwxEwpL3xW9Baw39DF9v8LCk1pS3ULql
+ Rc3LXErhJFAOJaQldZyWrpjsW35FUzQLI0Xk0BgL.F71Hzd6stRvjj8Nfct89uwR9FPvvCkOPEpI
+ 03r.rzUNhux4D3sFBbfhQ_0tjYZybieXGnt2CCondw5lcGcOvPYPiwK6YNjg6SqEbUWttNYHb.AX
+ OzSbR3BvcTFvz_oWwJKB2jbUUqsU.9iQY4N0knru2jDFPA8yWP8Jfp7DjVf9Hf4JsHQrxaGbCjsi
+ oxOdl_40Qf8FyxPEIRJlqTeJRPCXp_iisBpk5YVsuGqZ3xq7y_RtZQKHSwfFvgAKIMuQddoqc9Bc
+ buRLCzTC9UmVtqpR8kQU0I4LN4SmJwHDWEVpZ7Jqbltpy8AD_MlzoUb7hzg94FwxMtvIHhbEejDM
+ JgFB5Xs5v9eZ975PgpFDZ2QE2tEyyBCLtt6Kj9WV5_TD7W2_COQap7cWAfUnjmfaXZ6rekl24a_S
+ bfoEBW2k5NkNaQNkzK5L_eZne07b4n6ydlRonRKDqhZZHV2hEkonmFu1kElMDNmsXHKFD3a._K_F
+ oYc8f82TLMkMfYn1oFZg5KVBJEjtYWJjJRHntX9RSGsrE1vl4Czw0Q5HML_LmCf4ch0e66E0qpWr
+ fuuvaxiM5BPQbNpveyZQ3QUPEewhb7Hdol5EfC4nBMY4GnMJwGsLePX9SipFyBaMeh_OLHpKdoSY
+ ds_SnwSTNYvUXHZL917Ndr6hHbMoEO4W3bFUstOiqcbNmah6AnSeJMYipu3PRJHDqzAd5CGF3cbK
+ foHwbXkiDxWgiHFMmhNP8VQTZrfe889_3ZaE6lhBGqp3noqbFnNs9RT97xRRddIb2bD3XN3KNT2U
+ tqwaGYKIZiZjPvdAs7QEfN5VjEfpumZ_O09.ijA8N3M_haKbRMex8MC6n4f2C_p5FphFHlu6XsJ.
+ LGI12oWoDmdAsrx2qV4iY_bs8nv.x1JfCfgsfRz1ylEY1Z0sQjgmuWnkg.l2iy88kM05CdRfyu6t
+ 30gq_u.zfm76Ejw4ILOsgBeEhtHU6ykWpDHvINVOmYGhnJTVDyjR2QStgVyuiaXe5YPpqiFKgB_Z
+ KkhulrB71EEQ2EUakmQ_A5W6g6.oTYUl1v9K20IGjREBbV2iU1wDGoSQhfW.M3_Ou_GzLM5j2e_.
+ oJaHYKUaVIkgzuoHcRT8RLwYPx2ThO5GdEYcx9srLLaB196OZLGvn8YBbgaF1a9oG2R1bDS5FXP0
+ FTnHyUbuBkdisOWRD5qx4vuHjcOHmbD.qLNb9OaS63Q6wzt.AcxJO8vSTjIv9RvLI7gDD_K2_iyZ
+ m9RzYC1i2Yqf_36LOF2p5x6rSMOlHtJoOC_vmO3a3JbkyulIMv4.eyAh9rVoBj8ZDYpDEVHg8vZB
+ G2RIj7iMRj6GDOu10XbOvrs684Ivip46Y.rz4DritRP2Y5JuaRleHekOM1p0wXbgZCKmtuuIMsnA
+ 60DDphflCADXWcv3HuF7_FQqOdCyMftADocUEhOp3IaQzmbc2czOLu6QKO.pF0CYGyzFzEgLeqXy
+ NYP8xyDwweiNIHjCQtUAOmxM0hv7.ersLkWArVyO6PQXt6J1JjJ8nFptL4v42eeYL_bMoUK_xuev
+ 6xqSnxBUUFzO5B65OvQhCa0tp.Y2Tt4iQ8OrxSQI_PPAClml8R1Ij0wRpNZ43aFc8ObjLGQJQK7o
+ 0XMTsWy.SrxLjOq4pKoRSRfwNRuE8.vpZ9gFv_4WI6lFkk8RWkeOYzh21xoVJ1l3GQnDDivKXLnC
+ 3g_O3dn7PuOQkg9sMU76IFIHEuTglEFrHvjcOWIRyROSoeTgIVayYrY6oG6pcgn2spnyyjLIZMWe
+ qEL6SsLueZA_omVIT4k6P32YyRAAiRGHPOXS7LeHbLYmHuGtR71uIK2dkFp1jJacjFDzobrAra.B
+ ARwu2gZE-
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic310.consmr.mail.bf2.yahoo.com with HTTP; Wed, 29 Jun 2022 19:30:43 +0000
+Received: by hermes--production-ne1-7864dcfd54-mdwhz (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID ad1fb7d21eaf7e99f71648117cd8ec63;
+          Wed, 29 Jun 2022 19:30:41 +0000 (UTC)
+Message-ID: <62927f74-0fb9-ccdd-0dcb-91b41fa19209@yahoo.com>
+Date: Wed, 29 Jun 2022 14:30:25 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Content-Language: en-US
+To: KATHY HOCHUL <governor.hochul@exec.ny.gov>,
+ "ms60710444266@yahoo.com" <MS60710444266@YAHOO.COM>
+From: B D2022 <ms60710444266@yahoo.com>
+Subject: UPDATED COMMUNICATIONS [ No. 01416925 ] BIN-1077252
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+References: <62927f74-0fb9-ccdd-0dcb-91b41fa19209.ref@yahoo.com>
+X-Mailer: WebService/1.1.20381 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+X-TM-AS-GCONF: 00
+
+BIN-1077252 - 111 REAR SULLIVAN STREET, NEW YORK, NY, 10012
+## ADMINISTRATIVE-CLOSURE  ---311-10416012 - XX - ADMINISTRATIVE CLOSURE
+
+## THESE DOCUMENTS AND LINKS ARE BEING USED FOR INVESTIGATIVE PURPOSES
+## PLEASE DO NOT DESTROY THEM.
+
+____________________
+Category Code:      45          ILLEGAL CONVERSION
+ILLEGAL CONVERSION :          RESIDENTIAL SPACE
+
+### nov16-2021 PWC- STATE FARM
+https://saaze2311prdsra.blob.core.windows.net/clean/c31213993cd6ec11a7b5000d3a1956dd/STATE%20FARM%20-%20PWC%20-%20%20INFO%20-%20nov16-2021.pdf
+
+### tax evasionloan     50074 May 9 2022 Notice
+https://saaze2311prdsra.blob.core.windows.net/clean/847789e43cd6ec11a7b5000d3a1af965/TAX%20EVASIONLoan50075.PDF
+
+### nov17-2021-ingramzuckers
+https://saaze2311prdsra.blob.core.windows.net/clean/0d16940d3dd6ec11a7b50022483079c1/Nov17-2021-IngramZuckers.PDF
+https://saaze2311prdsra.blob.core.windows.net/clean/0f198ce646d6ec11a7b5002248307f33/2022-05-04-EstoppelDENIED.PDF
+https://saaze2311prdsra.blob.core.windows.net/clean/30ae18d746d6ec11a7b5000d3a1afadb/2022-03-18-WilsonElser%20Firm.PDF
+https://saaze2311prdsra.blob.core.windows.net/clean/0e0bc9b146d6ec11a7b5002248307b90/2020-11-30-0000093715-Properties10012.PDF
+
+### 10327679 2022-05-08      -tax evasion- insiderobstructions
+https://saaze2311prdsra.blob.core.windows.net/clean/80832e9f4ad6ec11a7b5000d3a19 
+56dd/2022-05-08-TAX%20EVASION-InsiderOBSTRUCTIONS.PDF
+
+### BMW
+https://saaze2311prdsra.blob.core.windows.net/clean/3e980ca54ad6ec11a7b5000d3a1afadb/BMW-MOTORSPORTS.png
+
+### Nov 16- Notice
+https://saaze2311prdsra.blob.core.windows.net/clean/cd7272864ad6ec11a7b5000d3a1956dd/Nov%2016%202021-10%20attachments.png
+
+### 7900
+https://saaze2311prdsra.blob.core.windows.net/clean/75106b364dd6ec11a7b50022483079c1/Omission-Obstruction-Feb%202022.PDF
+Https://saaze2311prdsra.blob.core.windows.net/clean/abef762b4dd6ec11a7b50022483079c1/GS.Zucker-Obstruction.png
+https://saaze2311prdsra.blob.core.windows.net/clean/0ffade214dd6ec11a7b5000d3a1956dd/2020-11-30-0000093715-Properties10012.PDF
+
+Overview for Complaint #:1610120 = RESOLVED
+       Complaint at:  111 REAR SULLIVAN STREET    BIN: 1077252          
+Borough: MANHATTAN          ZIP: 10012
+
+https://a810-bisweb.nyc.gov/bisweb/OverviewForComplaintServlet?requestid=4&vlcompdetlkey=0002823721
+
+
+____________________
+Category Code:      31
+CERTIFICATE OF OCCUPANCY
+- NONE/ILLEGAL/CONTRARY TO CO
+
+CERTIFICATE OF OCCUPANCY:   ILLEGAL/NONE
+Assigned To:  MANHATTAN CONSTRUCTION ENFORCEMENT
+Priority:     C
+
+Received:        05/24/2022
+Block:  503      Lot:  8
+Community Board:        102
+Owner:                    SULLIVAN PROPERTIES LP
+Last Inspection:        05/25/2022
+Disposition:              05/25/2022 - XX - ADMINISTRATIVE CLOSURE
+Comments:                  COMPLAINT STATEMENT IS NOT FOR OCCUPANCY 
+CONTRARY TO OR ILLEGAL OCCUPANCY ,
+
+Complaint Disposition History
+
+--TMMSG_1B0F0E0B_F81E_D0F2_DD83_A528CA2DFACE--
+

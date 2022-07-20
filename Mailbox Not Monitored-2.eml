@@ -1,0 +1,466 @@
+From - Tue Jul  5 16:03:58 2022
+X-Account-Key: account1
+X-UIDL: ABzqYDJZ8O3nYsSlpQ3HWOwy6EE
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.12
+ by atlas123.free.mail.ne1.yahoo.com with HTTPS; Tue, 5 Jul 2022 20:57:09 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas123.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 5 Jul 2022 20:57:09 +0000
+X-YMailISG: upuQoHkWLDuxnVaijh0XWOWx6y1Pycnt7PSPIH8OA86KQJvO
+ 7WHAyfn2w4i2ViWxwe2aMZX3dP1HsrthRF7bgSSwOZ2DigtNJmiWTKt3c4LA
+ j8CzgPoDsJz0qg3rXL.3N9x0ai3mnqYQXU9CcTFfsk19pCzQpxmPb00yyff0
+ R7m7l2R56qotXdpeKBIpdWNbgBvuAOC4TjMKbLdwb6BN36grnGuImBXzRW4j
+ u9utg00p.OPkcvIaccNMQo2EJGNEkLZ5EitokxE3qcaOdN2pVe3BQVooZfNf
+ CIjxy7RDLiguuas8lj.jyNbf8HQ3xpEU0yXgfH7e1Lk3sigQ1EY5YByM2zEV
+ dpuNo6SemFuHsXUIw3AI9_5eOtiOIUrGkI.L0zC9BxgpldyKRTS_1rILmNeL
+ drca7fhqMxiLeUwTzZwmOJRdYDSfJObjHsRYrG1QhZhoF52jL4OUqQFqnyEK
+ y.yEsIOFtU7NTIRNMBDDiu2LIdi0IGbE10GLuv20YkarOvIjiECWHUOocNWN
+ AiomII8PK_j4kSCfXcFCaU22VOZGEMLrZe6PqRLZLPJkpCi4QToa8Nh12j6E
+ 1DkCGljrUanrIFwzfFlhjK2PtTSRXxRrRvh.8O9akkkXtyKQ8YLuWQu7FbmW
+ EUPb2XvPgwNnr0oU06.EBgvTgTNj6jb4hjVgK3MbW.eJoFOiNWBg4L1pjLnZ
+ LqCkPN.ptvVI.42V8Ghu25cHkStJe9hAQQWPsdAU9D0XEcvL49TjU9UP_S4r
+ YwWadBXR6V1m6QgVYmkUX5GCc7y5D_tOEg3gxHHpKm5catJkWpNaN5PZ75PJ
+ p2qnpdauA3NFWFw6.dNleMq4dVcPLIkGJlRwsvpZcfAmViyMVb0qAewrXb7v
+ TLEh1H7ib1o.DoO6UMTDkCQCQ.AI0WsixrqIRq1Qwqf3ma9PUUDI2I634ppN
+ nCGF9P00O34qXa1_oim_1SGe49K9NiJd9SC065qUeynFX1rWDUBT_Jo_sy4s
+ cV0-
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.217.150.12 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 05 Jul 2022 20:57:09 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id 10046D2091
+	for <ms60710444266@yahoo.com>; Tue,  5 Jul 2022 16:57:08 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_401D599F_12C0_916B_3446_80B3299DAF45"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Tue, 05 Jul 2022 16:57:05 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26998.002
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26998.002
+X-TMASE-Result: 10--21.741100-10.000000
+X-TMASE-MatchedRID: sb28+xV1DGoqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEewAaNLqXHEq4kw0h+3MIJMIoeHhXmzVQ1JO7S+Uo5e83vY
+	rsfFYjWt8Ad4EgPHGQ8S5q/GCOE+GnH1+lINchTCeZi+N0ahQjAy2Azn8DAgmdEpUpkqUsp6f6e
+	u+NowNgdE2ftz2tH46POM0EppTz18WYsRtD+YWs1BD72vWApTGKQNhMboqZlrO1JtDnR/mPvPis
+	CZ4PHqq3eQb8ZVvF+D0PMYx3Zsvc2aEWH3uxKuJK6sAt1kJc0n59dMSAT0uHj2UWodwCj5H3K+T
+	v31rSjJjLVY854gEL2tKA2LU5oNgDL8oylphpZC2rMRAnmiQgPlSepWcgdLPPHMAbjuhwd++PN1
+	cSeX2zk6WT3sESeVht51tDrFmDcpmeK+ZQ14ylkWj1375/pHqFdUtoEeMNRp9ZDXSzHFFNyc/xZ
+	Yu98DIGkl9G+SCYBFiSVnIdboij+vdEgoMzcfSDjivT/FoD80U/rbDiDYao9VfsA6b9WvNBXbmY
+	qeVw+wKF8NMMFuXQ9iGoFAAgVv9n2e4P0DAa7tRUg+O1Tsbkn5Lmbb/xUuaMi+zJ1mRuJNLc3gy
+	+5ZVuO2jSpRPQqBKbFfKPqaqgujAN7Xi73UGFd5x7RpGJf1a07hVxuupa6oWaEfSAgeyKvXJRSi
+	qTsvqCcgbkJxVbCK+1iVwETlfhr4km+XvvD0l3IFFT9wqfr0h9mNF8ZPJ2HvgmREJAAhOdQT2fm
+	dGf5wRJ0qlvebBFU8hdqjSVloyTsc3oPKh4gqeAiCmPx4NwGmRqNBHmBvepTwPRvSoXL2y5/tFZ
+	u9S3DU2AEkGmjyBVkfP+Wbc6pQaMUyeC0staEkVAPr0TXS8
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220705205708.10046D2091@mail4.chamber.state.ny.us>
+Content-Length: 20696
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_401D599F_12C0_916B_3446_80B3299DAF45
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_401D599F_12C0_916B_3446_80B3299DAF45
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 26B67D2091
+	for <governor.hochul@exec.ny.gov>; Tue,  5 Jul 2022 16:57:05 -0400 (EDT)
+Received: from sonic306-30.consmr.mail.bf2.yahoo.com (sonic306-30.consmr.mail.bf2.yahoo.com [74.6.132.229])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Tue,  5 Jul 2022 16:57:05 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1657054624; bh=9b4sCHA3HkpDvHPdYgsqhPY/vUoQuNm22aveyKiqVuU=; h=Date:To:Cc:From:Subject:References:From:Subject:Reply-To; b=oxs4foX/9joUM3C2+XDpkc33gx1eoy08628PCbstViVb6zCVV1NECfHEeefKJt9oZAVbw+pU8KEu+6ZIcachYw6uwZHqhtP/027wUkEKKEK7AQV8bhaD1zDz/aMd6238CYMNQg0VpVQ96sO5rjp0DctuY1Daylj21An9EFOlz/d4JMvoDjjPSUomgCUkyI0cvvEeqmtJm96Kl2rYooH4OyWZW9+H0+NEyO9H2ImalEkkOSz3g/V3ayNsgt0VA3VAuwyicKfKa3UQ8Q3MCa7aH/KYIQTUCxa0Vj6qLbvJQLAUhWf+GoUWrIhdE0oQrg33Pyk9uF7cgIFcbqCy7F79xQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1657054624; bh=bxRhIz8jHW5EBpDFwURsZiqcBq9HfMF3szk+Rt912zs=; h=X-Sonic-MF:Date:To:From:Subject:From:Subject; b=n8ziQg5hLA3OSBA2h1exrENJMqyO8eTQNCGjdo7iqQEqdYooPCh932HfkCSYQ3x+x3J1edacjbWZrMgqyboB/GXGwSarKjikg9m54UCAV5afynY6DbK3CB7TYQ/if/1LD/qMq1/Y+1jIUsOmTXugXBBERuODv3cxS3vXZ345VkGESzVr01A6MqRFZAkIkYqV7gA5+U9gMMudoTCf49ywxH+6H7TiSrggUxOyGchWv0ZQQkNtlKXRBCNtUk6WIgdYlN6YpJFPYO8KZrHJMuSElTluI/mXayIQqtBpo3nG6bD9s1+FvTCCaj2lVLEhQFomcLZpvtec9Me0mXiUSrjcEQ==
+X-YMail-OSG: UATrHWMVM1kuVCNTfo01WAecFeAcLtcqQC.0hdNXuE6OLZ5hllh9zB4uPbcFsg1
+ 03EK.uLjRvA1mPgGczIyncAeTcQQT1Lk_RT7ITk96mmMMlkdrJ7sB80AXDrnonKiIUQCImRWO75w
+ vH9uKBn7BvTvErkCM.iJ.JSeFsqWN3ERteep2pPNKzgaOjTfOunzTWU1hN4bTTiKEQO4JE6UkcTO
+ XOj6ybZzznRYVYyEYMjFTx2uBJ01JvLx4rBLFiS0Xkj9SK2dRFXdpOgVleObGjs7XHpk5CY6k65p
+ F98HmK2hQwY_G8L061mRSnDYTAFRxny_.JB7doftRtW1wImmgJaT7tL4go4S97Do1RcC6g9aR5em
+ kiyM0BzvrPz.IIPP_Ix2ip1HQSLbE8NiZJv4kgznn1wqVKNAoNr8oLm72raXYmOp6gCmzAPbJOxC
+ xb.nDpo8V5GZi_MvhE2eppA.ybyCtGf6jvkDOggRNmW6vJMZzTVYnPAwARs1aDpDyrATkQt6t6ZL
+ oxYocw_JIPGH_dvADjeCcl2NzzKW.7A.S6VQm2RQtjqLrPi5D8p0MTHFnku1w6eF6FfZHUxkY4bw
+ NzEVq.TT9.AouApIFYH0.KoWosSUFmGLwPgxzMK_cZGmQ1t9Uo.gce1FdFto9rNlFnwM0zDKnwqa
+ XsmpFXtrkKUbla.qVrhrSW23WKrQ2ClC82xLjmZmrwjVfabl.6sU4boxfUIcN6BDYbD5VsXjV5G8
+ 6hvpWLPCvt5dD_OTylxpmUro1U4UMQ9DSQ6bIABQjS2XwTnzi_UTWT9a5E1zTW.azKpp0mZrihsE
+ yoQRcyenDcs0qH1ZoRuDQcOoo8sWbY2FjJDtZojMl_KhBo756_HDzvROrA6cL6eqn6p_vB40pFj4
+ crnT0IX05xWZ2qrsgebMAzECa4Q10RUfANE1g6KJEBpALF4gLgvIduky0nGsyafWZzuMRorayEYd
+ KH0mOX6h3b_dtXmCd4cf5tgjq9IsaSXJHZwHQ66QEx6MOq8fk0j15IRucS.QFugfRfjzur131rFy
+ mhaIxqka7OY1oUXvnKF39Q6bM.WRtReDQb1fLqt2vIS1DApq7BVVpLUJdNaDuGrp9rWNF4wFPln7
+ yjJ3F_JEu0yPa20.ZDAbvQT1.T8b2H3uqI1WryufcecSln98QfJZeVemAY5_ay0OBhd0bjjFmdnu
+ ap8TvI6xp7q_ODdFLdfxoEYB6d9StBb9hCXndWwwCVn6joabAnGXAzBoreYf42EWPhEAIgrGWala
+ XWHmLgiH9HKiKjRdLzgjVNf7x_G6gpoOX5zRAi2VEo4BTDQk3bGJpl.H0LgLubXh8arwf80uSuf4
+ XreBc.WPH4c5kZq4LLUoow5cBhMFJEzoRUQZ.LMtqywQOdNZb41zi2kZmOoo1mqumW_A0LcnCc0j
+ iXzBxQwJQrYrcJmiCvALbiiF96c3gi.znNmLLImwGf6qkZGi2ts6U47l99kxDpX_Nf.icsO9IdxM
+ lxn7VGhLHfSYF5zMULDt.0LVBE1Q4pNIej90Eg7lZJSqqCAe6zn2skWJvgNLincAS4hd5p.hhmBv
+ T_M9ILFXbOTrY2westMcwZ5Tw4CI8FMETH83jq4UASnf0AApyC7tCjIw_huFAjnKah_IFjR6f1Fu
+ tZuqKuLqV9NQcGIR4rIPHMVnOVqY7bOZt1Iik_LyMs7TGrPrGN6yzSDlZVYD7hsvI.D.7UNudO0D
+ 0WWpbkEDbeGKTiJnIk8RmlOQ3FZSJ8.4ggJHBpclSBxRpgAi6P9TL_0fkfRMHiZ5AajZmECvWwmr
+ iQh54uFkQWDLsXcg_FuRZnXs3f1AZ7lKZIF7460AoezCecpz2aFkFaocLtcfxG3oPQVs9fDwk96a
+ ZuaXR3XbqkWgnS70GfwlaN7fJm_eRSYIkedzHbarufX3ddbZecNDR6mZAWhoC5qqc.tCwbOs9rV3
+ k.midAuJIDqBYMt2cOVS5sNeH8lDGt_NR.g188y3wkgVtAiN7ISeWsyF7KqED7wwz7O03DstZ3w9
+ unAC46q6p_wAfM6Z0r9uFdfJfn4OYwgooyb9nfnOcZGHBUoDEOGrHUxniiRSB_DwORw5nOYSQR0x
+ acJegBXNuzackJeb12CFFrqiClJCCzEmd.Tmbxs1D1NggRHlkGjKmIXLgIFPvju22FvC7XTHoycJ
+ .IBD7tRJ.z.7rtXfeH4pzTX3yCFjiqn4eJdyGiWwVL7Bc14G2rar5ZWDMCinimydULlW9Hqc849h
+ CfTc8vcZ4w9pBarG1k7bkhEIjm_YsHhVLdWKJw4EpbDWyHtIAvjVOVBOblKUm_rmxJCtbhR_up5V
+ kDJfrO16CR5Xlrh9kL3Cliqt1kH7qqxDStkApzIGcFzr7AL3s00hUdtbXedbs4t.nPH.MJQTR0Lj
+ L7wBqoEJNJmFROqVT.i4U
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic306.consmr.mail.bf2.yahoo.com with HTTP; Tue, 5 Jul 2022 20:57:04 +0000
+Received: by hermes--production-gq1-56bb98dbc7-gzlsn (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID dc18879ab64c815620e048a2d770d91b;
+          Tue, 05 Jul 2022 20:55:02 +0000 (UTC)
+Message-ID: <243cd2e3-1bb9-573a-7b66-bee07cc71e39@yahoo.com>
+Date: Tue, 5 Jul 2022 15:54:42 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Content-Language: en-US
+To: Sec News <webmaster@sec.gov>, texas@sec.gov,
+ "shareholderproposals@sec.gov" <shareholderproposals@sec.gov>,
+ Secretarys-Office@sec.gov, Rule-Comments <rule-comments@sec.gov>,
+ "publicinfo@sec.gov" <publicinfo@sec.gov>, philadelphia@sec.gov,
+ "Pamela Gibbs [SEC]" <OMWI@sec.gov>, Ombudsman <Ombudsman@sec.gov>,
+ "Carl Hoecker [SEC]" <OIG@sec.gov>, "oca@sec.gov" <oca@sec.gov>,
+ NYROBankruptcy@SEC.GOV, "newyork@sec.gov" <newyork@sec.gov>,
+ "losangeles@sec.gov" <losangeles@sec.gov>,
+ IMshareholderproposals <IMShareholderProposals@sec.gov>, foiapa@sec.gov,
+ "dfw@sec.gov" <dfw@sec.gov>, denver@sec.gov,
+ "dcaoletters@sec.gov" <dcaoletters@sec.gov>, cshugg@usinfosec.com,
+ "CHICAGO@SEC.GOV" <CHICAGO@SEC.GOV>, LORI SCHOCK <CHAIR@SEC.GOV>,
+ "boston@sec.gov" <boston@sec.gov>, atlanta@sec.gov
+Cc: KATHY HOCHUL <governor.hochul@exec.ny.gov>,
+ +1-347-880-1899 <+13478801899@tmomail.net>,
+ "administration@mskyline.com" <ADMINISTRATION@MSKYLINE.COM>,
+ "administrator@mskyline.com" <administrator@mskyline.com>,
+ "AREYNOSO@mskyline.com" <AREYNOSO@mskyline.com>,
+ "askLaurie@mskyline.com" <askLaurie@mskyline.com>, cbloom@mskyline.com,
+ "DZUCKER@MSKYLINE.COM" <DZUCKER@MSKYLINE.COM>, EDevine@mskyline.com,
+ "jgiamboi@mskyline.com" <jgiamboi@mskyline.com>,
+ "joseph.giamboi@brooklaw.edu" <joseph.giamboi@brooklaw.edu>,
+ "LBRITTON@MSKYLINE.COM" <LBRITTON@MSKYLINE.COM>,
+ "leftbank@mskylinerentals.com" <leftbank@mskylinerentals.com>,
+ Paul Regan <legal@mskyline.com>,
+ "legalasst@mskyline.com" <legalasst@mskyline.com>,
+ "lzucker@mskyline.com" <lzucker@mskyline.com>,
+ "MGMTADMIN@mskyline.com" <MGMTADMIN@mskyline.com>, MVredjian@mskyline.com,
+ "pregan@mskyline.com" <PREGAN@MSKYLINE.COM>,
+ "slaskowitz@mskyline.com" <slaskowitz@mskyline.com>,
+ SHIKENA MELTON <smelton@mskyline.com>, SULLIVANMEWS@MSKYLINERENTALS.COM,
+ "Super@sullivanmews.com" <Super@sullivanmews.com>, TEschmann@mskyline.com,
+ +15163224896@tmomail.net,
+ "FILER 400842/2020 isaac@shermantax.com" <isaac@shermantax.com>,
+ Stephen O'Connell <sgo2107@columbia.edu>,
+ Amber Griffiths <ag2943@columbia.edu>, Marlyn Delva <mmt22@columbia.edu>,
+ "Alan J. Morrison" <ajm157@columbia.edu>,
+ "wmckenzi@nycourts.gov" <wmckenzi@nycourts.gov>,
+ "JLewis@ap.org" <JLewis@ap.org>, "Sara E. Ede" <see2119@columbia.edu>,
+ jac2381@columbia.edu, Dean's Discipline - SCCS <conduct-admin@columbia.edu>,
+ Gmas Rrpanda Newsletters <newsletters@gmas.rrpanda.com>,
+ "dmf2189@columbia.edu" <dmf2189@columbia.edu>,
+ FundLegalGroup@cohenandsteers.com, "ajbrandon@gmail.com"
+ <ajbrandon@gmail.com>, cweiss@ingramllp.com
+From: B D2022 <ms60710444266@yahoo.com>
+Subject: TO OBTAIN A LOAN FOR $6 MILLION DOLLARS. - filed all these paper in
+ NYSCEF 153974/2020
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+References: <243cd2e3-1bb9-573a-7b66-bee07cc71e39.ref@yahoo.com>
+X-Mailer: WebService/1.1.20381 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+X-TM-AS-GCONF: 00
+
+[EX-99.906 July 28, 
+2021](https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dex99906cert.htm)<br>
+
+*LOAN 50074: BY STATE FARM LIFE INSURANCE COMPANY, USING*
+
+USC TITLE 18.21 PAPER FILED WITH NY DEPT OF FINANCE TO OBTAIN A LOAN FOR 
+$6 MILLION DOLLARS.
+
+![STATE FARM LIFE INSURANCE 
+COMPANY](https://user-images.githubusercontent.com/108204659/177411515-264da7b1-520a-4b7e-85d7-c6f343a7376c.jpeg)
+
+FIRST DEPOSITED AT HSBC, THEN ACCRUED "IMAGINARY INTEREST" AS 
+REPRESENTED IN DOCKET 166 AT JP MORGAN CHASE BANK.
+
+[STATE FARM LIFE INSURANCE 
+COMPANY](https://support.nysba.org/attachments/token/JNeqX20uxvlUxfbayL8icO5St/?name=STATE+FARM+LIFE+INSURANCE+COMPANY.pdf)<br>
+*** KNOWN BY THE COUNSELORS OF SULLIVAN PROPERTIES AND THEIR DIRECTORS 
+AT ALL TIMES<br>
+
+[DOCKET 231 - FILED IN NYSCEF 153974/2020 - NO CERTIFICATE OF 
+OCCUPANCY](https://support.nysba.org/attachments/token/m8RR4kteVdSgzAUsbXjeoDnob/?name=image1.jpeg)<br>
+
+[NOVEMBER 13, 2021 - 
+FILED](https://support.nysba.org/attachments/token/Aq8vF6zkeCYuYnWePFJkmi5qG/?name=image0.jpeg)<br>
+
+[NOVEMBER 16, 2021 - DISTRIBUTED TO THE 
+PROMOTERS](https://support.nysba.org/attachments/token/o7O8bBiFfRMTeMeuGluhfIGBf/?name=image2.jpeg)<br>
+
+*** KNOWN BY THE COUNSELORS OF SULLIVAN PROPERTIES AND THEIR DIRECTORS, 
+NOTWITHSTANDING THOSE IN THE DECEMBER 22, 2021 THREAD<br>
+
+[HSBC BANK WAS INTENTIONALLY PLACED IN THE DESCRIPTION OF 
+SC-50-FILED](https://support.nysba.org/attachments/token/va080yaYma2dE2KCL3o9IJIrp/?name=SC-50-CIV-2021-12.pdf)<br>
+
+[DECEMBER 22, 
+2021](https://support.nysba.org/attachments/token/gk7udZhtzjOxaUuU136DXKD8d/?name=image0.jpeg)<br>
+
+*re: video.mov distribution and obstruction of justice.<br>**
+**under 18 U.S. Code § 1512 - Tampering with a witness, victim, or an 
+informant<br>**
+*[FILED: NEW YORK COUNTY CLERK 06/05/2020 01:58 PM INDEX NO. 
+153974/2020](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Dh6CccrtpsxJlvBthb8nEA==)<br>
+tel: 510-682-9510<br>
+email: legal@mskyline.com<br>
+email: legalasst@mskyline.com<br>
+email: ajbrandon@gmail.com<br>
+email: smelton@mskyline.com<br>
+email: JGiamboi@mskyline.com<br>
+email: LZucker@mskyline.com<br>
+email: CWeiss@ingramllp.com<br>
+email: administrator@mskyline.com<br>
+email: slaskowitz@ingramllp.com<br>
+tel: 212-907-9600<br>
+
+
+
+– I HOPE YOU UNDERSTAND WHERE THIS ALSO PRESENTS A CONFLICT, AS HE 
+BELIEVES THIS TO BE TRUE.
+1_u.s._v._brian_benjamin_indictment (1).pdf
+
+     NYSCEF MATTER 153974/2020
+     - SHARED ADDRESS WITH THE WILSON ELSER LAW FIRM, BELOW.
+
+     Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
+
+     150 East 42nd Street 19th Floor, New York, NY 10017 Filed: 07/21/2020
+
+
+
+— Kings County— CLEARED.
+
+ > Hon. Nancy T. Sunshine, Kings County Clerk and Clerk of the Supreme Court
+ >
+ > 
+<https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=HD6/wXvlOxflJUlQyXqedQ==>
+ >
+ >     case number: 400842/2020
+*>     Filed: 09/23/2020*
+ >
+ > *** KINGS COUNTY ***
+ >
+ > Zucker Enterprises LLC
+ >
+ >             - v. -
+ >
+ > THE TAX COMMISSION OF THE CITY OF NEW YORK, AND
+ > THE COMMISSIONER OF FINANCE OF THE CITY OF NEW YORK
+
+
+
+[NOTARIZED on May 11 2020 --- STATE FARM LIFE INSURANCE 
+COMPANY](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/9048948/Fw.NOTARIZED.on.May.11.2020.STATE.FARM.TRUST.FUND.---.58-58.INDENTUR.HQ.1212-58-58.pdf)<br>
+*** FILE A<br>
+[05-10-2022 - 117 sullivan st - Property and Tax 
+Assessment](https://support.nysba.org/attachments/token/54cKo6I0bcg6Zm3XZCRKEajWx/?name=05-10-2022+-+117+sullivan+street+Property+Assessment+%5B+taxable+%5D.pdf)<br>
+*** FILE B<br>
+[1.6662-2 Accuracy-related penalty- UNDISLOSED LOAN and LEGAL 
+MATTERS](https://support.nysba.org/attachments/token/mzP7EuwSKQe8XpUoBxV9faHS3/?name=1.6662-2+Accuracy-related+penalty+--+UNDISLOSED+LOAN+AND+LEGAL+MATTERSS.html)<br>
+*** FILE C<br>
+[document index 
+TCR5](https://support.nysba.org/attachments/token/QbsG15WuYgWMsWxvAGkh1glW7/?name=document+index+TCR5.pdf)<br>
+*** FILE D<br>
+[Vacancy-Receipts](https://support.nysba.org/attachments/token/aTk5HhjOqD2LtxfEflB08djVk/?name=Vacancy-Receipts.pdf)<br>
+*** FILE E<br>
+[20MM over 10YRS - Gross negligence - 
+FED30](https://support.nysba.org/attachments/token/8ZFY4EZW6nxemJZIs4tjaiFEP/?name=20MM+over+10YRS.pdf)<br>
+*** FILE F<br>
+[FraudInvocation-Receipts](https://support.nysba.org/attachments/token/unEAUOR5vBsdF9oo30QxFo0sR/?name=FraudInvocation-Receipt.pdf)<br>
+*** FILE G<br>
+[NOTICE TO SECURITIES AND EXCHANGE - NOVEMBER 13TH 
+2021](https://support.nysba.org/attachments/token/sWoZTvp3jCzQBDpiHj8pRGrhV/?name=NOTICE+TO+SECURITIES+AND+EXCHANGE+-+NOVEMBER+13TH+2021.png)<br>
+*** FILE H<br>
+[MOV FILES DISTRIBUTED - LVL 
+8](https://support.nysba.org/attachments/token/giXwD6OAvfSWDEcZAlsvDynLg/?name=MOV+FILES+DISTRIBUTED+-+LVL+8.html)<br>
+*** FILE I<br>
+[NOTICE TO AUDITORS - ELECTRONIC read 
+receipts](https://support.nysba.org/attachments/token/FIcMKoTxCbgd6qF7QbC7WF4CN/?name=NOTICE+TO+AUDITORS+-+ELECTRONICALLY+DISTRIBUTED..html)<br>
+*** FILE J<br>
+[111 REAR SULLIVAN ST - CERTIFICATE OF OCCUPANCY - BIN CODE 
+1077252](https://support.nysba.org/attachments/token/8o9gRnWwvw6J4bW5mRgkEiEtq/?name=1645673230096blob.jpg)<br>
+*** FILE K<br>
+[111 REAR SULLIVAN STREET - NO C of O - BIN CODE 
+1077252](https://p19.zdusercontent.com/attachment/2434074/8o9gRnWwvw6J4bW5mRgkEiEtq?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..0p1xbbqUdu2AmX3BNS2E5Q.dBojSZIl27-IvjHLY1jd6Ica5uOMITZTTtanb7qqJEp3iE82saU7b4L5NDAGrFZUVB73oLsfcZV2PTChVIUlvWjgKVmzn65nYqxxO82HB1HfVXA8fQLiSXDu9lMHuhhYE7xLneZPKFbB7mc08l0iDNybPwlqONj-ZawqePx3feuEEDNyjoUpBeq6GKdzUG_-Bqk5R8rphdtbY4SUPLquTxejFAXx3cbkVp1Bjb9A0jhzapV_UN2wrDkVvjA3J6KXwsQkqV6QKLhgRLwXd2y0XOiFEZ2XtRDBFTOmmM7iRLQ.e5fmGdFyGLOUE0ZiV22p3w)<br>
+*** FILE L<br>
+[DOCUMENT CCF_000031 - AUGUST 8TH, 
+2020](https://support.nysba.org/attachments/token/byr918DAb8DI3kBkB0lwyxeTH/?name=CCF_000031.pdf)<br><br>
+*** FILE M<br>
+[2022.02.23 
+USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM](https://support.nysba.org/attachments/token/nq18wovfJMwvK4Wk7KL4nfgqi/?name=2022.02.23+USPS_DEMAND_LETTER_PROOF_OF_DELIVERY_CONFIRM.pdf)<br>
+
+-------- Forwarded Message --------
+Subject:     Voicemail from Mr. PAUL regan
+Date:     Sun, 26 Jun 2022 16:51:47 -0400
+From:     BO DINCER <bondstrt007@gmail.com>
+To:     REDACTED, teschmann@mskyline.com, Joseph Giamboi, ESQ 
+<joseph.giamboi@brooklaw.edu>, LZUCKER@mskyline.com, 
+sgo2107@columbia.edu, letters@nypost.com, Laskowitz, Shari 
+<slaskowitz@ingramllp.com>, dallas-reserve-mgmt@dal.frb.org, REDACTED, 
+praghuram2@bloomberg.net, PRIYA.RAGHURAM@MORGANSTANLEY.COM 
+<PRIYA.RAGHURAM@morganstanley.com>, JAMES GORMAN [MORGAN STANLEY] 
+<james.gorman@morganstanley.com>, Dow Jones 
+<wsjprosupport@dowjones.com>, REDACTED, Paul Regan <LEGAL@mskyline.com>, 
+LEGALASST@mskyline.com, MSKYLINE <anne@thehighlandpartners.com>, 
+cweiss@ingramllp.com, info@statefarm.com, State Farm 
+<mutualfunds@statefarm.com>, David Moore 
+<david.moore.ct95@statefarm.com>, REDACTED, Scott Holcomb 
+<scott@holcombward.com>, REDACTED
+CC:     KATHY HOCHUL <governor.hochul@exec.ny.gov>, BBO 121 
+<ms60710444266@yahoo.com>, MIT Sloan Executive Education 
+<executive_education@mailsvc.sloan.mit.edu>, REDACTED, NYSCEF PROCESS HD 
+<oca_hd_processor@nycourts.gov>, The New York Times <help@nytimes.com>, 
+administration@mskyline.com, MANHATTAN SKYLINE, LLC. 
+<ADMINISTRATOR@mskyline.com>
+
+
+I am terrified, where is he ? Touching himself or making videos with my 
+Glamour shots.
+
+Thats actually a compound, in the scope of avoidance to prosecution.
+another internet issue - 39th street and 4th avenue in brooklyn, NY [ 
+see also 1608 EST] TRANSMISSION.
+
+*LOAN 50074: BY STATE FARM LIFE INSURANCE COMPANY, USING THE USC 18.21 
+PAPER FILED WITH NY DEPT OF FINANCE TO OBTAIN A LOAN FOR $6 MILLION 
+DOLLARS.*
+![STATE FARM LIFE INSURANCE 
+COMPANY](https://user-images.githubusercontent.com/108204659/177411515-264da7b1-520a-4b7e-85d7-c6f343a7376c.jpeg)
+
+<br>BIN: 1077252    Block: 503    Lot: 8
+[THERE ARE NO CERTIFICATES OF OCCUPANCY ON FILE FOR THIS 
+ADDRESS](https://a810-bisweb.nyc.gov/bisweb/COsByLocationServlet?requestid=3&allbin=1077252)
+
+Paul Smith, 2010-Present<br>
+— STATE FARM LIFE INSURANCE COMPANY<br>
+You know exactly who executed those CERTIFICATES and INCOME YEAR AFTER 
+YEAR <br>
+and in the semi annual holdings for the public investors of State Farm. 
+<br><br>
+<br><br>  OBSTRUCTED JUSTICE, AND CAUSED FOR THESE OMISSIONS AND 
+MISLEADING STATEMENTS BY CIK FILER 93715, AND CIK FILER 1516523
+EX-99.CERT July 28, 2021<br><br>
+CERTIFICATION. Pursuant to the Investment Company Act of 1940 (as 
+defined in Rule 30a-3(c) and internal control over financial reporting 
+(as defined in Rule 30a-3(d))<br>
+[EX-99.CERT July 28, 
+2021](https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dex99cert.htm)<br><br>
+
+CERTIFICATION, Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002<br>
+(Subsections (a) and (b) of Section 1350, Chapter 63 of Title 18 <br>
+[EX-99.906 July 28, 
+2021](https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dex99906cert.htm)<br>
+
+"... as applicable, of the Securities Exchange Act of 1934...<br>
+"... The information contained in the Report fairly presents, in all 
+material respects, the financial condition and results of operations of 
+the registrant." <br><br>
+
+/s/ Joe R. Monk Jr.<br>
+/s/ Paul J. Smith<br>
+
+-- THEY WILL VERIFY AS I AM CERTAIN MY NAME IS 'KNOWN' in the *PRIOR*
+
+
+my concern is not only what happens to my rent and security deposit 
+being held on deposit illegally at JP Morgan Chase Bank, but how many 
+other Loans does State Farm have that are undisclosed, notwithstanding 
+the legal matter <br>
+
+
+of NYSCEF 153974_2020.<br>
+--- SECURITY DEPOSIT(S) ARE HELD IN CUSTODY <br>
+AT JP MORGAN CHASE BANK, N/A<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R9aac7D6DBJZ1wsiq0b38A==<br>
+
+SULLIVAN PROPERTIES LP 101 WEST 55TH STREET, NEW YORK NY 10019 DOES NOT 
+HAVE A CERTIFICATE OF OCCUPANCY 111 SULLIVAN STREET, 113 SULLIVAN STREET 
+OR 115 SULLIVAN STREET 
+(REAR)<br>https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==<br>
+
+THERE WERE NO CERTIFICATES OF OCCUPANCY ON FILE FOR MY APARTMENT. 111 
+REAR SULLIVAN STREET NEW YORK NY 10012 AT ANY POINT IN TIME<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IJ47OvVzsLObNsXt0u8trg==<br>
+
+2020-08-04 111 SULLIVAN STREET [ REAR ]<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zXega0sLahw5fVuBTVtpnw==<br>
+
+111 REAR SULLIVAN STREET LEGAL ADULT USE: NO<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9zQd7Hu3cy9vp6I960WGNQ==<br>
+
+Additionally… RENT PAYMENTS 2020_07_25 -HAVE NOT BEEN REFUNDED AS OF 
+CURRENT.<br>
+NOTWITHSTANDING MY DEMANDS, A DEFAULT or " NON-JOINDER " IN THE MATTER 
+OF 153974/2020<br>
+MY SECURITY DEPOSIT ALSO WAS NOT RETURNED AND THE GREATER AMOUNTS OF 
+RENTS AND SECURITY ARE<br>
+"presented to State Farm" as lawful RENT PAYMENT(S) <br>
+- HELD IN CUSTODY AT JP MORGAN CHASE, N/A <br><br><br>
+and the YoY return on all six properties is conveniently double-digits 
+THE INITIAL FINANCING / MORTGAGE TO PURCHASE THE PROPERTIES IN QUESTION 
+WERE FROM JP MORGAN CHASE IN 1989.
+
+<br> Continuing Financial Crimes 18.225
+<br> 18.215 is filed as payments received by the directors of State Farm.
+<br> TCR5 Index Attached.
+<br> USC 18.215 and 18.225 VIOLATED.
+<br>Loan 50074 EST ++
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1000000324600
+<br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1350000324035
+<br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1350000324035
+<br>
+THE LOAN DOCKETS AND TAX RECEIPTS WERE ANNEXED IN THE MATTER OF 
+153974/2020. —-THE ACCOUNT ADDRESS:
+FOR THE ENTITIES BELOW IS, to the best of my knowledge..
+<br>
+101 WEST 55TH STREET, NEW YORK, NY, 10019
+<br>
+OR
+<br>
+103 WEST 55TH STREET, NEW YORK, NY, 10019
+<br>
+UNDER THE CORPORATE NAMES, OR INDIVIDUALS
+<br>
+[ DONALD ZUCKER, LAURIE ZUCKER, ANDRES REYNOSO, OR ONE OF THEIR OTHER 
+DIRECTORS UNDER THESE ENTITIES ]
+<br>SULLIVAN PROPERTIES LP
+<br>SULLIVAN GP LLC
+<br>MANHATTAN SKYLINE MANAGEMENT CORP.
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mjxo9_PLUS_FdCN/p2Jrgw4MkIQ==
+
+--TMMSG_401D599F_12C0_916B_3446_80B3299DAF45--
+

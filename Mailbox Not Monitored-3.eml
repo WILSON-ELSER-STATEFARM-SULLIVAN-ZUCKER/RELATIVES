@@ -1,0 +1,619 @@
+From - Sat Jun 25 23:26:22 2022
+X-Account-Key: account1
+X-UIDL: AFdTTqBNQ7vYYrfe7gmg2FQjZrk
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.34.76
+ by atlas321.free.mail.bf1.yahoo.com with HTTPS; Sun, 26 Jun 2022 04:22:06 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas321.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=NONE) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 26 Jun 2022 04:22:06 +0000
+X-YMailAVSC: 47toOkA3bBvElVNxe_DV6dTCUXsChxAZirns2wg.zFQ6ky6
+ _AaWiRoZHMSL8FrNVOOtndP2g2jXpXEeL_klQYfkk_nToShrX1q50ZFj1qjy
+ hYlGzbux9rcDqRGOxszK9W4YjY3FgLTFBHEtxjIArbQ3Q__qEo6zaIr_b0sF
+ rDFiZ0.JAjAErrHNSwgZGcMAfjIrUJ9A_MGIlAUOUBAS47XDPGLv70PaVttO
+ ZBDGev5bCZnolg5FF3FF.Z2.mNNCsvStLnp31pJna15gXTFPTJwksURszQ_4
+ tPtEFSVtLgZFufyiZ02U_OSoTf8DmM.4KogGgp1SYYRvp3XqRabgBNQw-
+X-YMailISG: TB5CbokWLDsHo6VMNfw.tD9sGr3K5vxC5Qz6tWZgXEzqSk1e
+ H7hDTiIqhujMkL8arE0qJc1P2zs7L3HO_8rz_uNwyKuxCSsq8WfJBgVExyHo
+ XtVz8kX0jaLKZKtQUmtVq_rTNd.5qs.1IEy8lf2UI5xMIN0j2WpRTaO5Ibqu
+ NqA_9VX4SVj7j58eU4QoSWvPiSXa3sPri55rF6D9N1wWZ_kF60qQmBrApj7l
+ yO.V1cg8Gbe6qInWGlz_Xxp4VDYurMbcPm1Wzcn2V5vYpX1ZrY4oPPViJcAP
+ nHMQdlOsJUquX5M1Z156DZCiDUBKIXOb7AeowZbAmwb4vZPoJ91BlQhdEtVF
+ ZP2RfBJEEHElhNSeK.PmwMZ5kFh_5zhmCrAbz9rkgFGQZIU_3MXnLLckmZtt
+ c0A57NCqACHHkzTN41uVx1CiP7fgqj1ZW9LM8mvvrHB.YkMJAEgMfFE35i.z
+ EUHGYonA94K.8Hp9kpnXLGdJw3BKS.4lJoOwlXOHECTQ.Whvw8P7n455dY8J
+ 1SQfe7kn9zGryAl.QymN0zHhfORUI.EVmRZaoQuWPd9s2LMBi7zCvoUeiNKw
+ Hu4UoYLyTeaZcznp4xH6VUhL3U.rVDrre4AwMgLcpVm3_Xbj70lHmUsa62HD
+ BBFA28mcpfjiQSCkA811nQ_ro6wGIIQtMvWEsO8_e1OKQc4drxE8d1oQB_VE
+ CLFK9dAGLYW.lcK70ftSVEhbC4qZZxQfzNw.KqdDASTDhn9vTrWRdWXMhhrr
+ JCSHFO6E4L2NxPYDBPDbzNoaXd3c2nOLqZjP5qxLztnwtbc_dNIxQdNnc7O0
+ ozYrayjXDSwu0YIcF3PAs5pB1Y1bhSAvsGSAYBizNtwG8EIyQFYOZz8.FeJ2
+ G19TSnYdEfMmkNHUIcOfx7DM1xYuSISW24jVB1iduXlGcwiDyrwjJ4sGZemr
+ R3xgOKMRsfnNvWUDmyT45CjKaXGNxJVZ1hFH0NNyvH9IZe5j6LGFAGtYcE2i
+ xlimk3TORGP9ifPS
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.197.34.76 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 26 Jun 2022 04:22:06 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id C25EAD2063
+	for <ms60710444266@yahoo.com>; Sun, 26 Jun 2022 00:22:05 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_AB25466F_CC8C_51AE_5C79_4FAA3003E498"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Sun, 26 Jun 2022 00:22:03 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26978.004
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26978.004
+X-TMASE-Result: 10--25.095500-10.000000
+X-TMASE-MatchedRID: mFLWMtmDO5cqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEbOK8uskIIKb8Jb881FGn9kDCuctU+8eXr42hLbi424Dkxr
+	3kgeRkMLfwP2OyZ6h1Cp59TXywXPjRLfpeBXUOoWz8d6zvo5NkE0MlClA6FSdmLfodnG8eIAgaL
+	pFHReHnAy1wcLa+HpH5FqgsECEeK2wrm/bgX+vIihvVjkRcuKhVnGcVisY4MCRXAGXQmKgrore5
+	xUTEbm3D0yfeIi020o4dT0iIQO3Elq/w+Qp55pkMKPrF7dK57P5l86f7fa+sBQZzv8cwfBdQGQ8
+	GYi3tDqkofeMpaH1d1SM0OUpsLoXEHXP/31yVko3vTBeEjQNfmJ42+eEOm5we/YTzDNgvg+YKAO
+	rQkea+ZyAf4gA87+vzrpaXzYJMSVrfKvct3eF2ebfFBoHp0McFKTA9KGkNRgzxbSLvXgsmYl8SD
+	Z15u5VrSpsBjWEsHMfh2NuiaxrShgyyy3VlqH8rNKxm3nhqPtm+fwb+uIma0KdxKSI6wp6HvyvY
+	Sq8r1rU824hvv3NzLrrTqzIP1wWSm7t0q9AWUm5x7uAXGEprRT+tsOINhqjJU3xl15PpfMUMvhs
+	4v0HfuCvRZnq77KlcuPL7ilovsl0AdYYTJWxRM5sKZgBbe5FzXSMktsIsW7dUI9vKhSdUp6ba/D
+	5x6cp4vM1YF6AJbbqChA6lSRJvtLvsKjhs0ldQsRomdfoia+8JoDORLwEe7LxL/fIrGCi/4rWvp
+	j9UcgD/dHyT/Xh7Q==
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220626042205.C25EAD2063@mail4.chamber.state.ny.us>
+Content-Length: 25849
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_AB25466F_CC8C_51AE_5C79_4FAA3003E498
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_AB25466F_CC8C_51AE_5C79_4FAA3003E498
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id F2442D2063
+	for <governor.hochul@exec.ny.gov>; Sun, 26 Jun 2022 00:22:02 -0400 (EDT)
+Received: from sonic310-44.consmr.mail.bf2.yahoo.com (sonic310-44.consmr.mail.bf2.yahoo.com [74.6.135.218])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Sun, 26 Jun 2022 00:22:02 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656217322; bh=/yCRQCdd0zu8N942zaRw6NJbyYiMtFeYEdGW0S8TiQU=; h=Date:Subject:References:To:From:In-Reply-To:From:Subject:Reply-To; b=fD7VWPXeN5l0vWjRB9h6TkDjw453MW2woThYile7oct1vqXLAbZ2o5CcvV0Cu03K/s5txUKYtPyAGiTO0mJCr+dUgi554DSwUjBcXnyls4c6X8CAd45d5F68KOSEDYmaxABOq1rkJtjaxU6I2XdZjHw5qjSSKscqbCovWGBweWEi8j6yK0L2NdxdGI1D8dKy2l8MDHucLnL1Hb+NCrSAxx7/n5kp0M08jMHYhtRBKenEazCuz+l/20NkQAA4GmagR4qr8Ob3AZSzQgDK+l70dRGJWnT1py43GZAsmfBzdj/RVg0vOTmmWwOzmiLp69g1FlzNWqA0Ur6SphG2OL/f9w==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656217322; bh=jSfiyvjZD92HSWsPwvvPGlxiWcifQnZuVIZmJfHHoGS=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=kpwSkXQAj1OIWIU4Hzvm1cwxX5VDe0NryS6rvboddHJYhZzu0duIZTV5ywM9Nt+IQ5GUuZkTPuEWOzZc7O7MbsifAGROHqfmuiDlagdby7f7JbluWpEXksq6sThhc+zoQDZRh7walGmymxmzKOYwmlI2SNfUjQ6Elp2deh1I/XNQtT6BHysMaC1UwKewm77QeHfsqGDZK9X24R/Yawk/G88eIriIbOnPdyhR/cr79tNbFmi5bbTycshyofqqEPecnA6bn/HZgo8TOkvXU8LS3hLwkjQBVO4rP0SMfP5fOKhZQTzhFkUboZRfh45Dssk7KegAdUeDGEj/6pOIe1+FkQ==
+X-YMail-OSG: xjPi1.EVM1kbP3.80OXCzFXpiOZ1RyaOp3N2lapW7gbKCzEuJLDql2c5a493yIe
+ eXgNKWwoxMUehSVzJolbYaaRp2nKzk.YuxIWSjb3rjsCJkHPtXO6nIddYwtwpY66uzCR1Pc3RzZB
+ DjdEl_tiPv_hnlhP35t0j2emyBbw71k7UpWSGEW0KBZ76KPTNJHop_cdT_7Zu6GsmaR8tjT4OhOj
+ 6ahzVnUgw9P4YamA0JHyWizs1wZTKSdFuqGOOTEG1J2680RvkE8tqar7qQelPYcUjwhzJvKV1DVl
+ RgwV0fHx_XuqWbNtxaoCfZNUtEBIFLuKAeCdoPzxp9A9Uj4Ynfy4nh6CFR0yL3ZzM78715tbXHxE
+ YHISX392uP.3uq5Fzs_k1d23dvnBBX0C5ZgyJ6y6fxIz2SNZz3j2vUSiPjyKFWF0ucGFFWBBLRUu
+ GB9lHxOJkyfhuKx1qtUULqDj8adR6X7h4BxvUQRr8XsiE0EuYuwr4aOl08OUQnKX4ffMwsGdl3cT
+ EKSuBC3sjhV07ANU4aBdZ1kztdk87Tw4DHE84_EVoZCUxs.V6H.FrwqWhSAIquHIo5dDvlJhxtO7
+ _wrC2xNglbMU05G3W0Xljp8929cbqJoqJvTHbMhvY14uzPjuXu01VAS1g9C3_LjJLeGI4_CjkiK0
+ ezQaV4ZiWyTI_RpcPqdbstdDeytVGS6dIYY25wN6C6rw8jOBD7Sw01UzGm36oYyQrdkN9I96cDK8
+ JaqB4yBcYSdOEmA4v8KKL03nO.2xyGKrv405Ko9HxUrkqh1lt12EqxQInAWWkQBm6JHCGUYAqvRw
+ iH9YUIBFC3eHx88dtUh40uyc6Ijzzj7Qj3bHZ92FqtRZzJsr.nLhwgcphJN91wb9e.lZnLTjm.Tj
+ d846qjS1fYL9cEmbPULWXEYT.Yk4SaaldMOj0wakRVrzPjxFulkYUp_n9gp6mnxwL.07Zv5FEYDr
+ Imf0m3H1UZYgM26xICPyCzI.3hfK.q1C41gP4dsfYktrlvCD1LZigoyy3kXwCL51KpoDU5RI5ia6
+ l36Napxxzz.Q2lwiad3dlZsnjdAO7ZrHTl1t2O852bI3fzVCkx8yb7RMJ_26PpSMcZpmubxjQpTJ
+ XveuPFWxp5QFjuqc9xfukkonjlh__N5lSE_SjtyDbM8wsIV41aD9QqDIBfskX1vQ4qz8LrgHeIpQ
+ NA1HhvDeTj05BkEfe1lfUEWnJAvYqb9KtWE..W0VEcwACFZ9UIyG2X_Br8rvyywFwkdOn9ApN.Kd
+ dzAa7_gCjdTTYZ18GHzM7VPNduFLnmXiVbHCpA8FULYnvSh0E8j6vuX1KYQBZALd3l2rXhG8IngN
+ _gza0GolJ5nJTDduMsvYHNZZ6DNP591hja1zq1J_uY15lo6Tv0q53iNcHsC8RzHZkJRF8Z9T2.8R
+ 7CRS2XIUBa.bOUYwAUGrrr6Q86zfixgAhzhw4mZYfzHxsAHhSrEpTHmXGwb25lsxuWssyYdH4Ige
+ 7f_lcAzoqRyDu7XIzVulusREZ6Aeh5DL9dHUcizrwTjHPXrWpEG0elVTM3QDwGzElllgBKOqEvKj
+ 2LNWbn43bh46mrGGpuUl2Q82RyoZ8olRAikOC17ZF4MfCiJSJABJlcbykfIPdTuAJspubDkFlV3c
+ .29qVGcTBr_EuNlD0o7cBWTQrWN1qgJeJYmEFNnRyGrhevyFXd5wGKTXp5vABB71atPTKO0o2U1W
+ QaOtLbK7ft3Uyw7GpKxwX4Wol0UYgPR4CjbsdWW5FqKTG7nuNVkLZ5hNnShw.YNBMafrzoYntd.Y
+ ZsjoE0BDWTDc9VxyrFpjnejaNSXZrWu3l8u8BcjhgxRLt6BgF7M7rk2g2tH7bB7LAclDHDtx5L4R
+ C7mwBqnNzAO1PdjjpimXIihKPPRLQz63h9j5u08BvHG0Rpf8e8ixmdI4.huON54W6cu.rrCszIX6
+ bPiFsODeTZEp4_keSR6Q6EHnl2PjlpzfBtk2TwakDVE8BV9.njHkpOkaWhNOB9DbRov3iMlTDaXL
+ P9cOoBhahZG1ZqfZIC3hFmly2iV4K54sz1BZy3CmvW0qhAeS7o8SgJYjxW5NmCeZgquYkIpanYHg
+ STQOkUHJPTybNvm9pboSQpDkW2Y38u7uLyUDf59BrSae7zl.r8aZWJXMTPqNH9rS3pQmdLriwoIp
+ Oip.YoYwBSUX5b6IvrQAoX8XN4AW65YjXeuPXHFrSDzED.OnmLMjkEx6zyMQP10ecCqBuhrFq71A
+ 4NLbKjoFWmLiKsvs1ZIVQ9ESoTaYMMXlGca_1aiLEAfzEektHz0eyAyh5Wa0-
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic310.consmr.mail.bf2.yahoo.com with HTTP; Sun, 26 Jun 2022 04:22:02 +0000
+Received: by hermes--canary-production-gq1-677bd878b7-zgf57 (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID b1a37479b69a99c0661fbe2fea63b102;
+          Sun, 26 Jun 2022 04:19:59 +0000 (UTC)
+Message-ID: <709116f6-4950-f80f-7093-00b934c03a54@yahoo.com>
+Date: Sat, 25 Jun 2022 23:19:19 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: 264295: AFFIDAVITS NOTARIZED *** FDIC-01413744, LOCATION 1
+References: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/push/refs/heads/main/6b7ca0-264295@github.com>
+Content-Language: en-US
+X-Priority: 1 (Highest)
+To: Dean's Discipline - SCCS <conduct-admin@columbia.edu>,
+ Stephen O'Connell <sgo2107@columbia.edu>,
+ "slaskowitz@ingramllp.com" <slaskowitz@ingramllp.com>,
+ "lzucker@mskyline.com" <lzucker@mskyline.com>,
+ "administration@mskyline.com" <ADMINISTRATION@MSKYLINE.COM>,
+ Yana Siegel <yana.siegel@wilsonelser.com>,
+ WILLIAM BEHR <william.behr@wilsonelser.com>,
+ Urvashi Sinha <urvashi.sinha@wilsonelser.com>,
+ "Thomas R. Manisero" <thomas.manisero@wilsonelser.com>,
+ "Suzanne S. Swanson" <suzanne.swanson@wilsonelser.com>,
+ "Stephen J. Barrett" <stephen.barrett@wilsonelser.com>,
+ "Stacey L. Seltzer" <stacey.seltzer@wilsonelser.com>,
+ Sean Wagner <sean.wagner@wilsonelser.com>,
+ "Roger R. Gottilla" <roger.gottilla@wilsonelser.com>,
+ Ricki Roer <ricki.roer@wilsonelser.com>,
+ Ricki Roer <ricki.roer@wilsonanddicker.com>,
+ "ricki.raared@wilsonsdickers.com" <ricki.raared@wilsonsdickers.com>,
+ patricia.wik@wilsonelser.com, meghan.rigney@wilsonelser.com,
+ Lori Semlies <lori.semlies@wilsonelser.com>,
+ "Lois K. Ottombrino" <lois.ottombrino@wilsonelser.com>,
+ "Lauren M. Zink" <lauren.zink@wilsonelser.com>,
+ "Kathleen A. Mullins" <kathleen.mullins@wilsonelser.com>,
+ judy.selmeci@wilsonelser.com,
+ "Jennifer L. Sciales" <jennifer.sciales@wilsonelser.com>,
+ "Jennifer M. Provost" <jennifer.provost@wilsonelser.com>,
+ info@wilsonelser.com, Hannah.King@WILSONELSER.COM,
+ grace.song@wilsonelser.com, erin.zecca@wilsonelser.com,
+ ellyn.wilder@wilsonelser.com, elizabeth.scoditti@wilsonelser.com,
+ Debra Tama <debra.tama@wilsonelser.com>,
+ "Daniel F. Flores" <daniel.flores@wilsonelser.com>,
+ curt.schlom@wilsonelser.com, craig.hunter@wilsonelser.com,
+ craig.brinker@wilsonelser.com, Corrine Shea <corrine.shea@wilsonelser.com>,
+ carole.nimaroff@wilsonelser.com, aviva.stein@wilsonelser.com,
+ "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>,
+ Angelique Sabia-Candero <angelique.sabia-candero@wilsonelser.com>,
+ angel.vitiello@wilsonelser.com,
+ Andrea Shiffman <andrea.shiffman@wilsonelser.com>,
+ Amy Hanrahan <amy.hanrahan@wilsonelser.com>, alex.kress@wilsonelser.com,
+ Alan Rubin <alan.rubin@wilsonelser.com>
+From: B D2022 <ms60710444266@yahoo.com>
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+In-Reply-To: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/push/refs/heads/main/6b7ca0-264295@github.com>
+X-Forwarded-Message-Id: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/push/refs/heads/main/6b7ca0-264295@github.com>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Mailer: WebService/1.1.20280 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+X-TM-AS-GCONF: 00
+
+BOOKS & RECORDS -------------------------XXXXXXXXXX
+---------------------------------------------------
+LOCATION 1:                Lewisohn HALL, 4TH FLOOR.
+Street Address:            2970 Broadway
+                            New York, NY 10027
+
+---------------------------------------------------
+
+
+  READ RECEIPTS, BY AND BETWEEN ONLY 1 INDIVIDUAL CONFIRMS RELAY ||
+  LISTSERV || LISTS.
+
+
+  *USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974/2020
+  *
+
+
+  *[ LOAN 50074 ] VIA /DHS/CBP/*
+
+§2. - Principals (a) Whoever commits an offense against the United 
+States or aids, abets, counsels, commands, induces or procures its 
+commission, is punishable as a principal. (b) Whoever willfully causes 
+an act to be done which if directly performed by him or another would be 
+an offense against the United States, is punishable as a principal.
+
+§3. - Accessory after the fact Whoever, knowing that an offense against 
+the United States has been committed, receives, relieves, comforts or 
+assists the offender in order to hinder or prevent his apprehension, 
+trial or punishment, is an accessory after the fact. Except as otherwise 
+expressly provided by any Act of Congress, an accessory after the fact 
+shall be imprisoned not more than one-half the maximum term of 
+imprisonment or (notwithstanding section 3571) fined not more than 
+one-half the maximum fine prescribed for the punishment of the 
+principal, or both; or if the principal is punishable by life 
+imprisonment or death, the accessory shall be imprisoned not more than 
+15 years.
+
+§4. Misprision of felony Whoever, having knowledge of the actual 
+commission of a felony cognizable by a court of the United States, 
+conceals and does not as soon as possible make known the same to some 
+judge or other person in civil or military authority under the United 
+States, shall be fined under this title or imprisoned not more than 
+three years, or both.
+
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
+
+
+  LOCATION 2
+
+CHECK THE CONFIRMS AS WELL, FILED IN NYSCEF MATTER 153974/2020
+
+150 East 42nd Street, New York, NY 10017 Filed: 07/21/2020
+
+
+  [NYSCEF INDEX NO. 153974/2020]
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+
+  VIOLATION OF PRIVACY AND BREACH OF DUTIES
+
+
+  *** Filed: 07/21/2020
+
+
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+PROCESSED
+https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg== 
+<https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg==>
+
+Please keep this notice 
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=UZsCx4RNLy/6V9gf1BkpTQ== 
+CONFIRMATION -- PROCESSED The NYSCEF website has received an electronic 
+filing on 08/04/2020 02:32 PM.
+
+BY AND BETWEEN THE WILSON ELSER LAW FIRM, AND ITS REPRESENTATIVES. 
+ASHLEY.HUMPHRIES@WILSONELSER.COM
+FILED: NEW YORK COUNTY CLERK 08/04/2020 02:32 PM
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xBYJ69pjIuDxBegralE8Uw==
+
+NYSCEF DOC. NO. 225 RECEIVED NYSCEF: 08/04/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
+
+
+FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM INDEX NO. 153974/2020
+RECEIVED NYSCEF: 08/04/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ=
+
+E-mail Notifications An email regarding this filing has been sent to the 
+following on 08/04/2020 02:32 PM:
+
+SHARI LASKOWITZ - slaskowitz@ingramllp.com
+
+
+249 AFFIDAVIT OR AFFIRMATION IN REPLY TO ORDER TO SHOW CAUSE, Motion 
+#001 250 EXHIBIT(S) 1, Motion #001 251 EXHIBIT(S) 2, Motion #001 252 
+EXHIBIT(S) 3, Motion #001 253 EXHIBIT(S) 4, Motion #001 254 EXHIBIT(S) 
+5, Motion #001 255 EXHIBIT(S) 6, Motion #001 256 EXHIBIT(S) 7, Motion 
+#001 257 EXHIBIT(S) 8, Motion #001 258 EXHIBIT(S) 9, Motion #001 260 
+EXHIBIT(S) 1, Motion #001 261 EXHIBIT(S) 2, Motion #001 262 EXHIBIT(S) 
+3, Motion #001 263 EXHIBIT(S) 4, Motion #001 264 EXHIBIT(S) 5, Motion 
+#001 265 EXHIBIT(S) 6, Motion #001 266 EXHIBIT(S) 7, Motion #001 267 
+EXHIBIT(S) 8, Motion #001 268 EXHIBIT(S) 9, Motion #001 269 EXHIBIT(S) 
+10, Motion #001 270 EXHIBIT(S) 11, Motion #001 271 EXHIBIT(S) 12, Motion 
+#001 272 EXHIBIT(S) 13, Motion #001 273 EXHIBIT(S) 14, Motion #001 274 
+EXHIBIT(S) 15, Motion #001 275 EXHIBIT(S) 16, Motion #001 276 EXHIBIT(S) 
+17, Motion #001 277 EXHIBIT(S) 18, Motion #001 278 EXHIBIT(S) 19, Motion 
+#001 279 EXHIBIT(S) 20, Motion #001 280 EXHIBIT(S) 21, Motion #001 281 
+EXHIBIT(S) 22, Motion #001 282 EXHIBIT(S) 23, Motion #001 283 EXHIBIT(S) 
+24, Motion #001 284 EXHIBIT(S) 25, Motion #001 285 EXHIBIT(S) 26, Motion 
+#001 286 EXHIBIT(S) 27, Motion #001 287 EXHIBIT(S) 28, Motion #001 288 
+EXHIBIT(S) 29, Motion #001 289 EXHIBIT(S) 30, Motion #001 290 EXHIBIT(S) 
+31, Motion #001 291 EXHIBIT(S) 32, Motion #001 292 EXHIBIT(S) 33, Motion 
+#001 293 EXHIBIT(S) 34, Motion #001 294 EXHIBIT(S) 35, Motion #001
+
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600 150 
+East 42nd Street 19th Floor, New York, NY 10017
+
+Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme 
+Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 
+Website: 
+http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml
+
+Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: 
+www.nycourts.gov/efile
+
+LOAN DOCKETS, ASSIGNMENT OF LEASES AND RENTS TO STATE FARM IN EXCHANGE 
+FOR $6,000,000.00
+
+USC 18.21, UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM
+ANNEXED IN THE LOAN DOCKETS AND IN NYSCEF 153974/2020
+
+§21. Stolen or counterfeit nature of property for certain crimes defined 
+(a) Wherever in this title it is an element of an offense that- (1) any 
+property was embezzled, robbed, stolen, converted, taken, altered, 
+counterfeited, falsely made, forged, or obliterated; and (2) the 
+defendant knew that the property was of such character; -such element 
+may be established by proof that the defendant, after or as a result of 
+an official representation as to the nature of the property, believed 
+the property to be embezzled, robbed, stolen, converted, taken, altered, 
+counterfeited, falsely made, forged, or obliterated.
+
+PROPERTY REPORT (see also: Miwa and Teschman) Assignment to Zucker 
+05/26/2020 Filed: 08/04/2020 Confirmation Notice 307 EXHIBIT(S) - OPP 
+(Motion #001) Dincer, B. (Pro Hac / Pro Se) Processed PLAINTIFF DOES NOT 
+HAVE A CERTIFICATE OF OCCUPANCY FOR THIS PROPERTY Filed: 08/09/2020 
+Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rjL6yoW3Mt2U6UigWCM9XQ== 
+Received: 08/09/2020 308 EXHIBIT(S) - 503 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed TAX MAP BLOCK 503 - LOT 8 [GIS.NYC.GOV] Filed: 
+08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA== 
+Received: 08/09/2020 309 EXHIBIT(S) - no1 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH 
+Filed: 08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ== 
+Received: 08/09/2020 310 EXHIBIT(S) - AC0 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed ACRIS Detailed Document Information 
+(2019000021408)2019010800475001 Filed: 08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g== 
+Received: 08/09/2020 311 EXHIBIT(S) - AC1 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed ACRIS Detailed Document Information 
+(2020000155422)2020052000291003 Filed: 08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw== 
+Received: 08/09/2020 312 EXHIBIT(S) - AC2 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed ACRIS Detailed Document Information 
+(2020000155421)2020052000291002 Filed: 08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw== 
+Received: 08/09/2020 313 EXHIBIT(S) - AC3 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed ACRIS Detailed Document Information 
+(2020000155422)2020052000291003 Filed: 08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg== 
+Received: 08/09/2020 314 EXHIBIT(S) - AC4 (Motion #001) Dincer, B. (Pro 
+Hac / Pro Se) Processed ACRIS Detailed Document Information 
+(2020000155423)2020052000291004 Filed: 08/09/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g== 
+Received: 08/09/2020 315 EXHIBIT(S) - ACR (Motion #002) Dincer, B. (Pro 
+Hac / Pro Se) Processed ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS 
+ON FILED ON MAY 26TH - https://a836-acris.nyc.gov/ Filed: 08/09/2020 
+Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ== 
+Received: 08/09/2020 316 EXHIBIT(S) - Bu0 Dincer, B. (Pro Hac / Pro Se) 
+Processed COMPLAINT #14585819 (7/25/2020) @BBB Filed: 08/09/2020 
+Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A== 
+Received: 08/09/2020
+
+CERTIFICATES OF OCCUPANCY AT ALL RELEVANT TIMES. FOR THE LOAN 50074 
+(ALSO FILED IN NYSCEF 153974/2020)
+230 EXHIBIT(S) - COr Dincer, B. (Pro Hac / Pro Se) Processed CERTIFICATE 
+OF OCCUPANCY FOR 111 SULLIVAN STREET REAR, NEW YORK, NEW YORK 10012 
+Filed: 08/04/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ== 
+Received: 08/04/2020 231 EXHIBIT(S) - COf Dincer, B. (Pro Hac / Pro Se) 
+Processed CERTIFICATE OF OCCUPANCY FOR 111 SULLIVAN STREET, NEW YORK, 
+NEW YORK 10012 Filed: 08/04/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g== 
+Received: 08/04/2020 232 EXHIBIT(S) - MEW (Motion #002) Dincer, B. (Pro 
+Hac / Pro Se) Processed Miwako Messer (AFFIDAVIT) IS REPORTED AS A 25 
+YEAR AFFILIATE OF THE PLAINTIFF Filed: 08/04/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=72GIYXnN1f/CSjCYtDxKUw== 
+Received: 08/04/2020
+
+233 EXHIBIT(S) - MW1 (Motion #001) Dincer, B. (Pro Hac / Pro Se) 
+Processed Affidavit of Miwako Messer SHOULD BE CONSIDERED AS WELL 
+ORCHESTRATED Filed: 08/04/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5D0bfOIy4SeSXS47aSWbw== 
+Received: 08/04/2020 234 EXHIBIT(S) - VER Dincer, B. (Pro Hac / Pro Se) 
+Processed NO COMPLAINTS HAVE BEEN FILED IN MY BUILDING - PER DEPARTMENT 
+OF BUILDINGS RECORDS. Filed: 08/04/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Wx2R9sKfno_PLUS_ol5jFakV9g== 
+Received: 08/04/2020 235 EXHIBIT(S) - 804 (Motion #002) Dincer, B. (Pro 
+Hac / Pro Se) Processed property report (see also: Miwa and Teschman) 
+Assignment to Zucker 0526 Filed: 08/04/2020 Confirmation Notice 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oioy2FAQ_PLUS_uuEatGhmc4JnA== 
+Received: 08/04/2020
+
+[Read:SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--XXXX@COLUMBIA.EDU 
+CONFIRMED](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/files/8985954/Read-.SLASKOWITZINGRAMLLP.COM---WILSONELSER---ZUCKER--SCCS--SGO%40COLUMBIA.EDU.CONFIRMED.zip)
+FAXED THE PRIOR MSG TO NY SUPREME COURTS, CIVIL BRANCH.
+https://faxzero.com/status/31316917/6b34c3ad9620003256df358c638765fc2ae387cc
+
+-------- Forwarded Message --------
+Subject: 
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER] 
+264295: AFFIDAVITS NOTARIZED BY REPRESENTATIVES IN NYSCEF ...
+Date: 	Sat, 25 Jun 2022 20:30:22 -0700
+From: 	WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER <noreply@github.com>
+To: 	ms60710444266@yahoo.com, CBPMEDIARELATIONS@cbp.dhs.gov
+
+
+
+Branch: refs/heads/main
+
+Home: 
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+
+Commit: 2642952ef0d4bf4d66f322b55f37ab5ee694642f
+
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/commit/2642952ef0d4bf4d66f322b55f37ab5ee694642f
+
+Author: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER 
+<108204659+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER@users.noreply.github.com>
+
+Date: 2022-06-25 (Sat, 25 Jun 2022)
+
+
+
+Changed paths:
+
+M README.md
+
+
+
+Log Message:
+
+-----------
+
+AFFIDAVITS NOTARIZED BY REPRESENTATIVES IN NYSCEF 153974/2020 
+[ASHLEY.HUMPHRIES@WILSONELSER.COM]
+
+USC 18. VIOLATIONS ANNEXED IN NYSCEF MATTER 153974/2020
+
+---
+
+§2. - Principals
+
+(a) Whoever commits an offense against the United States or aids, abets, 
+counsels, commands, induces or procures its commission, is punishable as 
+a principal.
+
+(b) Whoever willfully causes an act to be done which if directly 
+performed by him or another would be an offense against the United 
+States, is punishable as a principal.
+
+
+
+§3. - Accessory after the fact
+
+Whoever, knowing that an offense against the United States has been 
+committed, receives, relieves, comforts or assists the offender in order 
+to hinder or prevent his apprehension, trial or punishment, is an 
+accessory after the fact. Except as otherwise expressly provided by any 
+Act of Congress, an accessory after the fact shall be imprisoned not 
+more than one-half the maximum term of imprisonment or (notwithstanding 
+section 3571) fined not more than one-half the maximum fine prescribed 
+for the punishment of the principal, or both; or if the principal is 
+punishable by life imprisonment or death, the accessory shall be 
+imprisoned not more than 15 years.
+
+
+
+§4. Misprision of felony
+
+Whoever, having knowledge of the actual commission of a felony 
+cognizable by a court of the United States, conceals and does not as 
+soon as possible make known the same to some judge or other person in 
+civil or military authority under the United States, shall be fined 
+under this title or imprisoned not more than three years, or both.
+
+
+
+
+
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600
+
+
+
+150 East 42nd Street 19th Floor, New York, NY 10017
+
+Filed: 07/21/2020
+
+
+[NYSCEF INDEX NO. 153974/2020]
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+# VIOLATION OF PRIVACY AND BREACH OF DUTIES
+
+*** Filed: 07/21/2020
+
+
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=E0CKxALt/dD_PLUS_Wk3Z8vuaXQ==
+
+
+
+# PROCESSED
+
+https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=SVnk_PLUS_wwn_PLUS_akZLr2HagUrng==&ret=D&docketId=rbJs1u78EZo22UbkaVdrZg==
+
+>> Please keep this notice
+
+https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=UZsCx4RNLy/6V9gf1BkpTQ==
+
+CONFIRMATION -- PROCESSED
+
+The NYSCEF website has received an electronic filing on 08/04/2020 02:32 PM.
+
+<MOV DISTRIBUTION>
+
+BY AND BETWEEN THE WILSON ELSER LAW FIRM, AND ITS REPRESENTATIVES.
+
+ASHLEY.HUMPHRIES@WILSONELSER.COM
+
+
+
+## FILED: NEW YORK COUNTY CLERK 08/04/2020 02:32 PM
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xBYJ69pjIuDxBegralE8Uw==
+
+
+
+NYSCEF DOC. NO. 225 RECEIVED NYSCEF: 08/04/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UZsCx4RNLy/6V9gf1BkpTQ==
+
+
+
+## FILED: NEW YORK COUNTY CLERK 08/04/2020 09:10 AM INDEX NO. 153974/2020
+
+RECEIVED NYSCEF: 08/04/2020
+
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JjKiWNUTBeipcESQfFiwVQ=
+
+
+
+
+
+E-mail Notifications An email regarding this filing has been sent to the 
+following on 08/04/2020 02:32 PM:
+
+SHARI LASKOWITZ - slaskowitz@ingramllp.com
+
+
+
+249 AFFIDAVIT OR AFFIRMATION IN REPLY TO ORDER TO SHOW CAUSE, Motion 
+#001 250 EXHIBIT(S) 1, Motion #001 251 EXHIBIT(S) 2, Motion #001 252 
+EXHIBIT(S) 3, Motion #001 253 EXHIBIT(S) 4, Motion #001 254 EXHIBIT(S) 
+5, Motion #001 255 EXHIBIT(S) 6, Motion #001 256 EXHIBIT(S) 7, Motion 
+#001 257 EXHIBIT(S) 8, Motion #001 258 EXHIBIT(S) 9, Motion #001 260 
+EXHIBIT(S) 1, Motion #001 261 EXHIBIT(S) 2, Motion #001 262 EXHIBIT(S) 
+3, Motion #001 263 EXHIBIT(S) 4, Motion #001 264 EXHIBIT(S) 5, Motion 
+#001 265 EXHIBIT(S) 6, Motion #001 266 EXHIBIT(S) 7, Motion #001 267 
+EXHIBIT(S) 8, Motion #001 268 EXHIBIT(S) 9, Motion #001 269 EXHIBIT(S) 
+10, Motion #001 270 EXHIBIT(S) 11, Motion #001 271 EXHIBIT(S) 12, Motion 
+#001 272 EXHIBIT(S) 13, Motion #001 273 EXHIBIT(S) 14, Motion #001 274 
+EXHIBIT(S) 15, Motion #001 275 EXHIBIT(S) 16, Motion #001 276 EXHIBIT(S) 
+17, Motion #001 277 EXHIBIT(S) 18, Motion #001 278 EXHIBIT(S) 19, Motion 
+#001 279 EXHIBIT(S) 20, Motion #001 280 EXHIBIT(S) 21, Motion #001 281 
+EXHIBIT(S) 22, Motion #001 282 EXHIBIT(S) 23, Motion #001 283 EXHIBIT(S) 
+24, Motion #001 284 EXHIBIT(S) 25, Motion #001 285 EXHIBIT(S) 26, Motion 
+#001 286 EXHIBIT(S) 27, Motion #001 287 EXHIBIT(S) 28, Motion #001 288 
+EXHIBIT(S) 29, Motion #001 289 EXHIBIT(S) 30, Motion #001 290 EXHIBIT(S) 
+31, Motion #001 291 EXHIBIT(S) 32, Motion #001 292 EXHIBIT(S) 33, Motion 
+#001 293 EXHIBIT(S) 34, Motion #001 294 EXHIBIT(S) 35, Motion #001
+
+
+
+Filing User Shari Laskowitz | slaskowitz@ingramllp.com | 2129079600 150 
+East 42nd Street 19th Floor, New York, NY 10017
+
+
+
+Hon. Milton A. Tingling, New York County Clerk and Clerk of the Supreme 
+Court NYSCEF Resource Center, nyscef@nycourts.gov Phone: 646-386-5956 
+Website: 
+http://www.nycourts.gov/courts/1jd/supctmanh/county_clerk_operations.shtml 
+Phone: (646) 386-3033 | Fax: (212) 401-9146 | Website: 
+www.nycourts.gov/efile
+
+
+
+property report (see also: Miwa and Teschman) Assignment to Zucker 0526 
+Filed: 08/04/2020 Confirmation Notice
+
+
+
+
+
+--TMMSG_AB25466F_CC8C_51AE_5C79_4FAA3003E498--
+

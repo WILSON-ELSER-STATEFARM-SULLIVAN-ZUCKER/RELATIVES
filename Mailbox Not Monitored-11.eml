@@ -1,0 +1,373 @@
+From - Mon Jun 27 13:12:33 2022
+X-Account-Key: account1
+X-UIDL: AECJlPokXHfkYri26AJ06P2v4/0
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.130.145
+ by atlas303.free.mail.ne1.yahoo.com with HTTPS; Sun, 26 Jun 2022 19:43:36 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas303.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=NONE) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 26 Jun 2022 19:43:36 +0000
+X-YMailAVSC: UZPmTPA3bBt55RCAU.d9fwXy1FQ_alUcndUKkaN1fWfDUEM
+ k_MsFCEYQO43PZi2ayHcFJKvWIKMljD9S3csW3wxRrMMh1VATxLnkCw3Cyv4
+ U0ghwA7TchsS2IHfryRcGjs.aStqvHvPI2o0T_fYCocPnEPvNCEM_CWIqxsK
+ 941SJQtRUtqIQC0G3cxrRIG3MakqliZi8F8kF9RZOHHjo_lHQnJL4WAb.Br8
+ ylAs6Gd2KIbHzetR_rQkq5s5ytKjsC0mRQvEBVtpxtot1nMqLoyRcAWEX3hi
+ jTEqyouWjylPRtInVa5dUEI.HdlM6kdYJsrweBpp.uhIYsi41IosH3E6fYg-
+ -
+X-YMailISG: vz9QmIEWLDumNLIl51N3cE2yjoqm_G4BODpjL1n0lC9Ugop5
+ EJgxz5Be6WYKGfqdvZxVKVSXR_h71y5fOAuSUisIGKR7hNy1By1W..nHKdnc
+ eUPaAvmJqvHnSAnsfiiNw8kqUkB2r9Co_wRzGKlGWtvp_1pfabhJzr_xN8Lf
+ 998mnsxb439gnYV29zGaCmzFrlOEjJTzocYvxOiH6M9r1JWb5sXD9KrsBuja
+ MPPolDMRUo1sUDFx0KsCyJq2uYjZHxd3SQL9lhzgkLyMPVwL2WEOC8y16E40
+ D8gXgt4I_ejKniJIusg3K37H2BN9EYDcnyRG1XhOI3ZL6jmJQjtOnLoX1ZT2
+ nYlB52CNLhRJSEsKZC8uGcr1ss8zL5OB_6pLcBcgTvB0X6eO562hDTyNy2pG
+ dwQ7drJwqS40RaogcBMSGqhoYWBTARupdoZ5HeDgwRrqKE81gDuxGhw1Q_Qa
+ knUCAI4uXLxf2nSikXA7dESrQvKL77OVu_M9epmVOuWxqaDG9AaBsed0mDUx
+ 7JT4x6Nc66ztSnktartSFVqgbduxJlMNXu5yapEDBMNwXN1wxMWpko5KnDwx
+ q4LPscKCD84M4.IoqJ6ILXbl6UqwTXWasghwlJn3jFSJ4awhF5OvV8VOzRm2
+ MXANU2fmJDVw4iB4rwxWogj.fHa.36TKGXHK2kVVL.km_JNbf0e6Q36z5gaR
+ 0CWc0gnR5YQjOCHMlKQjBAw0oXZ0Aqu_c_97drHO5nM75M3eqBa0zn7aZkQb
+ yFRRBRxtwZkGkcrF5YpmZA_rxhExgqahgkm6.0V8HZ3XlEwFIBLPl0caHdPE
+ 56kbgz_kg7OOvxKSJKDED8bItXdI50N.zJKiV07FYq2N4UDI4.iM0xRKLFW6
+ CHjxDRea.9sarIDOvbcUhJSNf85apMMQsXmFyfwzlTizK6QVnSnTWAOv3gKA
+ NmZZpYkUhN0iWIsLcME_6IuYNBjMpBQ7whHvlwJoiN_iSUEX0Y0jEza6lP0T
+ V08E6Nno
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.217.130.145 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 26 Jun 2022 19:43:36 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id A28C1D2063
+	for <ms60710444266@yahoo.com>; Sun, 26 Jun 2022 15:43:35 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_2840D90C_2B31_1F20_A7F2_03757A77E038"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Sun, 26 Jun 2022 15:43:34 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26980.002
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26980.002
+X-TMASE-Result: 10--12.396400-10.000000
+X-TMASE-MatchedRID: t7Q3BifaRakqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEfAAeqWQ0uFfC8FMH3T6F74hauGyjTkf9eKv1l14gOR89fI
+	peUvHcozIGxWO/caCIH9QGKc4MQgxRY1tl9vG/AbSHV8DthFT2OOaAxDXuHnrx8cf8zkUc1qhi8
+	o8aVo18a7PHk/8eQ83DN5nGuVeNwsV6tG0Vx5cmOY6WKvKEZZToCWELjaMM00sTMNBTJAZWbqBm
+	8+P/h9N4vdAkrWzjZopY60cwVYuyyTEPxa4CPo5FWh/kbCoZYRxXefgn/TNQyyUsTe2pbLVAZTA
+	t0TJFzbF+dpzmp9heOgebmD/aOng/7PvFa8I/I/10VztBt7yaucUOFeb+PcjWAuSz3ewb20QKAP
+	0RKPhMUjB/AFVEuwYvT7+e/pp3UXIW5a7efE77ZXNXiwu+7cfjHrfDv2f5n6D4fUEZAengkpqxJ
+	TL63B1RwnTStP9VNhFvRRCBN/HWV9mXRLO6ZMYz5r5y9mouSDzZKDA1/pIruIvAvBljazMoLwbY
+	95p2PsoowaoG/BmzWMC+96s9Ql32DJQA8IHlR2gaQyd+vofrqepfxw/4yedgqxpaTN0gEzsYFeB
+	mkYuXFzPMzBtpix/JnK5iOvtaR8lr4UAbUFMEwXtykVcrvpNGgxNvveILsHmHVC79g3JMUNZtye
+	mc4Me2kxqyz95wrpYlix/BO+xn+Zrmw4Opxjrb056mCmF00aP9PVp/dRlQJsoi2XrUn/JlR1cT9
+	YafQUVR7DQWX/WkXmnq5V7L8sI8DFFIBzQ4Q32/4005VJ1/+YJhRX7A3t/f93GXlawdRr8IXY9+
+	V7R4MA+adf8ZGdaStUMWaOGYAk=
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220626194335.A28C1D2063@mail4.chamber.state.ny.us>
+Content-Length: 15876
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_2840D90C_2B31_1F20_A7F2_03757A77E038
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_2840D90C_2B31_1F20_A7F2_03757A77E038
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 785B3D2063
+	for <governor.hochul@exec.ny.gov>; Sun, 26 Jun 2022 15:43:34 -0400 (EDT)
+Received: from sonic306-30.consmr.mail.bf2.yahoo.com (sonic306-30.consmr.mail.bf2.yahoo.com [74.6.132.229])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Sun, 26 Jun 2022 15:43:34 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656272614; bh=kbdVu5j5YXKyQswsmdUwz118B/a+fDGGD4y7D+aNGIA=; h=Date:Subject:References:To:From:In-Reply-To:From:Subject:Reply-To; b=iPjk2BFVkjcBiID6ugJOroXFDvuE3Re4cXDNoYfrDXzhgEsvSMuh9lWoojf5xa+/J6Uzby8Jgd+afzIGe1WO2JZ/0NFYG+AN9bovDyhGCRn4aJOGeC/ixerBKd69vd9ePcxKoHkRVxCllcdgC5wt6VNOC/SWBCft73MmvilfCsLi3Bhxtlh/nPnHm8yyRcSNj+3Ggwrgw9UfOePr14GX4mc9ZO2hS4CERvwi3a+f80Wkcc4WWCHVcszPuJkbe1CCtAoGnTsaDoiJO29LxUuAk+94IVSyJL60fDqAFe5WWmwNvclh4aZLc5aBqGxMQ4fzALUbDcMYDhKjqVB8bxLeFQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656272614; bh=GcdNg9Lz/y3N+IjTKDMNHIcNdy8/eFLtt3EwZd6oOqY=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=ILr6ukbrwkpwioOxLhepiU25K8xswQtCJn8ZPaEm4//15k7z5xsZ6vgbie1kPieCLHv3wYnCApwZrOJbOk55Aamj/+XASgbm7RL+DMsYRrSsJygy8CjyRdI9qIyzJfbm5cgfDdQQeX5AV2xTFVDoieFErObDKRMyKFPSE/zFVfrxgoyvy0YEJm+r/G9+wxGPJT2LPAFCfyBAN6gQhaeX13GuJTKzH2GCWsp74a173IgXA49hn6tBclhT7p4CVuJHEscVH+uaOj+Rmj3cDvKV6rwJZKWumCOj9y11+/DYNLrZrpxosTqDxKNZElKxn8s8/Ooj1V4HaFIGFovhFi9AyQ==
+X-YMail-OSG: qN2S014VM1m4Sc9Z_pc9igB0ledGx8Zt0nKabUbNEboCbEWeZhQCpYtyIBDqw7t
+ gcwEUCOhxYY.Zc_OxFIGVAqeFZTfo5Me5JItrK6hcrUzdIeUspUTWFc3ou9mblf5s1ekE0C39Zxw
+ SItBBDxsyaPXEZI9mRLvlhEddxzONB2zY.PQhHat2XYLJTJiz7rLsSrm4H2Ll5L3ZMmciF_Uv.zn
+ _wOMhQA5w0e3ItZEM4H7p8n7c7xgN3N0NO4fAklleX9BvSVkJV_1NZZynhW5jshIgc9ZKpBWSctf
+ krQhFOgwKkT9X4wf7BY7rhRKCCRm6faFAeoeHGK..KMgtB3Yyaxnx.VLgvrymB8z0bgI2yU7gn55
+ BflrfTJi3G0QFpzZDdp7CKDiEF9ZrUAXOQYT1pcLIFnpxaqx6blWqHTXPzc2JsH7ueFTLNUOyTED
+ 0chNJBdJkUzwG4Jevttli4E8pkx0raHxrrxq13SHumD5K4Gak8Bgm0gnRpR2M3zK79YHQ1iMkab0
+ O9xQ4LAU3oO4Xcx.zPEK1HAynQ.o_MNlh5JnCHrIr84Aa8kfsl9XKsbbenw3a8e46baOOF4Ut7EX
+ NvIv6ajx8S5RCJHp23Km6PO_LjM9FRKkpfON3w0RjASFvVtcTI3PiEr8LQYwQ_3cTNr_LThY.Izo
+ Mx8vZB6WNUihaMTSKyEC9ZhCav3fTm1JaCqKevAEqA2ZpvlymUfmRZl3O50EX0IKUvmXEqYd0Qp4
+ 2NRuVF8SS6TDoOaVmbS6PXXw0vB.VwyZghlStf3.NercCrot__JJQSwDb3kPm.NkSZJoHU3m1E3g
+ ZKmX_sodtOXVJP.j80rPCkfgb4vvZdsXJzISFq_4sRWyN4kXw29hndGb_CJUTIxO5zgpoBniyJbt
+ 5Qoc6CdHUP1vNEzHd5EcF75_bdWC8rbcRTYjHCVZwicRhwVB8m985QDdlQWESvBgDRDNuj3aEzx9
+ E.cHuO.FWNklMp4wTKQ3mDmxgWG2KLfBIjrVVBlhUKVyIYVjAdvR3x7n6QplZftTG_CsR1ofgLBi
+ vJOLb34xl_sovN9Yf9iPUyxe9g.SKc8OvpPPSAZcfftrOSvxWQFhq72q3JYWWNUppQkQ_8yIMYyh
+ AlAn5SgzeifE7Mx5aFsNHpsNH3IBRaHI3g3I8WcIBXSSUFmTXfDH1ur9FxlqIs3liPRqLp0hwN3_
+ K7jm.iAyETmmLRNGzzAo0ZUP6RNcQb5_nms3u4R5BBr.L38VdObkF0B3pqxuDBAjib64RZWa1FnA
+ 41gHkfKxO18X7iXxsjXoaBo6gJ3vKcwkmQk6BSnFuhEtN0mGhJmZzPPjq6l_wXAf3oz7bYuPyQ2x
+ KryVm671T1lE1iMd8Gt2Ot.IvivIzRGIerugJ99pQLI0hhlrfQHeyAcha0yJXA.6Y0JlxwuLcgQG
+ pHBL1h4fxGNYaRpS6xQBTKcUUOvZKrlgm2LGq3nEjGfmxE73Rm53cH1zK7UK7EQRiGK91l38P0lB
+ x3b3TIO88K4bBt82XsUqJ9zGKWqNDCLGFeBHgEi15xMyQ9w9xOOvI0MTIi0UAw7n4BaOFx7BUz_e
+ AX3nvomcOKPUElE2rnjYtjp9ij4mTxdp4SZw2dLDb7kcW_Ye_OkDAxaDtCedy8Nl6i62_URB2692
+ d_Zd8zucf4tD.8WBMXB1wfF23.hzVQ4dN0slbonIJ2m7G2Su2ifrlSTVBdlvQP7d8JUI8H2.R2Q3
+ bYF7CJeJqeWwNOeD0TeJ3UoZPYZF4.8Ot6GEgQF2H.IBcfjMog2f61QMkjxkJmReH.5OJiZ7zJtu
+ BsQQN9CMwoG_HR55bnZr51GtToqJ6IIeuyVpOz8KbkGNFFGTww6jNV1iZvBfkWdfC7T.hasK87Wb
+ he8HlCQS6.xY58BSYo406JkCldy.qC5mYrnoRz_Wj388p01DZivNroVkMMnxLGEqDRBksUEutRA_
+ WDt9_W6AMEMJuS5Zo1ctjBy10VgN_tXguzXJao0j0QCCg4IW0EnPvt65jbBKg_pL_.oCSsMT9Ltl
+ CIsXWQ9L9iJQErE8PA6NWykjapxEGntRAh9yPCCnaeWEZAzs3pgsEXWgjv1_Z1YW33sNN90c7His
+ 6aNuuMxbycusCFXAOQOkv1zToaKLUNM4niYV5BQFt49zrP8nD1EcqzXrH.4hdEDgdgSboLTfcoT1
+ _ZguaOBQ8fTkLCRkQIr1xIb2.xIXvtWsNJOGMW6cdLgkDEAuU5wZXLRnF4zfA8R2retQFYyR8Fag
+ 2CccKwi9XAmfaot5Vaj9i9LOX_GoR4MFoAv.oQmbiV3TnLFwQ6FhvmwXrOOo_da6MDC75LTo-
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic306.consmr.mail.bf2.yahoo.com with HTTP; Sun, 26 Jun 2022 19:43:34 +0000
+Received: by hermes--production-bf1-7f5f59bd5b-9k855 (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 2c930e9d1dce818a6a97d21395e84380;
+          Sun, 26 Jun 2022 19:41:32 +0000 (UTC)
+Message-ID: <0168b64c-8838-cb16-eb8c-27e3b1419be8@yahoo.com>
+Date: Sun, 26 Jun 2022 14:41:30 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Fwd: THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING
+ DOCUMENTS.
+Content-Language: en-US
+References: <81c3e258-4786-b4f0-a75c-880ae60861cc@yahoo.com>
+To: "stationservices@cbs2ny.com" <stationservices@cbs2ny.com>,
+ Extellmanagement Info <info@extellmanagement.com>
+From: B D2022 <ms60710444266@yahoo.com>
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+In-Reply-To: <81c3e258-4786-b4f0-a75c-880ae60861cc@yahoo.com>
+X-Forwarded-Message-Id: <81c3e258-4786-b4f0-a75c-880ae60861cc@yahoo.com>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Mailer: WebService/1.1.20280 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+X-TM-AS-GCONF: 00
+
+SORRY, THEY REFUSE TO COME CLEAN, EVEN ABOUT THE 90-DAY WINDOW WHERE 
+STATE FARM WOULD HAVE TERMINATED THE LOAN FOR A BREACH, I PUT THE CLAUSE 
+FROM THEIR LOAN ON THE DOCKET (90-DAY DEFAULT PROVISION WAS SO THAT 
+STATE FARM CAN WAKE UP AND CANCEL THEIR RELATIONSHIP WITH THESE 
+ZZZZUCKERS, IMMEDIATELY) INSTEAD - MORE EMAILS AND VIDEO.MOV FILES 
+ALTERED, PHOTOSHOP, AND CIRCULATED WITHOUT MY CONSENT BY AND BETWEEN 
+THEIR REPRESENTATIVES AS WELL*- THE INTERIOR OF MY APARTMENT.*
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xjn0/e1NcBADqRc_PLUS_g11P4g==
+
+- AFTER ALL THOSE FILINGS, AND INVASION... YOU WOULD HAVE TO ASSUME AT 
+LEAST ONE OF THESE IDIOTS WOULD WRITE BACK ?
+
+- THEY MUST BE AT THE COMMUNITY BOARD , MY BAD... I'LL JUST LET THEM 
+STEAL MY MONEY AS WELL, THEY ONLY STOLE ABOUT $500,000,000.00 IN TAX 
+DOLLARS FROM FEDERAL, STATE, AND LOCAL FUNDS..
+
+
+-- CARRIES INTEREST DAILY.
+
+#GOCARDS, I ANNEXED THEIR "OUT" IN THE CHANGE TO CAPTION WITHIN THE 
+90-DAY WINDOW. - INSTEAD, OBSTRUCTION WAS A PREFERRED METHOD.
+
+- I WAS NOT PERMITTED TO FILE A MOTION, ONLY EXHIBITS.
+
+
+ALL SIX PROPERTIES BACK 10-YEARS PLUS.
+
+- KNOWN BY THEIR REPRESENTATIVES AS WELL... ALL OF THEM WELL VERSED
+
+UNTIL THEY HAVE TO FIGURE OUT HOW TO DEAL WITH THE TRUTH.
+
+ > THAT'S TWO YEARS CARRIED INTEREST... BUT OWED BY STATE FARM 
+IMMEDIATELY AND WILL BE "REIUMBURSED" BY THE ZUCKER FAMILY.
+
+*GOOD LUCK, TWO YEARS LIKE NOTHING IS GOING ON, AND WHILE THEY CANVAS 
+NEW OPPORTUNITIES IS "MADNESS"*
+
+*- UNLESS YOU FEEL DIFFERENT ABOUT THEIR EXPERTISE, ADVISORY, AND 
+ETHICAL PROCEDURES - BELONG IN ONE PLACE.*
+
+*
+*
+
+
+-------- Forwarded Message --------
+Subject: 	Re: Fwd: Read: [EXTERNAL MESSAGE] quash.. - nope. >> 1 
+investment adviser GONE - AND ONE BANK AT RISK.
+Date: 	Sun, 26 Jun 2022 14:26:14 -0500
+From: 	B D2022 <ms60710444266@yahoo.com>
+To: 	usdoj@public.govdelivery.com <usdoj@public.govdelivery.com>, 
+irs@service.govdelivery.com <irs@service.govdelivery.com>, 
+usttb@public.govdelivery.com <usttb@public.govdelivery.com>, 
+financialeducation@info.consumerfinance.gov 
+<financialeducation@info.consumerfinance.gov>, 
+DHSOIG@public.govdelivery.com <DHSOIG@public.govdelivery.com>, 
+vaoig@messages.va.gov <vaoig@messages.va.gov>, 
+pbgc@subscriptions.pbgc.gov <pbgc@subscriptions.pbgc.gov>, 
+USPSOIG@public.govdelivery.com <USPSOIG@public.govdelivery.com>, 
+cdfifund@service.govdelivery.com <cdfifund@service.govdelivery.com>, 
+subscribe@subscribe.ftc.gov <subscribe@subscribe.ftc.gov>, 
+vatax@public.govdelivery.com <vatax@public.govdelivery.com>, 
+tigta@service.govdelivery.com <tigta@service.govdelivery.com>, 
+news@updates.sba.gov <news@updates.sba.gov>, news@updates.oig.dot.gov 
+<news@updates.oig.dot.gov>, KATHY HOCHUL <governor.hochul@exec.ny.gov>, 
+MSRB <msrbsupport@msrb.org>
+
+
+
+Your message
+
+    To: Claims Depositor Services
+    Subject: [EXTERNAL MESSAGE] **** RE: TAX RISKS and LETTER OF CREDIT 
+50074 --- rents and leases transferred to State Farm?
+    Sent: Saturday, May 28, 2022 5:43:33 PM (UTC-06:00) Central Time (US 
+& Canada)
+
+  was read on Tuesday, May 31, 2022 7:45:20 AM (UTC-06:00) Central Time 
+(US & Canada).
+
+Final-recipient: RFC822; DepositorServices@FDIC.gov Disposition: 
+automatic-action/MDN-sent-automatically; displayed 
+X-MSExch-Correlation-Key: QEXDrJDIfkyHCVRwQhDAyA== X-Display-Name: 
+Claims Depositor Services
+On 6/26/2022 2:17 PM, B D2022 wrote:
+
+GTG I HOPE YOU SORT THAT OUT, SERIOUSLY CONCERNED.
+- THE BACK TAXES ON THE SIX PROPERTIES OF INTEREST TRANSFERRED TO STATE FARM
+
+IN FACT PRESENTS A GREATER ACTUAL DOLLAR VALUE (IN US DOLLARS) THAN THE 
+ENTIRE MARKET CAPITALIZATION OF SFITX - A "FRONT-END" TREASURY BOND FUND 
+THAT REPRESENTS A 3-YEAR KEY RATE MATURITY.
+
+SEE ALSO, 30-DAY LIBOR IN THE FORMER, OR FED-FUNDS-30, FED-FUNDS-60, 
+FED-FUNDS-90
+- THE SHORT-TERM FEDERAL RATES, TO MY UNDERSTANDING.
+
+
+FRIDAY PRICE DAY-ON-DAY, I HAVE SEEN IT AT LEAST A DOZEN TIMES BUT NOT 
+IN THE SAME YEAR AND BY THEIR OTHER MUNICIPAL BOND FUND.
+
+
+*THEY ALSO SELF DECLARE THE VALUE OF THEIR TREASURY BOND SECURITIES, IN 
+CASE YOU WERE WAAAANDERING.*
+
+
+
+-------- Forwarded Message --------
+Subject: 	THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING 
+DOCUMENTS.
+Date: 	Fri, 24 Jun 2022 11:25:01 -0500
+From: 	B D2022 <ms60710444266@yahoo.com>
+To: 	Stephen O'Connell <sgo2107@columbia.edu>, lzucker@mskyline.com 
+<lzucker@mskyline.com>, Stephen O'Connell <sgo2107@adcu.columbia.edu>, 
+Amber Griffiths <ag2943@adcu.columbia.edu>, Amber Griffiths 
+<ag2943@columbia.edu>
+CC: 	megan.disciullo@pwc.com <megan.disciullo@pwc.com>, 
+larissa.vonlockner@pwc.com <larissa.vonlockner@pwc.com>, 
+ryan.a.cangialosi@pwc.com <ryan.a.cangialosi@pwc.com>, 
+kivalena.starr@pwc.com <kivalena.starr@pwc.com>, 
+jordana.strosberg@pwc.com <jordana.strosberg@pwc.com>, 
+will.b.hodges@pwc.com <will.b.hodges@pwc.com>, jennifer.vanoss@pwc.com 
+<jennifer.vanoss@pwc.com>
+
+
+
+THANK YOU FOR REVIEWING THESE TAX EVASION AND INSIDER TRADING DOCUMENTS...
+
+- HEY I AM AT THE SPOT IN BK IF YOU WANT TO COME AND ADMINISTER THE 
+STRAWBERRY LATE NIGHT GAME LATER BTW,
+
+*    FRESH ALSO... TOOK A SPONGE BATH.. AND NOOOOO ZUCKERS EITHER.*
+
+***
+*
+
+
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/5380dd8997d3ec11a7b5000d3a132789/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b500224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/3bb9011795d3ec11a7b5000d3a132789/153974-2020.Docket399.FTC.StateFarmRealtyInsuranceLLC.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/ff91792a95d3ec11a7b50022482864f0/[sfVP43036]%20$2876793%20-%20david.moore%20$3487%20-%20IA%208018184.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/af081f4095d3ec11a7b50022482864f0/[STATE%20FARM%20VP%2043036]%20$3231040-2004555.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3ec11a7b5002248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/d88e25ae5fd3ec11a7b5002248286997/StateFarmVP%20Management%20Corp-CRD%2343036.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/[sfVP%2043036]%204971235-%20$SMITH%20-%20SEMI.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b500224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/172de37992d3ec11a7b500224828654e/%5BsfVP%2043036%5D%204971235-%20$SMITH%20-%20SEMI.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/bee2b76c92d3ec11a7b5002248286997/[SF.VP%2043036]%202876793%20-%20$david%20moore%20$3487%20-%20IA%208018184.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/9194266492d3ec11a7b500224828654e/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/e9eb965d97d3ec11a7b5000d3a1326fe/[STATE%20FARM%20VP%2043036]$%203487%20$.pdf
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+* 
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_TlrEGCsUUcCcvtJ8O/dfg==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+* 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LMUE9g_PLUS_k6vCmKgfCSJEzuQ==
+* 
+https://portal.311.nyc.gov/sr-details/?id=4296b0c3-c4a2-ec11-826d-0003ff86900c
+* 
+https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%20.pdf
+
+
+
+             PROPERTY 1:     111 SULLIVAN STREET REAR, NEW YORK, NY, 10012
+                             IS WHERE I RESIDED.
+             PROPERTY 2:     117 SULLIVAN STREET, NEW YORK, NY, 10012
+                             WAS ALSO TRANSFERRED TO STATE FARM.
+
+--TMMSG_2840D90C_2B31_1F20_A7F2_03757A77E038--
+

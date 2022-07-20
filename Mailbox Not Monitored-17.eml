@@ -1,0 +1,309 @@
+From - Sun Jun 26 12:00:49 2022
+X-Account-Key: account1
+X-UIDL: AOh4dTMdA+MwYriPjA6xuC9+7O4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.210
+ by atlas225.free.mail.bf1.yahoo.com with HTTPS; Sun, 26 Jun 2022 16:56:01 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas225.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=NONE) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 26 Jun 2022 16:56:01 +0000
+X-YMailAVSC: GooGe.M3bBt5sGingqZxp6hS9xnLV0oXVNSnLNe4U3_Vvsp
+ VOFJ8XSZsLLy8WWrhrXtXskbZh9gLOTrl7ARLOfCwLccTAB8hx_1ZSabSOt9
+ qHN_zjUCe.YFJRAxOfjR0yoHDoyBQKosExomtF.6NrOzzmDNim5U9x3CFWtn
+ HwhFX.4IQ_b_qWHjFEzmPQOcKD24Brx2OkTabBO6felqPObnmLIIMJJXbC8b
+ 1EOvQuLSURXLbUVXweUhhlM4UjULo154qxFMEvPg7M0ZjXkEl9wGEa5z8DrU
+ 6XWaSSS_GCZrwGMUajTN2EmXbG.OKlErd3HZOC89N6EbgqDmCS9L6xrxutw-
+ -
+X-YMailISG: SijfP1YWLDvlCVrOMX8K9DMC7H5LvxFTO04Ap1MnsvKw0f13
+ QPnQJyLtxRIeqy4iVjyzegDuN3xOvK0Zn8fdcw0IxVdBJ0rrAuwm3kruQx67
+ wI86kQog.O8AIwYyHYDcuw7jHLPePHieUK6l6Vd9wPeMfkknomJRQo92MgVg
+ WlX7zEJhBhu.816HMXUfztrk1kjlbVGA7HNjgM7rkcQfRTqtuRUT8Tqq92DM
+ UG3PjnS9uDz.zUz6H4aQ8QkuhElCSYF6aFMX5QJmdyh98SOkiZOqRapUvvs5
+ XztkYSKXJNHN3l122K.wQq6sKCAmC85v7BQD6ctirdXIyzJDY_DkmyTtHgfc
+ K9LXO94HtA15z3KWehF5PksLYnIFGuhnBcZsi4wqNvu4DKTMJ1qbjXYLg2Kg
+ X5IzJGW0K.otd0tU47X3uWNCFB35vddDG_.KrzxM2keDR4wW8UhD_ug2EGzU
+ UmgOZ9UWCGUfvRICSAIj5jY.SrdOi0byweEg80cutiB11BA13mYQOq30CDIn
+ f3HYoGuA4bd.n7nDYES1pjDGW9ZtNenjGFo3YM6DPteJqTC7s5lCJM6OL63u
+ 2e5_mghGDqggrk3ErQzhXS93GwuYFhhWG5S5Q.gHn.OSHYpWZNYVEW46RkUj
+ _rO_7jWpjdh9W19AzIdr6w_8BlMrWe1eTLMjUo8GnDd2m9EobxW9Fimq8uiR
+ DneQnoGvSTEOhwMa0l69yrsmFwhqStpcy_91avD.zvhLUGxKkT6fQ71yLxLa
+ SWdMIDerER.G5Scm.5qkE6Vf5e.fD5ydb2zpnF_4VRGvxwCqvlXGzsUQLsBO
+ EaL4QRSZRPGP6C.l60Qam66WE6S3Qo87SiJiBaenAOYyY26l2LEk3nl1jL6F
+ Y5VIQsTHcvv.UJEyXrGv6vV6DZQwwqp00OUrCzowtqJXnLmjIQD3LChb4oMA
+ BI6GV0bgP7SmbIbMwvweYpuKMkybEreOdbHkkH5Ouyc73.2jm.f.LlZVvUkz
+ EUdL50OLsNM-
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.197.40.210 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 26 Jun 2022 16:56:01 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id 9CD13D2063
+	for <ms60710444266@yahoo.com>; Sun, 26 Jun 2022 12:56:00 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_C3CA2ADC_8392_1B7A_E72B_205BAD9670DE"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Sun, 26 Jun 2022 12:55:58 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26980.001
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26980.001
+X-TMASE-Result: 10--12.544700-10.000000
+X-TMASE-MatchedRID: saYaiT+pevsEC8rNTltqbLTDRJYmI12MgCgxvjJCHkH5vOQjFIPDg1Wr
+	LH2cfZwd/UhHSdHyK7uwOmfjQ30zeVso34KcwKn4iysFp6bvlmxZ4oSujdhvgg8jRGt93ISmDKS
+	pJ1kZKh6VJ1qZ2q4yfJ1U1lojafr/9avse85ISVpWjSWvFszxq+7Hs99bUUHUPsi56bULZFrugy
+	HERT8r5u1c1nX9bgq/3w38Pi6Nqnn+Ngp31WVSjhz8TwDJiHPodvjem4DbmwDfeX6lsddo/hiqG
+	t1EoLsFKN6GdXLqWfYAskVXXGHfk7SOIfZnVTDabsHtQ0J95tS95iYVgizGV8vXfL/MN1mrHqYc
+	aGUSBigT9rZn1dVHc15hVZTm4dD8j9NIFpTnH/XYsxXRWIYdreZHWzSTEYtzVxWGlNzsF6KgfHz
+	5rL2UAtQGnHQKZS9z5p1ddw6V4RurBTvV3OvRK0/SsvQIy/ty06IYWN6ouQJxMIYGCmFlgzva43
+	24k18yFZzhICPDv1wvj6wHfIGxyWVHNkCQpEYNAy6/bz1VsIiurCPh3W5b6ArjHjSPKL+XWKJwz
+	DJWjvjfW6mMWTtZdOQYBHVKqgDUfS0Ip2eEHnyvXSmSdlcYmvmS+aPr0Ve8SlnU38LCY8u7ECHN
+	kfYasx1bi/iv1uaw8lP6F/raTZitbVuluC2/AAk01+RpCUC/ohI/zdCUesnGPpT9JxELgxfqtOi
+	/vyQfHFLwx05bhEbKKnG7Kb8LlYpsDWy/lZPJvw/UsOZ8q2pDK6COY4z7DA==
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220626165600.9CD13D2063@mail4.chamber.state.ny.us>
+Content-Length: 12382
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_C3CA2ADC_8392_1B7A_E72B_205BAD9670DE
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_C3CA2ADC_8392_1B7A_E72B_205BAD9670DE
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 1A201D2063
+	for <governor.hochul@exec.ny.gov>; Sun, 26 Jun 2022 12:55:58 -0400 (EDT)
+Received: from sonic303-2.consmr.mail.bf2.yahoo.com (sonic303-2.consmr.mail.bf2.yahoo.com [74.6.131.41])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Sun, 26 Jun 2022 12:55:58 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656262557; bh=lOZC8gfgP9nGdd56B/TmLv6WaKBjvdcJdDZJZrZm+SE=; h=Date:From:Subject:To:References:Cc:In-Reply-To:From:Subject:Reply-To; b=qZhaUJ/WI9bjSzeHGtSeDH5rDxA/XiYgp63xQwrnsQOm/h9nymyEuN3cau/2alGx7f2RKFBvboWvadYqbdErkWnD/68BEDpZg841ilQNqJQpgzmANRhVA0+/rAf72ry5LYv3ZIonFJbtqzHRQzz+sKBEHJETCDF1GgiZmi7kQsPJzS7RX+EyN5ZZtRP3ZAqvyqh9nF8j1+UaZmYSTlmMd2H88gfFXvlI6j9TWLm1pTgTA6jQbBaXGVRqMERdV6F/pwtaJZxJg/81cnIWoHx556UuCsmYIM68LEqnsEO/F5eb/b6Pj+mOQcddynAII/AzyAqmxC+fsa1epHs5PoPYMw==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1656262557; bh=Y13iZsPrZXZnqCx+omf85eMvsl8UDulzWHqrxZYKdLs=; h=X-Sonic-MF:Date:From:Subject:To:From:Subject; b=BQ0CkyRSOyk8fT1IOJZ3N+pCr+LNnW/uwP+378XYbRb/3XHnJyEMRI+PWC439Lc3qdEIaKIFPe8relaacw2qwHCTg69v6sKijR3uFbxogBMi3007a7t/THIVrMzDVabqYWDqpZ+YJOYYSybuetC1UPMG7or1/UTGGfFysacieyyGD6RXIAPp725VGg7RFQQlucw4g8g8/eyeIQi7cA9cK1Z7F9NHqnWsISAKtC7PZQMkWnop8m9irsBFKkx91zYe9lm8cSn+R7H4V3vsWqkzvCYYRzqhZqok3ln7XI9RxcPgnJfpxGVoEOoReuN7X2z9hgJByLx6Olv6p+KmXtMHVA==
+X-YMail-OSG: Luu4a6oVM1mhqjI3KV1FmTvKijUrLpou0Ll4z5fQQ6_bXlnqi9033NnuODiiFgx
+ e2RitGBSYieujD3W3UQj.TF02flKSsxoryyxU4jLmhsHO3bfue_h.zAs.lQXyDDVTM94lPKo4ht3
+ NBAeYxCEwdF7QrYpZSztj.n0JJKOAYn_q32nzuyd0alqCcKZdFe656bPiRKDFZEBUPWkjakf1odE
+ AdmzVkM7V9YOEdobp9LOw9WVUOPiJ_mLVbnhfE7P9HdxpuGLrY_XPZY6.2eHpQc0tEuiFj1iE69Y
+ 5.vqp2HqFU5gPAYclus8CblhmG3ibcoegvnCQBjliQe0FZqd_WElYI5SIoqCZIIoLPS95yDrZLKP
+ 6UaYNLpXTABIU0FmV36hGXkPh8XBHCI8eC7CoexJgf29M8LvJ_T1NjEN0hcEfU2ggJmTLQr2ZdRM
+ LZOtjz0uRtTiwSPZGQc5ZWeSxuyVyRtgn_8D5HON29hglfWOyVaFug1BtBSjEhrPRGR22erkRnmd
+ 5M3Y0ESTS3_Ck2Ot5hRu9brREMYU4yXrEHbkVATkAWCF3P8z6Cx9zKH7qPMak3uvTiEdkggq9mOq
+ tQsnOD..vSimrCaVQhs3LEaho2ZH.seqJDqK0DHwL6PtD93PUmIcCkyb1oyS9.viRHgd0QRtpvzH
+ hXRC58ajR_dR_HfZEKwqhoSIMOJJq3vBDvZZgSgyff1Nrt2Qw8Ydkp_yEN6weLchg54Em_8jE.mV
+ BQGEF76OIqEFpAy8c_8Lc3WccIaq5VjGRujlleCcRRzf3WzhuRflzHdV.staynBIgnEyvH9QJaq1
+ uI0Zx6ezKUN3b7CcQ8YwHrYHd.jAYPtUfp0dzcv2mtXtTJ8PsJ4zYp_NLiOh2sNagQuV216C_y_N
+ olRRwbXo5E4rJswidMRzSbslfEuX71xZf_bz46vvlTnEHs8FvWlD_aLZlog0NYXTH65UGW8G890w
+ pbKO9P6Su.125bGJUx2cKBO0POZxiFYBMJXJpLYHbuMy5qK1qmckUD3CP3WTwXRB.dqMh7NMR1Ev
+ B6ONkjDCwIWrzfjKqK25aHIiqTRTKYPS4UoBonaIWOyYxur_fxWje6MKbhaWRi7HtBKp19OTxrWF
+ x9x70Z4TqmfpEe9rV.Zn4RdJT83QRKR3xzeh40dMhPsJ6VF2.kQz4_IpG8YQeXiwmdYwWckUngNh
+ fnjcHOGdNpSXkWRGll49eOnmSYWWWbrs02tpjZ.oijBlXPj.l.2U8aFQ8G6euN4hXzYe_5JQlIki
+ TH1wVBj8XDgCKAMeZ9RdyHCV0wWts2HLwMmxdQc1Z_sxAzQ9qZZEuzLw51u2VXH_q7iRrq6cXnSk
+ mEfXfUKgBYdMqzu6KC5vaGPKO.57LmyAy_DLSDQCnNWaTCTpmtaAA6MnzuTkLzLwLE0AYGSrAhJK
+ AbpxYknWwn.nlLlTjfOknUXJ8kG_PAZX9D1uC9pse6MKvvTIbFatx8tbkarpatD92JDJUqmvYqQD
+ b.UgFJvLjkBILGlkecBrK_BWfHhiIlqKyyeai1RwB12gKqSFR58xQJFLhMURWK.bkfFGwAWv8ouE
+ xQJILi7Wk4AfbGkdWIwOu6y9aspXcSSzaG.xmJ6GErJhNOhk0qvOnuD0dhdOCMbDr.uhLPRGId1l
+ QwHzzNfbNkPdzeBFKan7vlZO3ygwcJEFpFhPUR7pw2DsRHcxgP8LCrNigR.Fb7fu1dvs5N8_RuBS
+ 5eA_NHie6ufkFw2AxG9ee6dTkDH.oZLc9Kesxfhmyu3g0_1P2cYqOYt7HCRYwaQEeEIDIYWK8o_k
+ bmEFCq2PUkHCtMW_AHPVs7xg.QJFeHA7QeFP669BhJMuP6AajL84aqYk8Ed_AcbjbML4ml61a.68
+ dxWlSxU7ASeUiG790eiv_Z8MHynZUkbsGPohjKhrZNVj9mNKWr5f0a.4Sa6efvFxNbp1iwwc.Cph
+ QinjWofc98aegTKp5hMNVQWb2d.wWFl8TzW0LzI8OR54ZoZ_jcCJOLyPORg6F9rXm8BArEBGeoQ8
+ M41V0akwuUmXgDqzhDZ1A3xF8gXommenk4iSQ.vZc_Uc1nip77VyLXUQFUfGlDB.FYK1emBi.ZNy
+ 8zLsLOm6jpoegoJEHVB5LFKGhVDdnjG9OPiv8lM1UKjlZXZWZWado6A_RHNIielpYqrVP5KX0fUY
+ HuhCYyIwQOuPA1CLiuxZyMbSPBDJJu56q26mOKow.0S5Nr69gIlr5YR3KDuyuDU4VxZjSYBNtIOY
+ e22XgBnXAxhFaaf5s71S2_jkgYt8mVzRfEsHJNHNLQw--
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.bf2.yahoo.com with HTTP; Sun, 26 Jun 2022 16:55:57 +0000
+Received: by hermes--production-bf1-7f5f59bd5b-9k855 (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID c2eb59ba237597297d89d11be0dab202;
+          Sun, 26 Jun 2022 16:55:56 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------AFFOn1XoPCxbUDXtRd1Yzk5b"
+Message-ID: <a2a30cba-b721-4e68-9a13-5b1d333795e8@yahoo.com>
+Date: Sun, 26 Jun 2022 11:55:50 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+From: B D2022 <ms60710444266@yahoo.com>
+Subject: Re: FDIC Reply - 01415378 [ #50074-2 ]
+To: KATHY HOCHUL <governor.hochul@exec.ny.gov>
+References: <B3NL-000000000000000000000000000000000000000000000RDZNWM00xl1ZmIkvSv-s16gWDpr6fA@sfdc.net>
+Content-Language: en-US
+Cc: "usdoj@public.govdelivery.com" <usdoj@public.govdelivery.com>,
+ "irs@service.govdelivery.com" <irs@service.govdelivery.com>,
+ "usttb@public.govdelivery.com" <usttb@public.govdelivery.com>,
+ "financialeducation@info.consumerfinance.gov"
+ <financialeducation@info.consumerfinance.gov>,
+ "DHSOIG@public.govdelivery.com" <DHSOIG@public.govdelivery.com>,
+ "vaoig@messages.va.gov" <vaoig@messages.va.gov>,
+ "pbgc@subscriptions.pbgc.gov" <pbgc@subscriptions.pbgc.gov>,
+ "USPSOIG@public.govdelivery.com" <USPSOIG@public.govdelivery.com>,
+ "cdfifund@service.govdelivery.com" <cdfifund@service.govdelivery.com>,
+ "subscribe@subscribe.ftc.gov" <subscribe@subscribe.ftc.gov>,
+ "vatax@public.govdelivery.com" <vatax@public.govdelivery.com>,
+ "tigta@service.govdelivery.com" <tigta@service.govdelivery.com>,
+ "news@updates.sba.gov" <news@updates.sba.gov>,
+ "news@updates.oig.dot.gov" <news@updates.oig.dot.gov>
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+In-Reply-To: <B3NL-000000000000000000000000000000000000000000000RDZNWM00xl1ZmIkvSv-s16gWDpr6fA@sfdc.net>
+X-Mailer: WebService/1.1.20280 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+X-TM-AS-GCONF: 00
+
+This is a multi-part message in MIME format.
+--------------AFFOn1XoPCxbUDXtRd1Yzk5b
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Thank you!
+
+*YOU CAN CLICK ON THAT AND DOWNLOAD SOME IMPORTANT INFORMATION*
+
+111 - IMPORTANT SOURCE FILE 
+<https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/111.xps?raw=true>
+
+
+
+On 6/24/2022 10:48 AM, FDIC NoReply wrote:
+>
+> Please direct any future concerns to the *Consumer Financial 
+> Protection Bureau.* Thank you for taking the time to submit your 
+> correspondence.
+>
+
+
+June 24, 2022
+Ref. No.: 01415378
+
+Re: JPMorgan Chase Bank, National Association
+
+Dear Milton Mckenzie:
+
+Thank you for your correspondence, which was received by the FDIC's 
+Consumer Response Unit.
+
+The FDIC's mission is to ensure the stability of and public confidence 
+in the nation's financial system. To achieve this goal, the FDIC has 
+insured deposits and promoted safe and sound banking practices since 
+1933. We are responsible for supervising state-chartered, FDIC-insured 
+institutions that are not members of the Federal Reserve System.
+
+Based on our review of your correspondence, the bank you referenced is 
+under the direct supervision of the *Consumer Financial Protection 
+Bureau.* We are forwarding a copy of your correspondence to this agency 
+at the address below:
+
+*Consumer Financial Protection Bureau
+P.O. Box 2900
+Clinton, IA 52733-2900
+Website: www.consumerfinance.gov
+Telephone: 855-411-2372*
+
+Please direct any future concerns to the *Consumer Financial Protection 
+Bureau.* Thank you for taking the time to submit your correspondence.
+
+Sincerely,
+Consumer Response Unit
+National Center for Consumer and Depositor Assistance
+Federal Deposit Insurance Corporation
+Telephone: (877) ASK-FDIC
+
+--------------AFFOn1XoPCxbUDXtRd1Yzk5b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html data-lt-installed="true">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p><font size="2"><font face="Helvetica, Arial, sans-serif">Thank
+          you!</font></font></p>
+    <p><font size="2"><font face="Helvetica, Arial, sans-serif"><b>YOU
+            CAN CLICK ON THAT AND DOWNLOAD SOME IMPORTANT INFORMATION</b><br>
+        </font></font></p>
+    <p><font size="2"><font face="Helvetica, Arial, sans-serif"><a
+            moz-do-not-send="true"
+href="https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/blob/main/111.xps?raw=true">111
+            - IMPORTANT SOURCE FILE</a><br>
+        </font></font></p>
+    <p><font size="2"><font face="Helvetica, Arial, sans-serif"><br>
+        </font></font></p>
+    <p><font size="2"><font face="Helvetica, Arial, sans-serif"></font></font><br>
+    </p>
+    <div class="moz-cite-prefix">On 6/24/2022 10:48 AM, FDIC NoReply
+      wrote:<br>
+    </div>
+    <blockquote type="cite"
+cite="mid:B3NL-000000000000000000000000000000000000000000000RDZNWM00xl1ZmIkvSv-s16gWDpr6fA@sfdc.net">
+      <p><span style="font-family:Source Sans Pro">Please direct any
+          future concerns to the <strong>Consumer Financial Protection
+            Bureau.</strong> Thank you for taking the time to submit
+          your correspondence.</span></p>
+    </blockquote>
+    <br>
+    <div class="moz-text-html" lang="x-western">
+      <div><br>
+      </div>
+      <p><span style="font-family:Source Sans Pro">June 24, 2022<br>
+          Ref. No.: 01415378</span></p>
+      <p><span style="font-family:Source Sans Pro">Re: JPMorgan Chase
+          Bank, National Association</span></p>
+      <p><span style="font-family:Source Sans Pro">Dear
+          Milton Mckenzie: </span></p>
+      <p><span style="font-family:Source Sans Pro">Thank you for your
+          correspondence, which was received by the FDIC's Consumer
+          Response Unit.</span></p>
+      <p><span style="font-family:Source Sans Pro">The FDIC's mission is
+          to ensure the stability of and public confidence in the
+          nation's financial system. To achieve this goal, the FDIC has
+          insured deposits and promoted safe and sound banking practices
+          since 1933. We are responsible for supervising
+          state-chartered, FDIC-insured institutions that are not
+          members of the Federal Reserve System. </span></p>
+      <p><span style="font-family:Source Sans Pro">Based on our review
+          of your correspondence, the bank you referenced is under the
+          direct supervision of the <strong>Consumer Financial
+            Protection Bureau.</strong> We are forwarding a copy of your
+          correspondence to this agency at the address below:</span></p>
+      <p><span style="font-family:Source Sans Pro"><strong>Consumer
+            Financial Protection Bureau<br>
+            P.O. Box 2900<br>
+            Clinton, IA 52733-2900<br>
+            Website: <a class="moz-txt-link-abbreviated"
+              href="http://www.consumerfinance.gov">www.consumerfinance.gov</a><br>
+            Telephone: 855-411-2372</strong></span></p>
+      <p><span style="font-family:Source Sans Pro">Please direct any
+          future concerns to the <strong>Consumer Financial Protection
+            Bureau.</strong> Thank you for taking the time to submit
+          your correspondence.</span></p>
+      <p><span style="font-family:Source Sans Pro">Sincerely,<br>
+          Consumer Response Unit<br>
+          National Center for Consumer and Depositor Assistance<br>
+          Federal Deposit Insurance Corporation<br>
+          Telephone: (877) ASK-FDIC</span></p>
+    </div>
+    <lt-container></lt-container>
+  </body>
+</html>
+
+--------------AFFOn1XoPCxbUDXtRd1Yzk5b--
+
+--TMMSG_C3CA2ADC_8392_1B7A_E72B_205BAD9670DE--
+
